@@ -1,0 +1,13 @@
+v1.0:
+First public release.
+
+v1.1:
+Now correctly names 3d models files.
+Now produces names with padding so that natural sorting isn't needed.
+
+v1.2:
+Now unpacks subarchives.
+No longer tries to unpack font.bin, it's not an archive.
+
+v1.3:
+Now *really* doesn't unpack non archive files.
