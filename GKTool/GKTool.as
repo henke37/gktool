@@ -11,7 +11,7 @@
 		
 		internal var nds:NDS;
 		
-		private var _screen:Screen;
+		public var _screen:Screen;
 		private var _screenId:String;
 		private var screens:Object;
 		

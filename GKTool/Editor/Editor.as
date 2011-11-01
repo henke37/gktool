@@ -4,13 +4,14 @@
 	import flash.events.*;
 	import flash.utils.*;
 	import flash.text.*;
+	import flash.net.*;
 	
 	import Nitro.GK.*;
 	import Nitro.*;
 	import Nitro.Graphics.*;
 	
 	import GKTool.*;
-	import flash.net.FileReference;
+	import GKTool.BitmapEditor.Editor;
 	
 	public class Editor extends GKTool.Screen {
 		
@@ -162,23 +163,45 @@
 			while(tileList.numChildren) tileList.removeChildAt(tileList.numChildren-1);
 			
 			for each(var tile:OamTile in agregator.oams) {
-				var rend:DisplayObject=ncgr.renderOam(tile,convertedPalette,ncer.subImages);
-				if(rend.width+xPos>lineWidth) {
+				var entry:TileEntry=new TileEntry();
+				
+				entry.rendering=ncgr.renderOam(tile,convertedPalette,ncer.subImages);
+				entry.addChild(entry.rendering);
+				
+				entry.tile=tile;
+				
+				if(entry.width+xPos>lineWidth) {
 					xPos=0;
 					yPos+=currentLineHeight;
 					currentLineHeight=0;
 				}
 				
-				rend.x=xPos;
-				rend.y=yPos;
+				entry.x=xPos;
+				entry.y=yPos;
 				
-				tileList.addChild(rend);
+				entry.addEventListener(MouseEvent.CLICK,tileListClick);
 				
-				xPos+=rend.width;
-				if(currentLineHeight<rend.height) currentLineHeight=rend.height;
+				tileList.addChild(entry);
+				
+				xPos+=entry.width;
+				if(currentLineHeight<entry.height) currentLineHeight=entry.height;
 			}
 			
 			
+		}
+		
+		private function tileListClick(e:Event):void {
+			var entry:TileEntry=TileEntry(e.currentTarget);
+			trace(entry);
+			
+			var gkTool:GKTool=this.gkTool;
+			
+			gkTool.screen="BitmapEditor.Editor";
+			
+			var subEditor:GKTool.BitmapEditor.Editor=GKTool.BitmapEditor.Editor(gkTool._screen);
+			subEditor.palette=nclr.colors;
+			subEditor.loadPixels(ncgr.oamToVector(entry.tile,ncer.subImages),entry.tile.width,entry.tile.height);
+			subEditor.subPalette=entry.tile.paletteIndex;
 		}
 		
 		internal function flagRender():void {
@@ -239,5 +262,13 @@
 		}
 	}
 	
+}
+
+import flash.display.*;
+import Nitro.Graphics.*;
+
+class TileEntry extends Sprite {
+	public var rendering:DisplayObject;
+	public var tile:OamTile;
 }
 
