@@ -4,6 +4,8 @@
 	import flash.geom.*;
 	import flash.events.*;
 	
+	import Nitro.Graphics.*;
+	
 	public class Canvas extends Sprite {
 		
 		internal var pixels:Vector.<uint>;
@@ -14,11 +16,18 @@
 		private var bmd:BitmapData;
 		private var bitmap:Bitmap;
 		
+		private var tileGrid:Shape;
+		
 		private var transparent:Boolean=true;
 		
 		public function Canvas() {
 			bitmap=new Bitmap();
 			addChild(bitmap);
+			
+			tileGrid=new Shape();
+			tileGrid.blendMode=BlendMode.LAYER;
+			tileGrid.alpha=0.6;
+			addChild(tileGrid);
 			
 			addEventListener(MouseEvent.MOUSE_DOWN,mDown);
 		}
@@ -31,6 +40,8 @@
 			bitmap.bitmapData=bmd;
 			bitmapWidth=w;
 			bitmapHeight=h;
+			
+			drawGrid();
 		}
 		
 		internal function rend():void {
@@ -57,6 +68,23 @@
 			}
 			
 			bmd.unlock();
+		}
+		
+		private function drawGrid():void {
+			const g:Graphics=tileGrid.graphics;
+			
+			g.clear();
+			g.lineStyle(1,0xFF000000,1,false,LineScaleMode.NONE);
+			
+			for(var xPos:uint=Tile.width;xPos<bitmapWidth;xPos+=Tile.width) {
+				g.moveTo(xPos,0);
+				g.lineTo(xPos,bitmapHeight);
+			}
+			
+			for(var yPos:uint=Tile.height;yPos<bitmapHeight;yPos+=Tile.height) {
+				g.moveTo(0,yPos);
+				g.lineTo(bitmapWidth,yPos);
+			}
 		}
 		
 		private function mDown(e:MouseEvent):void {
