@@ -10,7 +10,9 @@
 	public class Editor extends GKTool.Screen {
 		
 		public var canvas_mc:Canvas;
+		public var colorPicker_mc:Colorpicker;
 		
+		public var hasSubPalettes:Boolean;
 		private var _subPalette:uint;
 		private var _palette:Vector.<uint>;
 		internal var convertedPalette:Vector.<uint>;;
@@ -53,6 +55,7 @@
 			removeEventListener(Event.RENDER,rend);
 			
 			canvas_mc.rend();
+			colorPicker_mc.rend();
 		}
 	}
 	

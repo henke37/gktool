@@ -2,6 +2,7 @@
 	
 	import flash.display.*;
 	import flash.geom.*;
+	import flash.events.*;
 	
 	public class Canvas extends Sprite {
 		
@@ -18,6 +19,8 @@
 		public function Canvas() {
 			bitmap=new Bitmap();
 			addChild(bitmap);
+			
+			addEventListener(MouseEvent.MOUSE_DOWN,mDown);
 		}
 		
 		private function get editor():Editor { return Editor(parent); }
@@ -55,6 +58,51 @@
 			
 			bmd.unlock();
 		}
+		
+		private function mDown(e:MouseEvent):void {
+			paintPos(e.localX,e.localY);
+			
+			addEventListener(MouseEvent.MOUSE_MOVE,mMove);
+			stage.addEventListener(MouseEvent.MOUSE_UP,mUp);
+			addEventListener(Event.REMOVED_FROM_STAGE,removed);
+		}
+		
+		private function removed(e:Event):void {
+			stopPainting();
+		}
+		
+		private function mUp(e:MouseEvent):void {
+			stopPainting();
+		}
+		
+		private function stopPainting():void {
+			removeEventListener(MouseEvent.MOUSE_MOVE,mMove);
+			stage.removeEventListener(MouseEvent.MOUSE_UP,mUp);
+			removeEventListener(Event.REMOVED_FROM_STAGE,removed);
+		}
+		
+		private function mMove(e:MouseEvent):void {
+			paintPos(e.localX,e.localY);
+		}
+		
+		private function paintPos(brushX:uint,brushY:uint):void {
+			const index:uint=brushX+brushY*bitmapWidth;
+			
+			var color:uint=editor.colorPicker_mc.selectedColor;
+			
+			pixels[index]=color;
+			
+			if(color==0 && transparent) {
+				color=0x00000000;
+			} else {					
+				color=editor.convertedPalette[color];
+				color|=0xFF000000;
+			}
+			
+			bmd.setPixel32(brushX,brushY,color);
+		}
+		
+		
 	}
 	
 }

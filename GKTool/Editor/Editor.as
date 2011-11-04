@@ -84,6 +84,8 @@
 		
 		public function loadData(nclrBytes:ByteArray,ncgrBytes:ByteArray,ncerBytes:ByteArray):void {
 			
+			editorOams=null;
+			
 			nclr=new NCLR();
 			nclr.parse(nclrBytes);
 			
@@ -199,7 +201,9 @@
 			gkTool.screen="BitmapEditor.Editor";
 			
 			var subEditor:GKTool.BitmapEditor.Editor=GKTool.BitmapEditor.Editor(gkTool._screen);
+			subEditor.hasSubPalettes=ncgr.bitDepth==4;
 			subEditor.palette=nclr.colors;
+			subEditor.subPalette=entry.tile.paletteIndex;
 			subEditor.loadPixels(ncgr.oamToVector(entry.tile,ncer.subImages),entry.tile.width,entry.tile.height);
 			subEditor.subPalette=entry.tile.paletteIndex;
 		}
