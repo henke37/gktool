@@ -32,6 +32,13 @@
 			addEventListener(MouseEvent.MOUSE_DOWN,mDown);
 		}
 		
+		public function createBlank(w:uint,h:uint):void {
+			setSize(w,h);
+			pixels=new Vector.<uint>();
+			pixels.length=w*h;
+			pixels.fixed=true;
+		}
+		
 		private function get editor():Editor { return Editor(parent); }
 		
 		internal function setSize(w:uint,h:uint):void {

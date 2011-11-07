@@ -8,14 +8,15 @@
 		private var bmd:BitmapData;
 		private var bitmap:Bitmap;
 		
-		public var selectionIndicator_mc:DisplayObject;
+		
+		public var indicators_mc:MovieClip;
 		private var selectionIndex:uint=0;
 		
 		public function Colorpicker() {
 			bmd=new BitmapData(16,16,true,0x00000000);
 			bitmap=new Bitmap(bmd);
 			addChild(bitmap);
-			addChild(selectionIndicator_mc);
+			addChild(indicators_mc);
 			
 			addEventListener(MouseEvent.CLICK,clicked);
 		}
@@ -64,8 +65,11 @@
 			var xPos:uint=selectionIndex%16;
 			var yPos:uint=selectionIndex/16+editor.subPalette;
 			
-			selectionIndicator_mc.x=xPos;
-			selectionIndicator_mc.y=yPos;
+			indicators_mc.selectionIndicator_mc.x=xPos;
+			indicators_mc.selectionIndicator_mc.y=yPos;
+			
+			indicators_mc.paletteIndicator_mc.visible=editor.hasSubPalettes;
+			indicators_mc.paletteIndicator_mc.y=editor.subPalette;
 		}
 	}
 	
