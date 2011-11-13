@@ -5,11 +5,14 @@
 	
 	import Nitro.FileSystem.*;
 	import Nitro.GK.*;
+	import Nitro.FileSystem.EasyFileSystem.IEasyFileSystem;
 	
 	
 	public class GKTool extends Sprite {
 		
 		internal var nds:NDS;
+		
+		public var easyFS:IEasyFileSystem;
 		
 		public var _screen:Screen;
 		private var _screenId:String;
@@ -52,66 +55,6 @@
 			SptExtractScreen;
 			SPTRebuildScreen;
 		}
-		
-		private var lastSubArchiveName:String,lastSubArchive:GKSubarchive;
-		private var lastArchiveName:String,cachedArchive:GKArchive;
-		private var lastFileName:String,cachedData:ByteArray;
-		
-		public function openGKPath(path:String):ByteArray {
-			var file:File=File(nds.fileSystem.resolvePath(path,true));
-			
-			var fileName:String=nds.fileSystem.getFullNameForFile(file);
-			
-			var data:ByteArray;
-			
-			if(fileName!=lastFileName) {
-				data=nds.fileSystem.openFileByReference(file);
-				lastFileName=fileName;
-				cachedData=data;
-			} else {
-				data=cachedData;
-			}
-			
-			var archiveName:String=fileName;
-			fileName=path.substr(fileName.length);
-			
-			var matches:Array=fileName.match(/^\/([0-9]+)(.*)/);
-			if(matches) {
-				var archive:GKArchive;
-				
-				if(archiveName!=lastArchiveName) {
-					archive=new GKArchive();
-					archive.parse(data);
-					cachedArchive=archive;
-					lastArchiveName=archiveName;
-				} else {
-					archive=cachedArchive;
-				}
-				
-				data=archive.open(parseInt(matches[1]));
-				fileName=matches[2];
-				archiveName+="/"+matches[1];
-			}
-			
-			matches=fileName.match(/^\/([0-9]+)(.*)/);
-			if(matches) {
-				var subArchive:GKSubarchive;
-				if(lastSubArchiveName!=archiveName) {
-					subArchive=new GKSubarchive();
-					subArchive.parse(data);
-					lastSubArchive=subArchive;
-					lastSubArchiveName=archiveName;
-				} else {
-					subArchive=lastSubArchive;
-				}
-								
-				data=subArchive.open(parseInt(matches[1]));
-				fileName=matches[2];
-			}
-			
-			return data;
-		}
-
 	}
 	
 }

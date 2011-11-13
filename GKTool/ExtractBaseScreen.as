@@ -67,7 +67,7 @@
 			gkTool.screen="MainMenu";
 		}
 		
-		private function endOperation():void {
+		protected function endOperation():void {
 			removeEventListener(Event.ENTER_FRAME,extractMoreFiles);
 			realScreen.abort_mc.visible=false;
 			realScreen.menu_mc.visible=true;

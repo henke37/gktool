@@ -2,6 +2,7 @@
 	import flash.display.*;
 	import flash.geom.*;
 	import flash.utils.*;
+	import flash.filesystem.*;
 	
 	import com.adobe.images.*;
 	
@@ -11,130 +12,130 @@
 	
 	public class GraphicsExtractScreen extends ExtractBaseScreen {
 		
-		private static const PRE_PAL_AND_SUB:uint=1;
-		private static const POST_PAL_AND_SUB:uint=2;
-		private static const POST_PAL_NO_SUB:uint=3;
-		private static const POST_PAL_NO_CER:uint=4;
-
+		private var fileList:XML;
+		private var itemList:XMLList;
+		
 		public function GraphicsExtractScreen() {
-			// constructor code
+			
+			var path:String=flash.filesystem.File.applicationDirectory.nativePath+flash.filesystem.File.separator+"fileList.xml";
+			trace(path);
+			
+			var listFile:flash.filesystem.File=new flash.filesystem.File(path);
+			var listStream:FileStream=new FileStream();
+			listStream.open(listFile,FileMode.READ);
+			
+			var listString:String=listStream.readUTFBytes(listFile.size);
+			
+			listStream.close();
+			
+			fileList=XML(listString);
+			itemList=fileList.children();
+			
 		}
 		
-		var queue:Vector.<QueueEntry>;
-		var queueEntry:QueueEntry;
-		var queuePosition:uint;
-		var archive:GKArchive;
-		var archivePosition:uint;
+		private var palette:NCLR;
+		private var convertedPalette:Vector.<uint>;
+		private var cells:NCER;
+		private var tiles:NCGR;
+		private var screen:NSCR;
 		
-		var palette:NCLR;
-		var convertedPalette:Vector.<uint>;
-		var cells:NCER;
-		var tiles:NCGR;
+		private var cellItr:uint;
+		private var itemItr:uint;
 		
-		var cellItr:uint;
-		var inSubArchive:Boolean=false;
-		
-		var fileName:String;
+		private var ncgrName:String;
+		private var nclrName:String;
+		private var ncerName:String;
+		private var nscrName:String;
 		
 		protected override function beginExtraction():uint {
-			queue=new Vector.<QueueEntry>();
+			cellItr=0;
+			return itemList.length();
+		}
 			
-			queue.push(new QueueEntry("com/bustup.bin",PRE_PAL_AND_SUB));
-			queue.push(new QueueEntry("com/mapchar.bin",PRE_PAL_AND_SUB));
-			//queue.push(new QueueEntry("com/logicbg.bin",POST_PAL_NOCER));
-			//queue.push(new QueueEntry("com/logic_keyword.bin",POST_PAL_AND_SUB));
-			//queue.push(new QueueEntry("com/cutobj.bin",POST_PAL_AND_SUB));
-			//queue.push(new QueueEntry("com/logicin.bin",POST_PAL_NO_SUB));
+		protected override function processNext():Boolean {
 			
-			var estimate:uint=0;
-			
-			checkpoints=new Vector.<uint>();
-			checkpoints.length=queue.length;
-			checkpoints.fixed=true;
-			
-			queuePosition=0;
-			
-			for each(queueEntry in queue) {
-				queueEntry.archive=new GKArchive();
-				queueEntry.archive.parse(gkTool.nds.fileSystem.openFileByName(queueEntry.file));
-				estimate+=queueEntry.archive.length;
-				checkpoints[queuePosition++]=estimate;
+			if(cellItr) {
+				if(processCell()) return true;
+				if(itemItr>=itemList.length()) return false;
 			}
 			
-			queuePosition=0;
+			var item:XML=itemList[itemItr];
 			
-			return estimate;
+			if(item.palette!=nclrName) {
+				nclrName=item.palette;
+				loadPalette(gkTool.easyFS.openFile(nclrName));
+				
+				log("Loaded palette: "+nclrName);
+			}
+			
+			if(item.graphics.length()>0 && item.graphics!=ncgrName) {
+				ncgrName=item.graphics;
+				tiles=new NCGR();
+				tiles.parse(gkTool.easyFS.openFile(ncgrName));
+				
+				log("Loaded tiles: "+ncgrName);
+			}
+			
+			if(item.cells.length()>0 && item.cells!=ncerName) {
+				ncerName=item.cells;
+				cells=new NCER();
+				cells.parse(gkTool.easyFS.openFile(ncerName));
+				
+				log("Loaded cells: "+ncerName);
+			}
+			
+			if(item.screen.length()>0 && item.screen!=nscrName) {
+				nscrName=item.screen;
+				screen=new NSCR();
+				screen.parse(gkTool.easyFS.openFile(nscrName));
+				log("Loaded screen: "+nscrName);
+			}
+			
+			var itemType:String=item.name();
+			switch(itemType) {
+				case "cellBank":
+					cellItr=0;
+					if(processCell()) return true;
+				break;
+				
+				case "picture":
+					saveBitmap(ncgrName,tiles.render(convertedPalette,0,false));
+				break;
+				
+				case "screen":
+					saveBitmap(nscrName,screen.render(tiles,convertedPalette));
+				break;
+				
+				default:
+					throw new Error("Unknown element found in fileList.xml "+item.toXMLString());
+				break;
+			}
+			
+			//trace(item);
+			
+			itemItr++;
+			
+			return itemItr<itemList.length();
 		}
 		
-		protected override function processNext():Boolean {
-			if(!archive) {
-				queueEntry=queue[queuePosition++];
-				archive=queueEntry.archive;
-				archivePosition=0;
+		private function processCell():Boolean {
+			
+			var cellR:DisplayObject=cells.rend(cellItr,convertedPalette,tiles);
+			
+			if(cellR.width==0 || cellR.height==0) {
+				log("Skipping cell # "+cellItr+" since it is empty");
+			} else {
+				saveBitmap(ncerName+"/"+cellItr,cellR);
+				
+				log("Extracted cell # "+cellItr);
 			}
 			
-			var contents:ByteArray=archive.open(archivePosition);
+			cellItr++;
 			
-			fileName=queueEntry.file+"/"+archivePosition;
-			
-			var type:String=sniffExtension(contents,fileName);
-			
-			contents.position=0;
-			
-			if(inSubArchive) {
-				nextCell();
-				
-				if(inSubArchive) return true;
-			} else if(fileName=="com/bustup.bin/112") {
-				log("Skipping special palette #"+archivePosition);
-			} else if(type=="nclr") {
-				loadPalette(contents);
-				log("loaded palette \""+fileName+"\".");
-			} else if(type=="subarchive") {
-				
-				if(fileName=="com/bustup.bin/122") {
-					loadPalette(archive.open(112));
-					log("loaded special palette # 112");
-				}
-				
-				var subArchive:GKSubarchive=new GKSubarchive();
-				subArchive.parse(contents);
-				
-				tiles=new NCGR();
-				tiles.parse(subArchive.open(2));
-				
-				cells=new NCER();
-				cells.parse(subArchive.open(0));
-				log("extracting cells from subarchive \""+fileName+"\".");
-				
+			if(cellItr>=cells.length) {
 				cellItr=0;
-				
-				if(queueEntry.mode==PRE_PAL_AND_SUB) {				
-					nextCell();
-				}
-				
-				if(inSubArchive) return true;
-			} else if(type=="ncgr") {
-				tiles=new NCGR();
-				tiles.parse(contents);
-				if(tiles.independentRenderPossible) {
-					saveBitmap(fileName,tiles.render(palette.colors));
-					log("Extracted \""+fileName+"\".");
-				} else {
-					log("Skipping \""+fileName+"\" since it can't be drawn independently.");
-				}
-			}
-			
-			
-			++archivePosition;
-			++progress;
-			
-			if(archivePosition>=archive.length) {
-				if(queuePosition>=queue.length) {
-					return false;
-				}
-				
-				archive=null;
+				itemItr++;
+				return false;
 			}
 			
 			return true;
@@ -144,22 +145,6 @@
 			palette=new NCLR();
 			palette.parse(contents);
 			convertedPalette=RGB555.paletteFromRGB555(palette.colors);
-		}
-		
-		private function nextCell():void {
-			var cellR:DisplayObject=cells.rend(cellItr,convertedPalette,tiles);
-			
-			if(cellR.width==0 || cellR.height==0) {
-				log("Skipping cell # "+cellItr+" since it is empty");
-			} else {
-				saveBitmap(fileName+"/"+cellItr,cellR);
-				
-				log("Extracted cell # "+cellItr);
-			}
-			
-			++cellItr;
-			
-			inSubArchive=cellItr<cells.length;
 		}
 		
 		private function saveBitmap(name:String,obj:DisplayObject):void {			
@@ -182,16 +167,4 @@
 
 	}
 	
-}
-import Nitro.GK.GKArchive;
-
-class QueueEntry {
-	public var file:String;
-	public var mode:uint;
-	public var archive:GKArchive;
-	
-	public function QueueEntry(f:String,m:uint) {
-		file=f;
-		mode=m;
-	}
 }

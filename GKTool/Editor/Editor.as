@@ -78,7 +78,7 @@
 		
 		public function loadFiles(nclrPath:String,ncgrPath:String,ncerPath:String):void {
 			
-			loadData(gkTool.openGKPath(nclrPath),gkTool.openGKPath(ncgrPath),gkTool.openGKPath(ncerPath));
+			loadData(gkTool.easyFS.openFile(nclrPath),gkTool.easyFS.openFile(ncgrPath),gkTool.easyFS.openFile(ncerPath));
 
 		}
 		

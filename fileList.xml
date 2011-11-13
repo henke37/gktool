@@ -1,0 +1,4452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileList>
+
+<screen>
+  <graphics>jpn/title_local.bin/0</graphics>
+  <palette>jpn/title_local.bin/1</palette>
+  <screen>jpn/title_local.bin/2</screen>
+</screen>
+
+  <picture>
+  <graphics>com/upcut.bin/0</graphics>
+  <palette>com/upcut.bin/1</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/2</graphics>
+  <palette>com/upcut.bin/3</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/4</graphics>
+  <palette>com/upcut.bin/5</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/6</graphics>
+  <palette>com/upcut.bin/7</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/8</graphics>
+  <palette>com/upcut.bin/9</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/10</graphics>
+  <palette>com/upcut.bin/11</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/12</graphics>
+  <palette>com/upcut.bin/13</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/14</graphics>
+  <palette>com/upcut.bin/15</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/16</graphics>
+  <palette>com/upcut.bin/17</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/18</graphics>
+  <palette>com/upcut.bin/19</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/20</graphics>
+  <palette>com/upcut.bin/21</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/22</graphics>
+  <palette>com/upcut.bin/23</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/24</graphics>
+  <palette>com/upcut.bin/25</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/26</graphics>
+  <palette>com/upcut.bin/27</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/28</graphics>
+  <palette>com/upcut.bin/29</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/30</graphics>
+  <palette>com/upcut.bin/31</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/32</graphics>
+  <palette>com/upcut.bin/33</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/34</graphics>
+  <palette>com/upcut.bin/35</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/36</graphics>
+  <palette>com/upcut.bin/37</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/38</graphics>
+  <palette>com/upcut.bin/39</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/42</graphics>
+  <palette>com/upcut.bin/43</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/44</graphics>
+  <palette>com/upcut.bin/45</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/46</graphics>
+  <palette>com/upcut.bin/47</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/48</graphics>
+  <palette>com/upcut.bin/49</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/50</graphics>
+  <palette>com/upcut.bin/51</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/52</graphics>
+  <palette>com/upcut.bin/53</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/54</graphics>
+  <palette>com/upcut.bin/55</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/56</graphics>
+  <palette>com/upcut.bin/57</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/58</graphics>
+  <palette>com/upcut.bin/59</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/60</graphics>
+  <palette>com/upcut.bin/61</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/62</graphics>
+  <palette>com/upcut.bin/63</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/64</graphics>
+  <palette>com/upcut.bin/65</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/66</graphics>
+  <palette>com/upcut.bin/67</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/68</graphics>
+  <palette>com/upcut.bin/69</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/70</graphics>
+  <palette>com/upcut.bin/71</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/72</graphics>
+  <palette>com/upcut.bin/73</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/74</graphics>
+  <palette>com/upcut.bin/75</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/76</graphics>
+  <palette>com/upcut.bin/77</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/78</graphics>
+  <palette>com/upcut.bin/79</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/80</graphics>
+  <palette>com/upcut.bin/81</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/82</graphics>
+  <palette>com/upcut.bin/83</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/84</graphics>
+  <palette>com/upcut.bin/85</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/86</graphics>
+  <palette>com/upcut.bin/87</palette>
+</picture>
+<screen>
+  <graphics>com/upcut.bin/88</graphics>
+  <palette>com/upcut.bin/89</palette>
+  <screen>com/upcut.bin/90</screen>
+</screen>
+<screen>
+  <graphics>com/upcut.bin/88</graphics>
+  <palette>com/upcut.bin/89</palette>
+  <screen>com/upcut.bin/91</screen>
+</screen>
+<picture>
+  <graphics>com/upcut.bin/92</graphics>
+  <palette>com/upcut.bin/93</palette>
+</picture>
+
+
+<picture>
+  <graphics>com/upcut.bin/95</graphics>
+  <palette>com/upcut.bin/96</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/97</graphics>
+  <palette>com/upcut.bin/98</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/99</graphics>
+  <palette>com/upcut.bin/100</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/101</graphics>
+  <palette>com/upcut.bin/102</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/103</graphics>
+  <palette>com/upcut.bin/104</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/105</graphics>
+  <palette>com/upcut.bin/106</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/107</graphics>
+  <palette>com/upcut.bin/108</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/109</graphics>
+  <palette>com/upcut.bin/110</palette>
+</picture>
+
+<picture>
+  <graphics>com/upcut.bin/112</graphics>
+  <palette>com/upcut.bin/113</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/114</graphics>
+  <palette>com/upcut.bin/115</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/116</graphics>
+  <palette>com/upcut.bin/117</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/118</graphics>
+  <palette>com/upcut.bin/119</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/120</graphics>
+  <palette>com/upcut.bin/121</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/122</graphics>
+  <palette>com/upcut.bin/123</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/124</graphics>
+  <palette>com/upcut.bin/125</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/126</graphics>
+  <palette>com/upcut.bin/127</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/128</graphics>
+  <palette>com/upcut.bin/129</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/130</graphics>
+  <palette>com/upcut.bin/131</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/132</graphics>
+  <palette>com/upcut.bin/133</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/134</graphics>
+  <palette>com/upcut.bin/135</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/136</graphics>
+  <palette>com/upcut.bin/137</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/138</graphics>
+  <palette>com/upcut.bin/139</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/140</graphics>
+  <palette>com/upcut.bin/141</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/142</graphics>
+  <palette>com/upcut.bin/143</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/144</graphics>
+  <palette>com/upcut.bin/145</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/146</graphics>
+  <palette>com/upcut.bin/147</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/148</graphics>
+  <palette>com/upcut.bin/149</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/150</graphics>
+  <palette>com/upcut.bin/151</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/152</graphics>
+  <palette>com/upcut.bin/153</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/154</graphics>
+  <palette>com/upcut.bin/155</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/156</graphics>
+  <palette>com/upcut.bin/157</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/158</graphics>
+  <palette>com/upcut.bin/159</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/160</graphics>
+  <palette>com/upcut.bin/161</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/162</graphics>
+  <palette>com/upcut.bin/163</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/164</graphics>
+  <palette>com/upcut.bin/165</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/166</graphics>
+  <palette>com/upcut.bin/167</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/168</graphics>
+  <palette>com/upcut.bin/169</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/170</graphics>
+  <palette>com/upcut.bin/171</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/172</graphics>
+  <palette>com/upcut.bin/173</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/174</graphics>
+  <palette>com/upcut.bin/175</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/176</graphics>
+  <palette>com/upcut.bin/177</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/178</graphics>
+  <palette>com/upcut.bin/179</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/180</graphics>
+  <palette>com/upcut.bin/181</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/182</graphics>
+  <palette>com/upcut.bin/183</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/184</graphics>
+  <palette>com/upcut.bin/185</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/186</graphics>
+  <palette>com/upcut.bin/187</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/188</graphics>
+  <palette>com/upcut.bin/189</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/190</graphics>
+  <palette>com/upcut.bin/191</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/192</graphics>
+  <palette>com/upcut.bin/193</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/194</graphics>
+  <palette>com/upcut.bin/195</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/196</graphics>
+  <palette>com/upcut.bin/197</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/198</graphics>
+  <palette>com/upcut.bin/199</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/200</graphics>
+  <palette>com/upcut.bin/201</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/202</graphics>
+  <palette>com/upcut.bin/203</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/204</graphics>
+  <palette>com/upcut.bin/205</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/206</graphics>
+  <palette>com/upcut.bin/207</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/208</graphics>
+  <palette>com/upcut.bin/209</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/210</graphics>
+  <palette>com/upcut.bin/211</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/212</graphics>
+  <palette>com/upcut.bin/213</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/214</graphics>
+  <palette>com/upcut.bin/215</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/216</graphics>
+  <palette>com/upcut.bin/217</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/218</graphics>
+  <palette>com/upcut.bin/219</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/220</graphics>
+  <palette>com/upcut.bin/221</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/222</graphics>
+  <palette>com/upcut.bin/223</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/224</graphics>
+  <palette>com/upcut.bin/225</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/226</graphics>
+  <palette>com/upcut.bin/227</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/228</graphics>
+  <palette>com/upcut.bin/229</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/230</graphics>
+  <palette>com/upcut.bin/231</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/232</graphics>
+  <palette>com/upcut.bin/233</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/234</graphics>
+  <palette>com/upcut.bin/235</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/236</graphics>
+  <palette>com/upcut.bin/237</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/238</graphics>
+  <palette>com/upcut.bin/239</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/240</graphics>
+  <palette>com/upcut.bin/241</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/242</graphics>
+  <palette>com/upcut.bin/243</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/244</graphics>
+  <palette>com/upcut.bin/245</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/246</graphics>
+  <palette>com/upcut.bin/247</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/248</graphics>
+  <palette>com/upcut.bin/249</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/250</graphics>
+  <palette>com/upcut.bin/251</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/252</graphics>
+  <palette>com/upcut.bin/253</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/254</graphics>
+  <palette>com/upcut.bin/255</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/256</graphics>
+  <palette>com/upcut.bin/257</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/258</graphics>
+  <palette>com/upcut.bin/259</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/260</graphics>
+  <palette>com/upcut.bin/261</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/262</graphics>
+  <palette>com/upcut.bin/263</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/264</graphics>
+  <palette>com/upcut.bin/265</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/266</graphics>
+  <palette>com/upcut.bin/267</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/268</graphics>
+  <palette>com/upcut.bin/269</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/270</graphics>
+  <palette>com/upcut.bin/271</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/272</graphics>
+  <palette>com/upcut.bin/273</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/274</graphics>
+  <palette>com/upcut.bin/275</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/276</graphics>
+  <palette>com/upcut.bin/277</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/278</graphics>
+  <palette>com/upcut.bin/279</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/280</graphics>
+  <palette>com/upcut.bin/281</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/282</graphics>
+  <palette>com/upcut.bin/283</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/284</graphics>
+  <palette>com/upcut.bin/285</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/286</graphics>
+  <palette>com/upcut.bin/287</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/288</graphics>
+  <palette>com/upcut.bin/289</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/290</graphics>
+  <palette>com/upcut.bin/291</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/292</graphics>
+  <palette>com/upcut.bin/293</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/294</graphics>
+  <palette>com/upcut.bin/295</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/296</graphics>
+  <palette>com/upcut.bin/297</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/298</graphics>
+  <palette>com/upcut.bin/299</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/300</graphics>
+  <palette>com/upcut.bin/301</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/302</graphics>
+  <palette>com/upcut.bin/303</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/304</graphics>
+  <palette>com/upcut.bin/305</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/306</graphics>
+  <palette>com/upcut.bin/307</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/308</graphics>
+  <palette>com/upcut.bin/309</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/310</graphics>
+  <palette>com/upcut.bin/311</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/312</graphics>
+  <palette>com/upcut.bin/313</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/314</graphics>
+  <palette>com/upcut.bin/315</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/316</graphics>
+  <palette>com/upcut.bin/317</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/318</graphics>
+  <palette>com/upcut.bin/319</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/320</graphics>
+  <palette>com/upcut.bin/321</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/322</graphics>
+  <palette>com/upcut.bin/323</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/324</graphics>
+  <palette>com/upcut.bin/325</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/326</graphics>
+  <palette>com/upcut.bin/327</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/328</graphics>
+  <palette>com/upcut.bin/329</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/330</graphics>
+  <palette>com/upcut.bin/331</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/332</graphics>
+  <palette>com/upcut.bin/333</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/334</graphics>
+  <palette>com/upcut.bin/335</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/336</graphics>
+  <palette>com/upcut.bin/337</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/338</graphics>
+  <palette>com/upcut.bin/339</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/340</graphics>
+  <palette>com/upcut.bin/341</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/342</graphics>
+  <palette>com/upcut.bin/343</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/344</graphics>
+  <palette>com/upcut.bin/345</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/346</graphics>
+  <palette>com/upcut.bin/347</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/348</graphics>
+  <palette>com/upcut.bin/349</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/350</graphics>
+  <palette>com/upcut.bin/351</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/352</graphics>
+  <palette>com/upcut.bin/353</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/354</graphics>
+  <palette>com/upcut.bin/355</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/356</graphics>
+  <palette>com/upcut.bin/357</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/358</graphics>
+  <palette>com/upcut.bin/359</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/360</graphics>
+  <palette>com/upcut.bin/361</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/362</graphics>
+  <palette>com/upcut.bin/363</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/364</graphics>
+  <palette>com/upcut.bin/365</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/366</graphics>
+  <palette>com/upcut.bin/367</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/368</graphics>
+  <palette>com/upcut.bin/369</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/370</graphics>
+  <palette>com/upcut.bin/371</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/372</graphics>
+  <palette>com/upcut.bin/373</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/374</graphics>
+  <palette>com/upcut.bin/375</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/376</graphics>
+  <palette>com/upcut.bin/377</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/378</graphics>
+  <palette>com/upcut.bin/379</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/380</graphics>
+  <palette>com/upcut.bin/381</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/382</graphics>
+  <palette>com/upcut.bin/383</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/384</graphics>
+  <palette>com/upcut.bin/385</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/386</graphics>
+  <palette>com/upcut.bin/387</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/388</graphics>
+  <palette>com/upcut.bin/389</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/390</graphics>
+  <palette>com/upcut.bin/391</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/392</graphics>
+  <palette>com/upcut.bin/393</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/394</graphics>
+  <palette>com/upcut.bin/395</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/396</graphics>
+  <palette>com/upcut.bin/397</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/398</graphics>
+  <palette>com/upcut.bin/399</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/400</graphics>
+  <palette>com/upcut.bin/401</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/402</graphics>
+  <palette>com/upcut.bin/403</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/404</graphics>
+  <palette>com/upcut.bin/405</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/406</graphics>
+  <palette>com/upcut.bin/407</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/408</graphics>
+  <palette>com/upcut.bin/409</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/410</graphics>
+  <palette>com/upcut.bin/411</palette>
+</picture>
+<picture>
+  <graphics>com/upcut.bin/412</graphics>
+  <palette>com/upcut.bin/413</palette>
+</picture>
+
+<picture>
+  <graphics>jpn/upcut_local.bin/0</graphics>
+  <palette>jpn/upcut_local.bin/1</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/2</graphics>
+  <palette>jpn/upcut_local.bin/3</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/4</graphics>
+  <palette>jpn/upcut_local.bin/5</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/6</graphics>
+  <palette>jpn/upcut_local.bin/7</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/8</graphics>
+  <palette>jpn/upcut_local.bin/9</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/10</graphics>
+  <palette>jpn/upcut_local.bin/11</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/12</graphics>
+  <palette>jpn/upcut_local.bin/13</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/14</graphics>
+  <palette>jpn/upcut_local.bin/15</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/16</graphics>
+  <palette>jpn/upcut_local.bin/17</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/18</graphics>
+  <palette>jpn/upcut_local.bin/19</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/20</graphics>
+  <palette>jpn/upcut_local.bin/21</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/22</graphics>
+  <palette>jpn/upcut_local.bin/23</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/24</graphics>
+  <palette>jpn/upcut_local.bin/25</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/26</graphics>
+  <palette>jpn/upcut_local.bin/27</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/28</graphics>
+  <palette>jpn/upcut_local.bin/29</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/30</graphics>
+  <palette>jpn/upcut_local.bin/31</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/32</graphics>
+  <palette>jpn/upcut_local.bin/33</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/34</graphics>
+  <palette>jpn/upcut_local.bin/35</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/36</graphics>
+  <palette>jpn/upcut_local.bin/37</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/38</graphics>
+  <palette>jpn/upcut_local.bin/39</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/40</graphics>
+  <palette>jpn/upcut_local.bin/41</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/42</graphics>
+  <palette>jpn/upcut_local.bin/43</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/44</graphics>
+  <palette>jpn/upcut_local.bin/45</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/46</graphics>
+  <palette>jpn/upcut_local.bin/47</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/48</graphics>
+  <palette>jpn/upcut_local.bin/49</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/50</graphics>
+  <palette>jpn/upcut_local.bin/51</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/52</graphics>
+  <palette>jpn/upcut_local.bin/53</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/54</graphics>
+  <palette>jpn/upcut_local.bin/55</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/56</graphics>
+  <palette>jpn/upcut_local.bin/57</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/58</graphics>
+  <palette>jpn/upcut_local.bin/59</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/60</graphics>
+  <palette>jpn/upcut_local.bin/61</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/62</graphics>
+  <palette>jpn/upcut_local.bin/63</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/64</graphics>
+  <palette>jpn/upcut_local.bin/65</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/66</graphics>
+  <palette>jpn/upcut_local.bin/67</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/68</graphics>
+  <palette>jpn/upcut_local.bin/69</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/70</graphics>
+  <palette>jpn/upcut_local.bin/71</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/72</graphics>
+  <palette>jpn/upcut_local.bin/73</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/74</graphics>
+  <palette>jpn/upcut_local.bin/75</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/76</graphics>
+  <palette>jpn/upcut_local.bin/77</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/78</graphics>
+  <palette>jpn/upcut_local.bin/79</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/80</graphics>
+  <palette>jpn/upcut_local.bin/81</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/82</graphics>
+  <palette>jpn/upcut_local.bin/83</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/84</graphics>
+  <palette>jpn/upcut_local.bin/85</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/86</graphics>
+  <palette>jpn/upcut_local.bin/87</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/88</graphics>
+  <palette>jpn/upcut_local.bin/89</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/90</graphics>
+  <palette>jpn/upcut_local.bin/91</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/92</graphics>
+  <palette>jpn/upcut_local.bin/93</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/94</graphics>
+  <palette>jpn/upcut_local.bin/95</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/96</graphics>
+  <palette>jpn/upcut_local.bin/97</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/98</graphics>
+  <palette>jpn/upcut_local.bin/99</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/100</graphics>
+  <palette>jpn/upcut_local.bin/101</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/102</graphics>
+  <palette>jpn/upcut_local.bin/103</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/104</graphics>
+  <palette>jpn/upcut_local.bin/105</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/106</graphics>
+  <palette>jpn/upcut_local.bin/107</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/108</graphics>
+  <palette>jpn/upcut_local.bin/109</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/110</graphics>
+  <palette>jpn/upcut_local.bin/111</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/112</graphics>
+  <palette>jpn/upcut_local.bin/113</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/114</graphics>
+  <palette>jpn/upcut_local.bin/115</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/116</graphics>
+  <palette>jpn/upcut_local.bin/117</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/118</graphics>
+  <palette>jpn/upcut_local.bin/119</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/120</graphics>
+  <palette>jpn/upcut_local.bin/121</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/122</graphics>
+  <palette>jpn/upcut_local.bin/123</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/124</graphics>
+  <palette>jpn/upcut_local.bin/125</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/126</graphics>
+  <palette>jpn/upcut_local.bin/127</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/128</graphics>
+  <palette>jpn/upcut_local.bin/129</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/130</graphics>
+  <palette>jpn/upcut_local.bin/131</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/132</graphics>
+  <palette>jpn/upcut_local.bin/133</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/134</graphics>
+  <palette>jpn/upcut_local.bin/135</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/136</graphics>
+  <palette>jpn/upcut_local.bin/137</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/138</graphics>
+  <palette>jpn/upcut_local.bin/139</palette>
+</picture>
+
+
+<picture>
+  <graphics>jpn/upcut_local.bin/200</graphics>
+  <palette>jpn/upcut_local.bin/201</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/202</graphics>
+  <palette>jpn/upcut_local.bin/203</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/204</graphics>
+  <palette>jpn/upcut_local.bin/205</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/206</graphics>
+  <palette>jpn/upcut_local.bin/207</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/208</graphics>
+  <palette>jpn/upcut_local.bin/209</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/210</graphics>
+  <palette>jpn/upcut_local.bin/211</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/212</graphics>
+  <palette>jpn/upcut_local.bin/213</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/214</graphics>
+  <palette>jpn/upcut_local.bin/215</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/216</graphics>
+  <palette>jpn/upcut_local.bin/217</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/218</graphics>
+  <palette>jpn/upcut_local.bin/219</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/220</graphics>
+  <palette>jpn/upcut_local.bin/221</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/222</graphics>
+  <palette>jpn/upcut_local.bin/223</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/224</graphics>
+  <palette>jpn/upcut_local.bin/225</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/226</graphics>
+  <palette>jpn/upcut_local.bin/227</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/228</graphics>
+  <palette>jpn/upcut_local.bin/229</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/230</graphics>
+  <palette>jpn/upcut_local.bin/231</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/232</graphics>
+  <palette>jpn/upcut_local.bin/233</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/234</graphics>
+  <palette>jpn/upcut_local.bin/235</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/236</graphics>
+  <palette>jpn/upcut_local.bin/237</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/238</graphics>
+  <palette>jpn/upcut_local.bin/239</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/240</graphics>
+  <palette>jpn/upcut_local.bin/241</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/242</graphics>
+  <palette>jpn/upcut_local.bin/243</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/244</graphics>
+  <palette>jpn/upcut_local.bin/245</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/246</graphics>
+  <palette>jpn/upcut_local.bin/247</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/248</graphics>
+  <palette>jpn/upcut_local.bin/249</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/250</graphics>
+  <palette>jpn/upcut_local.bin/251</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/252</graphics>
+  <palette>jpn/upcut_local.bin/253</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/254</graphics>
+  <palette>jpn/upcut_local.bin/255</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/256</graphics>
+  <palette>jpn/upcut_local.bin/257</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/258</graphics>
+  <palette>jpn/upcut_local.bin/259</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/260</graphics>
+  <palette>jpn/upcut_local.bin/261</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/262</graphics>
+  <palette>jpn/upcut_local.bin/263</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/264</graphics>
+  <palette>jpn/upcut_local.bin/265</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/266</graphics>
+  <palette>jpn/upcut_local.bin/267</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/268</graphics>
+  <palette>jpn/upcut_local.bin/269</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/270</graphics>
+  <palette>jpn/upcut_local.bin/271</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/272</graphics>
+  <palette>jpn/upcut_local.bin/273</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/274</graphics>
+  <palette>jpn/upcut_local.bin/275</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/276</graphics>
+  <palette>jpn/upcut_local.bin/277</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/278</graphics>
+  <palette>jpn/upcut_local.bin/279</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/280</graphics>
+  <palette>jpn/upcut_local.bin/281</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/282</graphics>
+  <palette>jpn/upcut_local.bin/283</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/284</graphics>
+  <palette>jpn/upcut_local.bin/285</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/286</graphics>
+  <palette>jpn/upcut_local.bin/287</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/288</graphics>
+  <palette>jpn/upcut_local.bin/289</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/290</graphics>
+  <palette>jpn/upcut_local.bin/291</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/292</graphics>
+  <palette>jpn/upcut_local.bin/293</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/294</graphics>
+  <palette>jpn/upcut_local.bin/295</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/296</graphics>
+  <palette>jpn/upcut_local.bin/297</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/298</graphics>
+  <palette>jpn/upcut_local.bin/299</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/300</graphics>
+  <palette>jpn/upcut_local.bin/301</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/302</graphics>
+  <palette>jpn/upcut_local.bin/303</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/304</graphics>
+  <palette>jpn/upcut_local.bin/305</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/306</graphics>
+  <palette>jpn/upcut_local.bin/307</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/308</graphics>
+  <palette>jpn/upcut_local.bin/309</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/310</graphics>
+  <palette>jpn/upcut_local.bin/311</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/312</graphics>
+  <palette>jpn/upcut_local.bin/313</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/314</graphics>
+  <palette>jpn/upcut_local.bin/315</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/316</graphics>
+  <palette>jpn/upcut_local.bin/317</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/318</graphics>
+  <palette>jpn/upcut_local.bin/319</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/320</graphics>
+  <palette>jpn/upcut_local.bin/321</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/322</graphics>
+  <palette>jpn/upcut_local.bin/323</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/324</graphics>
+  <palette>jpn/upcut_local.bin/325</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/326</graphics>
+  <palette>jpn/upcut_local.bin/327</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/328</graphics>
+  <palette>jpn/upcut_local.bin/329</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/330</graphics>
+  <palette>jpn/upcut_local.bin/331</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/332</graphics>
+  <palette>jpn/upcut_local.bin/333</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/334</graphics>
+  <palette>jpn/upcut_local.bin/335</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/336</graphics>
+  <palette>jpn/upcut_local.bin/337</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/338</graphics>
+  <palette>jpn/upcut_local.bin/339</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/340</graphics>
+  <palette>jpn/upcut_local.bin/341</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/342</graphics>
+  <palette>jpn/upcut_local.bin/343</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/344</graphics>
+  <palette>jpn/upcut_local.bin/345</palette>
+</picture>
+<picture>
+  <graphics>jpn/upcut_local.bin/346</graphics>
+  <palette>jpn/upcut_local.bin/347</palette>
+</picture>
+
+
+
+  <screen>
+    <screen>com/logo.bin/2</screen>
+    <graphics>com/logo.bin/0</graphics>
+    <palette>com/logo.bin/1</palette>
+  </screen>
+  <screen>
+    <screen>com/logo.bin/5</screen>
+    <graphics>com/logo.bin/3</graphics>
+    <palette>com/logo.bin/4</palette>
+  </screen>
+  <cellBank>
+    <palette>com/bustup.bin/0</palette>
+    <graphics>com/bustup.bin/1/2</graphics>
+    <cells>com/bustup.bin/1/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/0</palette>
+    <graphics>com/bustup.bin/2/2</graphics>
+    <cells>com/bustup.bin/2/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/0</palette>
+    <graphics>com/bustup.bin/3/2</graphics>
+    <cells>com/bustup.bin/3/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/0</palette>
+    <graphics>com/bustup.bin/4/2</graphics>
+    <cells>com/bustup.bin/4/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/0</palette>
+    <graphics>com/bustup.bin/5/2</graphics>
+    <cells>com/bustup.bin/5/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/0</palette>
+    <graphics>com/bustup.bin/6/2</graphics>
+    <cells>com/bustup.bin/6/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/0</palette>
+    <graphics>com/bustup.bin/7/2</graphics>
+    <cells>com/bustup.bin/7/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/8</palette>
+    <graphics>com/bustup.bin/9/2</graphics>
+    <cells>com/bustup.bin/9/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/8</palette>
+    <graphics>com/bustup.bin/10/2</graphics>
+    <cells>com/bustup.bin/10/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/8</palette>
+    <graphics>com/bustup.bin/11/2</graphics>
+    <cells>com/bustup.bin/11/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/8</palette>
+    <graphics>com/bustup.bin/12/2</graphics>
+    <cells>com/bustup.bin/12/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/14/2</graphics>
+    <cells>com/bustup.bin/14/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/15/2</graphics>
+    <cells>com/bustup.bin/15/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/16/2</graphics>
+    <cells>com/bustup.bin/16/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/17/2</graphics>
+    <cells>com/bustup.bin/17/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/18/2</graphics>
+    <cells>com/bustup.bin/18/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/19/2</graphics>
+    <cells>com/bustup.bin/19/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/20/2</graphics>
+    <cells>com/bustup.bin/20/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/21/2</graphics>
+    <cells>com/bustup.bin/21/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/13</palette>
+    <graphics>com/bustup.bin/22/2</graphics>
+    <cells>com/bustup.bin/22/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/23</palette>
+    <graphics>com/bustup.bin/24/2</graphics>
+    <cells>com/bustup.bin/24/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/23</palette>
+    <graphics>com/bustup.bin/25/2</graphics>
+    <cells>com/bustup.bin/25/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/23</palette>
+    <graphics>com/bustup.bin/26/2</graphics>
+    <cells>com/bustup.bin/26/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/23</palette>
+    <graphics>com/bustup.bin/27/2</graphics>
+    <cells>com/bustup.bin/27/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/23</palette>
+    <graphics>com/bustup.bin/28/2</graphics>
+    <cells>com/bustup.bin/28/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/30/2</graphics>
+    <cells>com/bustup.bin/30/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/31/2</graphics>
+    <cells>com/bustup.bin/31/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/32/2</graphics>
+    <cells>com/bustup.bin/32/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/33/2</graphics>
+    <cells>com/bustup.bin/33/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/34/2</graphics>
+    <cells>com/bustup.bin/34/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/35/2</graphics>
+    <cells>com/bustup.bin/35/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/36/2</graphics>
+    <cells>com/bustup.bin/36/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/37/2</graphics>
+    <cells>com/bustup.bin/37/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/29</palette>
+    <graphics>com/bustup.bin/38/2</graphics>
+    <cells>com/bustup.bin/38/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/40/2</graphics>
+    <cells>com/bustup.bin/40/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/41/2</graphics>
+    <cells>com/bustup.bin/41/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/42/2</graphics>
+    <cells>com/bustup.bin/42/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/43/2</graphics>
+    <cells>com/bustup.bin/43/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/44/2</graphics>
+    <cells>com/bustup.bin/44/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/45/2</graphics>
+    <cells>com/bustup.bin/45/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/46/2</graphics>
+    <cells>com/bustup.bin/46/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/47/2</graphics>
+    <cells>com/bustup.bin/47/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/39</palette>
+    <graphics>com/bustup.bin/48/2</graphics>
+    <cells>com/bustup.bin/48/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/49</palette>
+    <graphics>com/bustup.bin/50/2</graphics>
+    <cells>com/bustup.bin/50/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/49</palette>
+    <graphics>com/bustup.bin/51/2</graphics>
+    <cells>com/bustup.bin/51/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/49</palette>
+    <graphics>com/bustup.bin/52/2</graphics>
+    <cells>com/bustup.bin/52/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/49</palette>
+    <graphics>com/bustup.bin/53/2</graphics>
+    <cells>com/bustup.bin/53/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/55/2</graphics>
+    <cells>com/bustup.bin/55/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/56/2</graphics>
+    <cells>com/bustup.bin/56/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/57/2</graphics>
+    <cells>com/bustup.bin/57/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/58/2</graphics>
+    <cells>com/bustup.bin/58/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/59/2</graphics>
+    <cells>com/bustup.bin/59/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/60/2</graphics>
+    <cells>com/bustup.bin/60/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/61/2</graphics>
+    <cells>com/bustup.bin/61/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/54</palette>
+    <graphics>com/bustup.bin/62/2</graphics>
+    <cells>com/bustup.bin/62/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/64/2</graphics>
+    <cells>com/bustup.bin/64/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/65/2</graphics>
+    <cells>com/bustup.bin/65/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/66/2</graphics>
+    <cells>com/bustup.bin/66/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/67/2</graphics>
+    <cells>com/bustup.bin/67/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/68/2</graphics>
+    <cells>com/bustup.bin/68/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/69/2</graphics>
+    <cells>com/bustup.bin/69/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/70/2</graphics>
+    <cells>com/bustup.bin/70/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/63</palette>
+    <graphics>com/bustup.bin/71/2</graphics>
+    <cells>com/bustup.bin/71/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/72</palette>
+    <graphics>com/bustup.bin/73/2</graphics>
+    <cells>com/bustup.bin/73/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/72</palette>
+    <graphics>com/bustup.bin/74/2</graphics>
+    <cells>com/bustup.bin/74/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/72</palette>
+    <graphics>com/bustup.bin/75/2</graphics>
+    <cells>com/bustup.bin/75/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/72</palette>
+    <graphics>com/bustup.bin/76/2</graphics>
+    <cells>com/bustup.bin/76/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/72</palette>
+    <graphics>com/bustup.bin/77/2</graphics>
+    <cells>com/bustup.bin/77/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/72</palette>
+    <graphics>com/bustup.bin/78/2</graphics>
+    <cells>com/bustup.bin/78/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/79</palette>
+    <graphics>com/bustup.bin/80/2</graphics>
+    <cells>com/bustup.bin/80/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/79</palette>
+    <graphics>com/bustup.bin/81/2</graphics>
+    <cells>com/bustup.bin/81/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/79</palette>
+    <graphics>com/bustup.bin/82/2</graphics>
+    <cells>com/bustup.bin/82/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/79</palette>
+    <graphics>com/bustup.bin/83/2</graphics>
+    <cells>com/bustup.bin/83/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/79</palette>
+    <graphics>com/bustup.bin/84/2</graphics>
+    <cells>com/bustup.bin/84/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/79</palette>
+    <graphics>com/bustup.bin/85/2</graphics>
+    <cells>com/bustup.bin/85/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/86</palette>
+    <graphics>com/bustup.bin/87/2</graphics>
+    <cells>com/bustup.bin/87/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/86</palette>
+    <graphics>com/bustup.bin/88/2</graphics>
+    <cells>com/bustup.bin/88/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/86</palette>
+    <graphics>com/bustup.bin/89/2</graphics>
+    <cells>com/bustup.bin/89/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/90</palette>
+    <graphics>com/bustup.bin/91/2</graphics>
+    <cells>com/bustup.bin/91/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/90</palette>
+    <graphics>com/bustup.bin/92/2</graphics>
+    <cells>com/bustup.bin/92/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/90</palette>
+    <graphics>com/bustup.bin/93/2</graphics>
+    <cells>com/bustup.bin/93/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/90</palette>
+    <graphics>com/bustup.bin/94/2</graphics>
+    <cells>com/bustup.bin/94/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/90</palette>
+    <graphics>com/bustup.bin/95/2</graphics>
+    <cells>com/bustup.bin/95/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/96</palette>
+    <graphics>com/bustup.bin/97/2</graphics>
+    <cells>com/bustup.bin/97/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/96</palette>
+    <graphics>com/bustup.bin/98/2</graphics>
+    <cells>com/bustup.bin/98/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/96</palette>
+    <graphics>com/bustup.bin/99/2</graphics>
+    <cells>com/bustup.bin/99/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/96</palette>
+    <graphics>com/bustup.bin/100/2</graphics>
+    <cells>com/bustup.bin/100/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/102/2</graphics>
+    <cells>com/bustup.bin/102/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/103/2</graphics>
+    <cells>com/bustup.bin/103/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/104/2</graphics>
+    <cells>com/bustup.bin/104/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/105/2</graphics>
+    <cells>com/bustup.bin/105/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/106/2</graphics>
+    <cells>com/bustup.bin/106/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/107/2</graphics>
+    <cells>com/bustup.bin/107/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/108/2</graphics>
+    <cells>com/bustup.bin/108/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/109/2</graphics>
+    <cells>com/bustup.bin/109/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/101</palette>
+    <graphics>com/bustup.bin/110/2</graphics>
+    <cells>com/bustup.bin/110/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/113/2</graphics>
+    <cells>com/bustup.bin/113/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/114/2</graphics>
+    <cells>com/bustup.bin/114/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/115/2</graphics>
+    <cells>com/bustup.bin/115/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/116/2</graphics>
+    <cells>com/bustup.bin/116/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/117/2</graphics>
+    <cells>com/bustup.bin/117/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/118/2</graphics>
+    <cells>com/bustup.bin/118/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/119/2</graphics>
+    <cells>com/bustup.bin/119/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/120/2</graphics>
+    <cells>com/bustup.bin/120/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/111</palette>
+    <graphics>com/bustup.bin/121/2</graphics>
+    <cells>com/bustup.bin/121/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/112</palette>
+    <graphics>com/bustup.bin/122/2</graphics>
+    <cells>com/bustup.bin/122/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/123</palette>
+    <graphics>com/bustup.bin/124/2</graphics>
+    <cells>com/bustup.bin/124/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/123</palette>
+    <graphics>com/bustup.bin/125/2</graphics>
+    <cells>com/bustup.bin/125/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/123</palette>
+    <graphics>com/bustup.bin/126/2</graphics>
+    <cells>com/bustup.bin/126/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/123</palette>
+    <graphics>com/bustup.bin/127/2</graphics>
+    <cells>com/bustup.bin/127/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/123</palette>
+    <graphics>com/bustup.bin/128/2</graphics>
+    <cells>com/bustup.bin/128/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/123</palette>
+    <graphics>com/bustup.bin/129/2</graphics>
+    <cells>com/bustup.bin/129/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/130</palette>
+    <graphics>com/bustup.bin/131/2</graphics>
+    <cells>com/bustup.bin/131/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/130</palette>
+    <graphics>com/bustup.bin/132/2</graphics>
+    <cells>com/bustup.bin/132/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/130</palette>
+    <graphics>com/bustup.bin/133/2</graphics>
+    <cells>com/bustup.bin/133/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/134</palette>
+    <graphics>com/bustup.bin/135/2</graphics>
+    <cells>com/bustup.bin/135/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/134</palette>
+    <graphics>com/bustup.bin/136/2</graphics>
+    <cells>com/bustup.bin/136/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/134</palette>
+    <graphics>com/bustup.bin/137/2</graphics>
+    <cells>com/bustup.bin/137/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/134</palette>
+    <graphics>com/bustup.bin/138/2</graphics>
+    <cells>com/bustup.bin/138/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/134</palette>
+    <graphics>com/bustup.bin/139/2</graphics>
+    <cells>com/bustup.bin/139/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/134</palette>
+    <graphics>com/bustup.bin/140/2</graphics>
+    <cells>com/bustup.bin/140/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/141</palette>
+    <graphics>com/bustup.bin/142/2</graphics>
+    <cells>com/bustup.bin/142/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/141</palette>
+    <graphics>com/bustup.bin/143/2</graphics>
+    <cells>com/bustup.bin/143/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/141</palette>
+    <graphics>com/bustup.bin/144/2</graphics>
+    <cells>com/bustup.bin/144/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/141</palette>
+    <graphics>com/bustup.bin/145/2</graphics>
+    <cells>com/bustup.bin/145/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/141</palette>
+    <graphics>com/bustup.bin/146/2</graphics>
+    <cells>com/bustup.bin/146/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/141</palette>
+    <graphics>com/bustup.bin/147/2</graphics>
+    <cells>com/bustup.bin/147/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/149/2</graphics>
+    <cells>com/bustup.bin/149/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/150/2</graphics>
+    <cells>com/bustup.bin/150/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/151/2</graphics>
+    <cells>com/bustup.bin/151/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/152/2</graphics>
+    <cells>com/bustup.bin/152/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/153/2</graphics>
+    <cells>com/bustup.bin/153/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/154/2</graphics>
+    <cells>com/bustup.bin/154/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/155/2</graphics>
+    <cells>com/bustup.bin/155/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/156/2</graphics>
+    <cells>com/bustup.bin/156/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/157/2</graphics>
+    <cells>com/bustup.bin/157/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/158/2</graphics>
+    <cells>com/bustup.bin/158/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/159/2</graphics>
+    <cells>com/bustup.bin/159/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/148</palette>
+    <graphics>com/bustup.bin/160/2</graphics>
+    <cells>com/bustup.bin/160/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/162/2</graphics>
+    <cells>com/bustup.bin/162/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/163/2</graphics>
+    <cells>com/bustup.bin/163/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/164/2</graphics>
+    <cells>com/bustup.bin/164/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/165/2</graphics>
+    <cells>com/bustup.bin/165/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/166/2</graphics>
+    <cells>com/bustup.bin/166/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/167/2</graphics>
+    <cells>com/bustup.bin/167/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/168/2</graphics>
+    <cells>com/bustup.bin/168/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/169/2</graphics>
+    <cells>com/bustup.bin/169/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/161</palette>
+    <graphics>com/bustup.bin/170/2</graphics>
+    <cells>com/bustup.bin/170/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/171</palette>
+    <graphics>com/bustup.bin/172/2</graphics>
+    <cells>com/bustup.bin/172/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/171</palette>
+    <graphics>com/bustup.bin/173/2</graphics>
+    <cells>com/bustup.bin/173/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/171</palette>
+    <graphics>com/bustup.bin/174/2</graphics>
+    <cells>com/bustup.bin/174/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/171</palette>
+    <graphics>com/bustup.bin/175/2</graphics>
+    <cells>com/bustup.bin/175/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/171</palette>
+    <graphics>com/bustup.bin/176/2</graphics>
+    <cells>com/bustup.bin/176/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/171</palette>
+    <graphics>com/bustup.bin/177/2</graphics>
+    <cells>com/bustup.bin/177/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/178</palette>
+    <graphics>com/bustup.bin/179/2</graphics>
+    <cells>com/bustup.bin/179/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/178</palette>
+    <graphics>com/bustup.bin/180/2</graphics>
+    <cells>com/bustup.bin/180/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/178</palette>
+    <graphics>com/bustup.bin/181/2</graphics>
+    <cells>com/bustup.bin/181/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/178</palette>
+    <graphics>com/bustup.bin/182/2</graphics>
+    <cells>com/bustup.bin/182/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/178</palette>
+    <graphics>com/bustup.bin/183/2</graphics>
+    <cells>com/bustup.bin/183/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/184</palette>
+    <graphics>com/bustup.bin/185/2</graphics>
+    <cells>com/bustup.bin/185/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/186</palette>
+    <graphics>com/bustup.bin/187/2</graphics>
+    <cells>com/bustup.bin/187/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/186</palette>
+    <graphics>com/bustup.bin/188/2</graphics>
+    <cells>com/bustup.bin/188/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/186</palette>
+    <graphics>com/bustup.bin/189/2</graphics>
+    <cells>com/bustup.bin/189/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/186</palette>
+    <graphics>com/bustup.bin/190/2</graphics>
+    <cells>com/bustup.bin/190/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/191</palette>
+    <graphics>com/bustup.bin/192/2</graphics>
+    <cells>com/bustup.bin/192/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/191</palette>
+    <graphics>com/bustup.bin/193/2</graphics>
+    <cells>com/bustup.bin/193/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/194</palette>
+    <graphics>com/bustup.bin/195/2</graphics>
+    <cells>com/bustup.bin/195/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/194</palette>
+    <graphics>com/bustup.bin/196/2</graphics>
+    <cells>com/bustup.bin/196/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/198/2</graphics>
+    <cells>com/bustup.bin/198/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/199/2</graphics>
+    <cells>com/bustup.bin/199/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/200/2</graphics>
+    <cells>com/bustup.bin/200/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/201/2</graphics>
+    <cells>com/bustup.bin/201/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/202/2</graphics>
+    <cells>com/bustup.bin/202/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/203/2</graphics>
+    <cells>com/bustup.bin/203/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/204/2</graphics>
+    <cells>com/bustup.bin/204/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/197</palette>
+    <graphics>com/bustup.bin/205/2</graphics>
+    <cells>com/bustup.bin/205/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/206</palette>
+    <graphics>com/bustup.bin/207/2</graphics>
+    <cells>com/bustup.bin/207/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/206</palette>
+    <graphics>com/bustup.bin/208/2</graphics>
+    <cells>com/bustup.bin/208/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/206</palette>
+    <graphics>com/bustup.bin/209/2</graphics>
+    <cells>com/bustup.bin/209/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/210</palette>
+    <graphics>com/bustup.bin/211/2</graphics>
+    <cells>com/bustup.bin/211/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/210</palette>
+    <graphics>com/bustup.bin/212/2</graphics>
+    <cells>com/bustup.bin/212/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/210</palette>
+    <graphics>com/bustup.bin/213/2</graphics>
+    <cells>com/bustup.bin/213/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/210</palette>
+    <graphics>com/bustup.bin/214/2</graphics>
+    <cells>com/bustup.bin/214/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/210</palette>
+    <graphics>com/bustup.bin/215/2</graphics>
+    <cells>com/bustup.bin/215/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/216</palette>
+    <graphics>com/bustup.bin/217/2</graphics>
+    <cells>com/bustup.bin/217/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/216</palette>
+    <graphics>com/bustup.bin/218/2</graphics>
+    <cells>com/bustup.bin/218/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/216</palette>
+    <graphics>com/bustup.bin/219/2</graphics>
+    <cells>com/bustup.bin/219/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/216</palette>
+    <graphics>com/bustup.bin/220/2</graphics>
+    <cells>com/bustup.bin/220/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/216</palette>
+    <graphics>com/bustup.bin/221/2</graphics>
+    <cells>com/bustup.bin/221/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/216</palette>
+    <graphics>com/bustup.bin/222/2</graphics>
+    <cells>com/bustup.bin/222/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/224/2</graphics>
+    <cells>com/bustup.bin/224/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/225/2</graphics>
+    <cells>com/bustup.bin/225/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/226/2</graphics>
+    <cells>com/bustup.bin/226/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/227/2</graphics>
+    <cells>com/bustup.bin/227/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/228/2</graphics>
+    <cells>com/bustup.bin/228/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/229/2</graphics>
+    <cells>com/bustup.bin/229/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/230/2</graphics>
+    <cells>com/bustup.bin/230/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/231/2</graphics>
+    <cells>com/bustup.bin/231/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/232/2</graphics>
+    <cells>com/bustup.bin/232/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/233/2</graphics>
+    <cells>com/bustup.bin/233/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/234/2</graphics>
+    <cells>com/bustup.bin/234/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/223</palette>
+    <graphics>com/bustup.bin/235/2</graphics>
+    <cells>com/bustup.bin/235/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/236</palette>
+    <graphics>com/bustup.bin/237/2</graphics>
+    <cells>com/bustup.bin/237/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/236</palette>
+    <graphics>com/bustup.bin/238/2</graphics>
+    <cells>com/bustup.bin/238/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/236</palette>
+    <graphics>com/bustup.bin/239/2</graphics>
+    <cells>com/bustup.bin/239/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/240</palette>
+    <graphics>com/bustup.bin/241/2</graphics>
+    <cells>com/bustup.bin/241/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/240</palette>
+    <graphics>com/bustup.bin/242/2</graphics>
+    <cells>com/bustup.bin/242/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/240</palette>
+    <graphics>com/bustup.bin/243/2</graphics>
+    <cells>com/bustup.bin/243/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/240</palette>
+    <graphics>com/bustup.bin/244/2</graphics>
+    <cells>com/bustup.bin/244/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/240</palette>
+    <graphics>com/bustup.bin/245/2</graphics>
+    <cells>com/bustup.bin/245/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/246</palette>
+    <graphics>com/bustup.bin/247/2</graphics>
+    <cells>com/bustup.bin/247/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/246</palette>
+    <graphics>com/bustup.bin/248/2</graphics>
+    <cells>com/bustup.bin/248/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/246</palette>
+    <graphics>com/bustup.bin/249/2</graphics>
+    <cells>com/bustup.bin/249/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/246</palette>
+    <graphics>com/bustup.bin/250/2</graphics>
+    <cells>com/bustup.bin/250/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/251</palette>
+    <graphics>com/bustup.bin/252/2</graphics>
+    <cells>com/bustup.bin/252/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/251</palette>
+    <graphics>com/bustup.bin/253/2</graphics>
+    <cells>com/bustup.bin/253/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/251</palette>
+    <graphics>com/bustup.bin/254/2</graphics>
+    <cells>com/bustup.bin/254/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/251</palette>
+    <graphics>com/bustup.bin/255/2</graphics>
+    <cells>com/bustup.bin/255/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/256</palette>
+    <graphics>com/bustup.bin/257/2</graphics>
+    <cells>com/bustup.bin/257/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/256</palette>
+    <graphics>com/bustup.bin/258/2</graphics>
+    <cells>com/bustup.bin/258/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/256</palette>
+    <graphics>com/bustup.bin/259/2</graphics>
+    <cells>com/bustup.bin/259/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/256</palette>
+    <graphics>com/bustup.bin/260/2</graphics>
+    <cells>com/bustup.bin/260/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/256</palette>
+    <graphics>com/bustup.bin/261/2</graphics>
+    <cells>com/bustup.bin/261/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/256</palette>
+    <graphics>com/bustup.bin/262/2</graphics>
+    <cells>com/bustup.bin/262/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/263</palette>
+    <graphics>com/bustup.bin/264/2</graphics>
+    <cells>com/bustup.bin/264/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/266/2</graphics>
+    <cells>com/bustup.bin/266/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/267/2</graphics>
+    <cells>com/bustup.bin/267/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/268/2</graphics>
+    <cells>com/bustup.bin/268/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/269/2</graphics>
+    <cells>com/bustup.bin/269/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/270/2</graphics>
+    <cells>com/bustup.bin/270/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/271/2</graphics>
+    <cells>com/bustup.bin/271/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/272/2</graphics>
+    <cells>com/bustup.bin/272/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/265</palette>
+    <graphics>com/bustup.bin/273/2</graphics>
+    <cells>com/bustup.bin/273/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/bustup.bin/274</palette>
+    <graphics>com/bustup.bin/275/2</graphics>
+    <cells>com/bustup.bin/275/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/1/2</graphics>
+    <cells>com/mapchar.bin/1/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/2/2</graphics>
+    <cells>com/mapchar.bin/2/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/3/2</graphics>
+    <cells>com/mapchar.bin/3/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/4/2</graphics>
+    <cells>com/mapchar.bin/4/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/5/2</graphics>
+    <cells>com/mapchar.bin/5/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/6/2</graphics>
+    <cells>com/mapchar.bin/6/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/7/2</graphics>
+    <cells>com/mapchar.bin/7/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/8/2</graphics>
+    <cells>com/mapchar.bin/8/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/9/2</graphics>
+    <cells>com/mapchar.bin/9/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/10/2</graphics>
+    <cells>com/mapchar.bin/10/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/11/2</graphics>
+    <cells>com/mapchar.bin/11/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/12/2</graphics>
+    <cells>com/mapchar.bin/12/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/13/2</graphics>
+    <cells>com/mapchar.bin/13/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/14/2</graphics>
+    <cells>com/mapchar.bin/14/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/15/2</graphics>
+    <cells>com/mapchar.bin/15/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/16/2</graphics>
+    <cells>com/mapchar.bin/16/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/17/2</graphics>
+    <cells>com/mapchar.bin/17/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/18/2</graphics>
+    <cells>com/mapchar.bin/18/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/19/2</graphics>
+    <cells>com/mapchar.bin/19/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/20/2</graphics>
+    <cells>com/mapchar.bin/20/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/21/2</graphics>
+    <cells>com/mapchar.bin/21/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/22/2</graphics>
+    <cells>com/mapchar.bin/22/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/23/2</graphics>
+    <cells>com/mapchar.bin/23/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/24/2</graphics>
+    <cells>com/mapchar.bin/24/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/25/2</graphics>
+    <cells>com/mapchar.bin/25/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/26/2</graphics>
+    <cells>com/mapchar.bin/26/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/0</palette>
+    <graphics>com/mapchar.bin/27/2</graphics>
+    <cells>com/mapchar.bin/27/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/29/2</graphics>
+    <cells>com/mapchar.bin/29/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/30/2</graphics>
+    <cells>com/mapchar.bin/30/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/31/2</graphics>
+    <cells>com/mapchar.bin/31/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/32/2</graphics>
+    <cells>com/mapchar.bin/32/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/33/2</graphics>
+    <cells>com/mapchar.bin/33/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/34/2</graphics>
+    <cells>com/mapchar.bin/34/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/35/2</graphics>
+    <cells>com/mapchar.bin/35/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/36/2</graphics>
+    <cells>com/mapchar.bin/36/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/37/2</graphics>
+    <cells>com/mapchar.bin/37/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/38/2</graphics>
+    <cells>com/mapchar.bin/38/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/39/2</graphics>
+    <cells>com/mapchar.bin/39/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/40/2</graphics>
+    <cells>com/mapchar.bin/40/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/41/2</graphics>
+    <cells>com/mapchar.bin/41/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/42/2</graphics>
+    <cells>com/mapchar.bin/42/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/43/2</graphics>
+    <cells>com/mapchar.bin/43/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/44/2</graphics>
+    <cells>com/mapchar.bin/44/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/45/2</graphics>
+    <cells>com/mapchar.bin/45/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/46/2</graphics>
+    <cells>com/mapchar.bin/46/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/47/2</graphics>
+    <cells>com/mapchar.bin/47/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/48/2</graphics>
+    <cells>com/mapchar.bin/48/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/49/2</graphics>
+    <cells>com/mapchar.bin/49/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/50/2</graphics>
+    <cells>com/mapchar.bin/50/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/51/2</graphics>
+    <cells>com/mapchar.bin/51/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/52/2</graphics>
+    <cells>com/mapchar.bin/52/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/53/2</graphics>
+    <cells>com/mapchar.bin/53/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/28</palette>
+    <graphics>com/mapchar.bin/54/2</graphics>
+    <cells>com/mapchar.bin/54/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/56/2</graphics>
+    <cells>com/mapchar.bin/56/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/57/2</graphics>
+    <cells>com/mapchar.bin/57/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/58/2</graphics>
+    <cells>com/mapchar.bin/58/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/59/2</graphics>
+    <cells>com/mapchar.bin/59/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/60/2</graphics>
+    <cells>com/mapchar.bin/60/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/61/2</graphics>
+    <cells>com/mapchar.bin/61/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/62/2</graphics>
+    <cells>com/mapchar.bin/62/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/63/2</graphics>
+    <cells>com/mapchar.bin/63/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/64/2</graphics>
+    <cells>com/mapchar.bin/64/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/65/2</graphics>
+    <cells>com/mapchar.bin/65/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/66/2</graphics>
+    <cells>com/mapchar.bin/66/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/67/2</graphics>
+    <cells>com/mapchar.bin/67/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/68/2</graphics>
+    <cells>com/mapchar.bin/68/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/69/2</graphics>
+    <cells>com/mapchar.bin/69/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/70/2</graphics>
+    <cells>com/mapchar.bin/70/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/71/2</graphics>
+    <cells>com/mapchar.bin/71/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/72/2</graphics>
+    <cells>com/mapchar.bin/72/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/73/2</graphics>
+    <cells>com/mapchar.bin/73/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/74/2</graphics>
+    <cells>com/mapchar.bin/74/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/75/2</graphics>
+    <cells>com/mapchar.bin/75/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/76/2</graphics>
+    <cells>com/mapchar.bin/76/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/77/2</graphics>
+    <cells>com/mapchar.bin/77/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/78/2</graphics>
+    <cells>com/mapchar.bin/78/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/79/2</graphics>
+    <cells>com/mapchar.bin/79/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/80/2</graphics>
+    <cells>com/mapchar.bin/80/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/81/2</graphics>
+    <cells>com/mapchar.bin/81/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/82/2</graphics>
+    <cells>com/mapchar.bin/82/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/83/2</graphics>
+    <cells>com/mapchar.bin/83/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/84/2</graphics>
+    <cells>com/mapchar.bin/84/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/85/2</graphics>
+    <cells>com/mapchar.bin/85/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/86/2</graphics>
+    <cells>com/mapchar.bin/86/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/87/2</graphics>
+    <cells>com/mapchar.bin/87/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/88/2</graphics>
+    <cells>com/mapchar.bin/88/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/89/2</graphics>
+    <cells>com/mapchar.bin/89/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/90/2</graphics>
+    <cells>com/mapchar.bin/90/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/55</palette>
+    <graphics>com/mapchar.bin/91/2</graphics>
+    <cells>com/mapchar.bin/91/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/93/2</graphics>
+    <cells>com/mapchar.bin/93/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/94/2</graphics>
+    <cells>com/mapchar.bin/94/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/95/2</graphics>
+    <cells>com/mapchar.bin/95/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/96/2</graphics>
+    <cells>com/mapchar.bin/96/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/97/2</graphics>
+    <cells>com/mapchar.bin/97/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/98/2</graphics>
+    <cells>com/mapchar.bin/98/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/99/2</graphics>
+    <cells>com/mapchar.bin/99/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/100/2</graphics>
+    <cells>com/mapchar.bin/100/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/101/2</graphics>
+    <cells>com/mapchar.bin/101/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/102/2</graphics>
+    <cells>com/mapchar.bin/102/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/103/2</graphics>
+    <cells>com/mapchar.bin/103/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/104/2</graphics>
+    <cells>com/mapchar.bin/104/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/105/2</graphics>
+    <cells>com/mapchar.bin/105/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/106/2</graphics>
+    <cells>com/mapchar.bin/106/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/107/2</graphics>
+    <cells>com/mapchar.bin/107/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/108/2</graphics>
+    <cells>com/mapchar.bin/108/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/109/2</graphics>
+    <cells>com/mapchar.bin/109/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/110/2</graphics>
+    <cells>com/mapchar.bin/110/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/111/2</graphics>
+    <cells>com/mapchar.bin/111/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/112/2</graphics>
+    <cells>com/mapchar.bin/112/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/113/2</graphics>
+    <cells>com/mapchar.bin/113/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/92</palette>
+    <graphics>com/mapchar.bin/114/2</graphics>
+    <cells>com/mapchar.bin/114/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/115</palette>
+    <graphics>com/mapchar.bin/116/2</graphics>
+    <cells>com/mapchar.bin/116/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/115</palette>
+    <graphics>com/mapchar.bin/117/2</graphics>
+    <cells>com/mapchar.bin/117/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/115</palette>
+    <graphics>com/mapchar.bin/118/2</graphics>
+    <cells>com/mapchar.bin/118/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/115</palette>
+    <graphics>com/mapchar.bin/119/2</graphics>
+    <cells>com/mapchar.bin/119/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/115</palette>
+    <graphics>com/mapchar.bin/120/2</graphics>
+    <cells>com/mapchar.bin/120/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/115</palette>
+    <graphics>com/mapchar.bin/121/2</graphics>
+    <cells>com/mapchar.bin/121/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/115</palette>
+    <graphics>com/mapchar.bin/122/2</graphics>
+    <cells>com/mapchar.bin/122/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/124/2</graphics>
+    <cells>com/mapchar.bin/124/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/125/2</graphics>
+    <cells>com/mapchar.bin/125/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/126/2</graphics>
+    <cells>com/mapchar.bin/126/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/127/2</graphics>
+    <cells>com/mapchar.bin/127/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/128/2</graphics>
+    <cells>com/mapchar.bin/128/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/129/2</graphics>
+    <cells>com/mapchar.bin/129/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/130/2</graphics>
+    <cells>com/mapchar.bin/130/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/131/2</graphics>
+    <cells>com/mapchar.bin/131/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/132/2</graphics>
+    <cells>com/mapchar.bin/132/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/133/2</graphics>
+    <cells>com/mapchar.bin/133/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/134/2</graphics>
+    <cells>com/mapchar.bin/134/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/135/2</graphics>
+    <cells>com/mapchar.bin/135/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/136/2</graphics>
+    <cells>com/mapchar.bin/136/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/137/2</graphics>
+    <cells>com/mapchar.bin/137/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/138/2</graphics>
+    <cells>com/mapchar.bin/138/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/139/2</graphics>
+    <cells>com/mapchar.bin/139/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/140/2</graphics>
+    <cells>com/mapchar.bin/140/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/141/2</graphics>
+    <cells>com/mapchar.bin/141/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/142/2</graphics>
+    <cells>com/mapchar.bin/142/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/143/2</graphics>
+    <cells>com/mapchar.bin/143/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/144/2</graphics>
+    <cells>com/mapchar.bin/144/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/145/2</graphics>
+    <cells>com/mapchar.bin/145/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/146/2</graphics>
+    <cells>com/mapchar.bin/146/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/147/2</graphics>
+    <cells>com/mapchar.bin/147/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/123</palette>
+    <graphics>com/mapchar.bin/148/2</graphics>
+    <cells>com/mapchar.bin/148/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/150/2</graphics>
+    <cells>com/mapchar.bin/150/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/151/2</graphics>
+    <cells>com/mapchar.bin/151/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/152/2</graphics>
+    <cells>com/mapchar.bin/152/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/153/2</graphics>
+    <cells>com/mapchar.bin/153/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/154/2</graphics>
+    <cells>com/mapchar.bin/154/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/155/2</graphics>
+    <cells>com/mapchar.bin/155/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/156/2</graphics>
+    <cells>com/mapchar.bin/156/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/157/2</graphics>
+    <cells>com/mapchar.bin/157/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/158/2</graphics>
+    <cells>com/mapchar.bin/158/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/159/2</graphics>
+    <cells>com/mapchar.bin/159/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/160/2</graphics>
+    <cells>com/mapchar.bin/160/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/161/2</graphics>
+    <cells>com/mapchar.bin/161/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/162/2</graphics>
+    <cells>com/mapchar.bin/162/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/163/2</graphics>
+    <cells>com/mapchar.bin/163/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/164/2</graphics>
+    <cells>com/mapchar.bin/164/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/165/2</graphics>
+    <cells>com/mapchar.bin/165/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/166/2</graphics>
+    <cells>com/mapchar.bin/166/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/149</palette>
+    <graphics>com/mapchar.bin/167/2</graphics>
+    <cells>com/mapchar.bin/167/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/169/2</graphics>
+    <cells>com/mapchar.bin/169/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/170/2</graphics>
+    <cells>com/mapchar.bin/170/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/171/2</graphics>
+    <cells>com/mapchar.bin/171/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/172/2</graphics>
+    <cells>com/mapchar.bin/172/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/173/2</graphics>
+    <cells>com/mapchar.bin/173/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/174/2</graphics>
+    <cells>com/mapchar.bin/174/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/175/2</graphics>
+    <cells>com/mapchar.bin/175/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/176/2</graphics>
+    <cells>com/mapchar.bin/176/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/177/2</graphics>
+    <cells>com/mapchar.bin/177/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/178/2</graphics>
+    <cells>com/mapchar.bin/178/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/179/2</graphics>
+    <cells>com/mapchar.bin/179/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/180/2</graphics>
+    <cells>com/mapchar.bin/180/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/168</palette>
+    <graphics>com/mapchar.bin/181/2</graphics>
+    <cells>com/mapchar.bin/181/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/183/2</graphics>
+    <cells>com/mapchar.bin/183/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/184/2</graphics>
+    <cells>com/mapchar.bin/184/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/185/2</graphics>
+    <cells>com/mapchar.bin/185/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/186/2</graphics>
+    <cells>com/mapchar.bin/186/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/187/2</graphics>
+    <cells>com/mapchar.bin/187/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/188/2</graphics>
+    <cells>com/mapchar.bin/188/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/189/2</graphics>
+    <cells>com/mapchar.bin/189/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/190/2</graphics>
+    <cells>com/mapchar.bin/190/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/182</palette>
+    <graphics>com/mapchar.bin/191/2</graphics>
+    <cells>com/mapchar.bin/191/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/192</palette>
+    <graphics>com/mapchar.bin/193/2</graphics>
+    <cells>com/mapchar.bin/193/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/192</palette>
+    <graphics>com/mapchar.bin/194/2</graphics>
+    <cells>com/mapchar.bin/194/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/192</palette>
+    <graphics>com/mapchar.bin/195/2</graphics>
+    <cells>com/mapchar.bin/195/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/192</palette>
+    <graphics>com/mapchar.bin/196/2</graphics>
+    <cells>com/mapchar.bin/196/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/192</palette>
+    <graphics>com/mapchar.bin/197/2</graphics>
+    <cells>com/mapchar.bin/197/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/192</palette>
+    <graphics>com/mapchar.bin/198/2</graphics>
+    <cells>com/mapchar.bin/198/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/192</palette>
+    <graphics>com/mapchar.bin/199/2</graphics>
+    <cells>com/mapchar.bin/199/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/201/2</graphics>
+    <cells>com/mapchar.bin/201/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/202/2</graphics>
+    <cells>com/mapchar.bin/202/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/203/2</graphics>
+    <cells>com/mapchar.bin/203/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/204/2</graphics>
+    <cells>com/mapchar.bin/204/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/205/2</graphics>
+    <cells>com/mapchar.bin/205/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/206/2</graphics>
+    <cells>com/mapchar.bin/206/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/207/2</graphics>
+    <cells>com/mapchar.bin/207/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/208/2</graphics>
+    <cells>com/mapchar.bin/208/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/209/2</graphics>
+    <cells>com/mapchar.bin/209/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/210/2</graphics>
+    <cells>com/mapchar.bin/210/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/211/2</graphics>
+    <cells>com/mapchar.bin/211/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/200</palette>
+    <graphics>com/mapchar.bin/212/2</graphics>
+    <cells>com/mapchar.bin/212/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/213</palette>
+    <graphics>com/mapchar.bin/214/2</graphics>
+    <cells>com/mapchar.bin/214/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/213</palette>
+    <graphics>com/mapchar.bin/215/2</graphics>
+    <cells>com/mapchar.bin/215/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/213</palette>
+    <graphics>com/mapchar.bin/216/2</graphics>
+    <cells>com/mapchar.bin/216/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/213</palette>
+    <graphics>com/mapchar.bin/217/2</graphics>
+    <cells>com/mapchar.bin/217/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/213</palette>
+    <graphics>com/mapchar.bin/218/2</graphics>
+    <cells>com/mapchar.bin/218/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/213</palette>
+    <graphics>com/mapchar.bin/219/2</graphics>
+    <cells>com/mapchar.bin/219/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/220</palette>
+    <graphics>com/mapchar.bin/221/2</graphics>
+    <cells>com/mapchar.bin/221/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/220</palette>
+    <graphics>com/mapchar.bin/222/2</graphics>
+    <cells>com/mapchar.bin/222/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/220</palette>
+    <graphics>com/mapchar.bin/223/2</graphics>
+    <cells>com/mapchar.bin/223/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/220</palette>
+    <graphics>com/mapchar.bin/224/2</graphics>
+    <cells>com/mapchar.bin/224/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/220</palette>
+    <graphics>com/mapchar.bin/225/2</graphics>
+    <cells>com/mapchar.bin/225/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/220</palette>
+    <graphics>com/mapchar.bin/226/2</graphics>
+    <cells>com/mapchar.bin/226/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/227</palette>
+    <graphics>com/mapchar.bin/228/2</graphics>
+    <cells>com/mapchar.bin/228/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/227</palette>
+    <graphics>com/mapchar.bin/229/2</graphics>
+    <cells>com/mapchar.bin/229/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/227</palette>
+    <graphics>com/mapchar.bin/230/2</graphics>
+    <cells>com/mapchar.bin/230/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/227</palette>
+    <graphics>com/mapchar.bin/231/2</graphics>
+    <cells>com/mapchar.bin/231/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/232</palette>
+    <graphics>com/mapchar.bin/233/2</graphics>
+    <cells>com/mapchar.bin/233/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/232</palette>
+    <graphics>com/mapchar.bin/234/2</graphics>
+    <cells>com/mapchar.bin/234/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/232</palette>
+    <graphics>com/mapchar.bin/235/2</graphics>
+    <cells>com/mapchar.bin/235/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/232</palette>
+    <graphics>com/mapchar.bin/236/2</graphics>
+    <cells>com/mapchar.bin/236/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/232</palette>
+    <graphics>com/mapchar.bin/237/2</graphics>
+    <cells>com/mapchar.bin/237/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/232</palette>
+    <graphics>com/mapchar.bin/238/2</graphics>
+    <cells>com/mapchar.bin/238/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/239</palette>
+    <graphics>com/mapchar.bin/240/2</graphics>
+    <cells>com/mapchar.bin/240/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/239</palette>
+    <graphics>com/mapchar.bin/241/2</graphics>
+    <cells>com/mapchar.bin/241/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/239</palette>
+    <graphics>com/mapchar.bin/242/2</graphics>
+    <cells>com/mapchar.bin/242/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/243</palette>
+    <graphics>com/mapchar.bin/244/2</graphics>
+    <cells>com/mapchar.bin/244/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/243</palette>
+    <graphics>com/mapchar.bin/245/2</graphics>
+    <cells>com/mapchar.bin/245/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/243</palette>
+    <graphics>com/mapchar.bin/246/2</graphics>
+    <cells>com/mapchar.bin/246/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/243</palette>
+    <graphics>com/mapchar.bin/247/2</graphics>
+    <cells>com/mapchar.bin/247/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/243</palette>
+    <graphics>com/mapchar.bin/248/2</graphics>
+    <cells>com/mapchar.bin/248/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/243</palette>
+    <graphics>com/mapchar.bin/249/2</graphics>
+    <cells>com/mapchar.bin/249/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/251/2</graphics>
+    <cells>com/mapchar.bin/251/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/252/2</graphics>
+    <cells>com/mapchar.bin/252/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/253/2</graphics>
+    <cells>com/mapchar.bin/253/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/254/2</graphics>
+    <cells>com/mapchar.bin/254/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/255/2</graphics>
+    <cells>com/mapchar.bin/255/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/256/2</graphics>
+    <cells>com/mapchar.bin/256/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/257/2</graphics>
+    <cells>com/mapchar.bin/257/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/250</palette>
+    <graphics>com/mapchar.bin/258/2</graphics>
+    <cells>com/mapchar.bin/258/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/259</palette>
+    <graphics>com/mapchar.bin/260/2</graphics>
+    <cells>com/mapchar.bin/260/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/259</palette>
+    <graphics>com/mapchar.bin/261/2</graphics>
+    <cells>com/mapchar.bin/261/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/259</palette>
+    <graphics>com/mapchar.bin/262/2</graphics>
+    <cells>com/mapchar.bin/262/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/259</palette>
+    <graphics>com/mapchar.bin/263/2</graphics>
+    <cells>com/mapchar.bin/263/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/259</palette>
+    <graphics>com/mapchar.bin/264/2</graphics>
+    <cells>com/mapchar.bin/264/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/265</palette>
+    <graphics>com/mapchar.bin/266/2</graphics>
+    <cells>com/mapchar.bin/266/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/267</palette>
+    <graphics>com/mapchar.bin/268/2</graphics>
+    <cells>com/mapchar.bin/268/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/267</palette>
+    <graphics>com/mapchar.bin/269/2</graphics>
+    <cells>com/mapchar.bin/269/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/267</palette>
+    <graphics>com/mapchar.bin/270/2</graphics>
+    <cells>com/mapchar.bin/270/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/271</palette>
+    <graphics>com/mapchar.bin/272/2</graphics>
+    <cells>com/mapchar.bin/272/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/271</palette>
+    <graphics>com/mapchar.bin/273/2</graphics>
+    <cells>com/mapchar.bin/273/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/271</palette>
+    <graphics>com/mapchar.bin/274/2</graphics>
+    <cells>com/mapchar.bin/274/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/271</palette>
+    <graphics>com/mapchar.bin/275/2</graphics>
+    <cells>com/mapchar.bin/275/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/271</palette>
+    <graphics>com/mapchar.bin/276/2</graphics>
+    <cells>com/mapchar.bin/276/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/271</palette>
+    <graphics>com/mapchar.bin/277/2</graphics>
+    <cells>com/mapchar.bin/277/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/271</palette>
+    <graphics>com/mapchar.bin/278/2</graphics>
+    <cells>com/mapchar.bin/278/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/279</palette>
+    <graphics>com/mapchar.bin/280/2</graphics>
+    <cells>com/mapchar.bin/280/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/279</palette>
+    <graphics>com/mapchar.bin/281/2</graphics>
+    <cells>com/mapchar.bin/281/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/279</palette>
+    <graphics>com/mapchar.bin/282/2</graphics>
+    <cells>com/mapchar.bin/282/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/279</palette>
+    <graphics>com/mapchar.bin/283/2</graphics>
+    <cells>com/mapchar.bin/283/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/279</palette>
+    <graphics>com/mapchar.bin/284/2</graphics>
+    <cells>com/mapchar.bin/284/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/279</palette>
+    <graphics>com/mapchar.bin/285/2</graphics>
+    <cells>com/mapchar.bin/285/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/286</palette>
+    <graphics>com/mapchar.bin/287/2</graphics>
+    <cells>com/mapchar.bin/287/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/286</palette>
+    <graphics>com/mapchar.bin/288/2</graphics>
+    <cells>com/mapchar.bin/288/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/286</palette>
+    <graphics>com/mapchar.bin/289/2</graphics>
+    <cells>com/mapchar.bin/289/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/290</palette>
+    <graphics>com/mapchar.bin/291/2</graphics>
+    <cells>com/mapchar.bin/291/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/290</palette>
+    <graphics>com/mapchar.bin/292/2</graphics>
+    <cells>com/mapchar.bin/292/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/290</palette>
+    <graphics>com/mapchar.bin/293/2</graphics>
+    <cells>com/mapchar.bin/293/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/290</palette>
+    <graphics>com/mapchar.bin/294/2</graphics>
+    <cells>com/mapchar.bin/294/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/295</palette>
+    <graphics>com/mapchar.bin/296/2</graphics>
+    <cells>com/mapchar.bin/296/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/297</palette>
+    <graphics>com/mapchar.bin/298/2</graphics>
+    <cells>com/mapchar.bin/298/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/297</palette>
+    <graphics>com/mapchar.bin/299/2</graphics>
+    <cells>com/mapchar.bin/299/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/297</palette>
+    <graphics>com/mapchar.bin/300/2</graphics>
+    <cells>com/mapchar.bin/300/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/297</palette>
+    <graphics>com/mapchar.bin/301/2</graphics>
+    <cells>com/mapchar.bin/301/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/297</palette>
+    <graphics>com/mapchar.bin/302/2</graphics>
+    <cells>com/mapchar.bin/302/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/303</palette>
+    <graphics>com/mapchar.bin/304/2</graphics>
+    <cells>com/mapchar.bin/304/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/303</palette>
+    <graphics>com/mapchar.bin/305/2</graphics>
+    <cells>com/mapchar.bin/305/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/303</palette>
+    <graphics>com/mapchar.bin/306/2</graphics>
+    <cells>com/mapchar.bin/306/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/307</palette>
+    <graphics>com/mapchar.bin/308/2</graphics>
+    <cells>com/mapchar.bin/308/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/307</palette>
+    <graphics>com/mapchar.bin/309/2</graphics>
+    <cells>com/mapchar.bin/309/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/307</palette>
+    <graphics>com/mapchar.bin/310/2</graphics>
+    <cells>com/mapchar.bin/310/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/307</palette>
+    <graphics>com/mapchar.bin/311/2</graphics>
+    <cells>com/mapchar.bin/311/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/307</palette>
+    <graphics>com/mapchar.bin/312/2</graphics>
+    <cells>com/mapchar.bin/312/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/314/2</graphics>
+    <cells>com/mapchar.bin/314/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/315/2</graphics>
+    <cells>com/mapchar.bin/315/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/316/2</graphics>
+    <cells>com/mapchar.bin/316/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/317/2</graphics>
+    <cells>com/mapchar.bin/317/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/318/2</graphics>
+    <cells>com/mapchar.bin/318/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/319/2</graphics>
+    <cells>com/mapchar.bin/319/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/320/2</graphics>
+    <cells>com/mapchar.bin/320/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/313</palette>
+    <graphics>com/mapchar.bin/321/2</graphics>
+    <cells>com/mapchar.bin/321/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/322</palette>
+    <graphics>com/mapchar.bin/323/2</graphics>
+    <cells>com/mapchar.bin/323/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/322</palette>
+    <graphics>com/mapchar.bin/324/2</graphics>
+    <cells>com/mapchar.bin/324/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/322</palette>
+    <graphics>com/mapchar.bin/325/2</graphics>
+    <cells>com/mapchar.bin/325/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/322</palette>
+    <graphics>com/mapchar.bin/326/2</graphics>
+    <cells>com/mapchar.bin/326/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/322</palette>
+    <graphics>com/mapchar.bin/327/2</graphics>
+    <cells>com/mapchar.bin/327/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/322</palette>
+    <graphics>com/mapchar.bin/328/2</graphics>
+    <cells>com/mapchar.bin/328/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/322</palette>
+    <graphics>com/mapchar.bin/329/2</graphics>
+    <cells>com/mapchar.bin/329/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/331/2</graphics>
+    <cells>com/mapchar.bin/331/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/332/2</graphics>
+    <cells>com/mapchar.bin/332/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/333/2</graphics>
+    <cells>com/mapchar.bin/333/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/334/2</graphics>
+    <cells>com/mapchar.bin/334/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/335/2</graphics>
+    <cells>com/mapchar.bin/335/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/336/2</graphics>
+    <cells>com/mapchar.bin/336/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/337/2</graphics>
+    <cells>com/mapchar.bin/337/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/338/2</graphics>
+    <cells>com/mapchar.bin/338/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/339/2</graphics>
+    <cells>com/mapchar.bin/339/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/330</palette>
+    <graphics>com/mapchar.bin/340/2</graphics>
+    <cells>com/mapchar.bin/340/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/341</palette>
+    <graphics>com/mapchar.bin/342/2</graphics>
+    <cells>com/mapchar.bin/342/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/343</palette>
+    <graphics>com/mapchar.bin/344/2</graphics>
+    <cells>com/mapchar.bin/344/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/345</palette>
+    <graphics>com/mapchar.bin/346/2</graphics>
+    <cells>com/mapchar.bin/346/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/345</palette>
+    <graphics>com/mapchar.bin/347/2</graphics>
+    <cells>com/mapchar.bin/347/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/345</palette>
+    <graphics>com/mapchar.bin/348/2</graphics>
+    <cells>com/mapchar.bin/348/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/349</palette>
+    <graphics>com/mapchar.bin/350/2</graphics>
+    <cells>com/mapchar.bin/350/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/351</palette>
+    <graphics>com/mapchar.bin/352/2</graphics>
+    <cells>com/mapchar.bin/352/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/351</palette>
+    <graphics>com/mapchar.bin/353/2</graphics>
+    <cells>com/mapchar.bin/353/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/351</palette>
+    <graphics>com/mapchar.bin/354/2</graphics>
+    <cells>com/mapchar.bin/354/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/351</palette>
+    <graphics>com/mapchar.bin/355/2</graphics>
+    <cells>com/mapchar.bin/355/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/351</palette>
+    <graphics>com/mapchar.bin/356/2</graphics>
+    <cells>com/mapchar.bin/356/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/351</palette>
+    <graphics>com/mapchar.bin/357/2</graphics>
+    <cells>com/mapchar.bin/357/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/351</palette>
+    <graphics>com/mapchar.bin/358/2</graphics>
+    <cells>com/mapchar.bin/358/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/359</palette>
+    <graphics>com/mapchar.bin/360/2</graphics>
+    <cells>com/mapchar.bin/360/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/359</palette>
+    <graphics>com/mapchar.bin/361/2</graphics>
+    <cells>com/mapchar.bin/361/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/359</palette>
+    <graphics>com/mapchar.bin/362/2</graphics>
+    <cells>com/mapchar.bin/362/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/363</palette>
+    <graphics>com/mapchar.bin/364/2</graphics>
+    <cells>com/mapchar.bin/364/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/365</palette>
+    <graphics>com/mapchar.bin/366/2</graphics>
+    <cells>com/mapchar.bin/366/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/365</palette>
+    <graphics>com/mapchar.bin/367/2</graphics>
+    <cells>com/mapchar.bin/367/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/368</palette>
+    <graphics>com/mapchar.bin/369/2</graphics>
+    <cells>com/mapchar.bin/369/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/370</palette>
+    <graphics>com/mapchar.bin/371/2</graphics>
+    <cells>com/mapchar.bin/371/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/370</palette>
+    <graphics>com/mapchar.bin/372/2</graphics>
+    <cells>com/mapchar.bin/372/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/373</palette>
+    <graphics>com/mapchar.bin/374/2</graphics>
+    <cells>com/mapchar.bin/374/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/373</palette>
+    <graphics>com/mapchar.bin/375/2</graphics>
+    <cells>com/mapchar.bin/375/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/373</palette>
+    <graphics>com/mapchar.bin/376/2</graphics>
+    <cells>com/mapchar.bin/376/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/377</palette>
+    <graphics>com/mapchar.bin/378/2</graphics>
+    <cells>com/mapchar.bin/378/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/377</palette>
+    <graphics>com/mapchar.bin/379/2</graphics>
+    <cells>com/mapchar.bin/379/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/377</palette>
+    <graphics>com/mapchar.bin/380/2</graphics>
+    <cells>com/mapchar.bin/380/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/377</palette>
+    <graphics>com/mapchar.bin/381/2</graphics>
+    <cells>com/mapchar.bin/381/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/377</palette>
+    <graphics>com/mapchar.bin/382/2</graphics>
+    <cells>com/mapchar.bin/382/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/377</palette>
+    <graphics>com/mapchar.bin/383/2</graphics>
+    <cells>com/mapchar.bin/383/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/384</palette>
+    <graphics>com/mapchar.bin/385/2</graphics>
+    <cells>com/mapchar.bin/385/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/384</palette>
+    <graphics>com/mapchar.bin/386/2</graphics>
+    <cells>com/mapchar.bin/386/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/384</palette>
+    <graphics>com/mapchar.bin/387/2</graphics>
+    <cells>com/mapchar.bin/387/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/384</palette>
+    <graphics>com/mapchar.bin/388/2</graphics>
+    <cells>com/mapchar.bin/388/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/384</palette>
+    <graphics>com/mapchar.bin/389/2</graphics>
+    <cells>com/mapchar.bin/389/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/384</palette>
+    <graphics>com/mapchar.bin/390/2</graphics>
+    <cells>com/mapchar.bin/390/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/391</palette>
+    <graphics>com/mapchar.bin/392/2</graphics>
+    <cells>com/mapchar.bin/392/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/393</palette>
+    <graphics>com/mapchar.bin/394/2</graphics>
+    <cells>com/mapchar.bin/394/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/395</palette>
+    <graphics>com/mapchar.bin/396/2</graphics>
+    <cells>com/mapchar.bin/396/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/397</palette>
+    <graphics>com/mapchar.bin/398/2</graphics>
+    <cells>com/mapchar.bin/398/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/399</palette>
+    <graphics>com/mapchar.bin/400/2</graphics>
+    <cells>com/mapchar.bin/400/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/399</palette>
+    <graphics>com/mapchar.bin/401/2</graphics>
+    <cells>com/mapchar.bin/401/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/399</palette>
+    <graphics>com/mapchar.bin/402/2</graphics>
+    <cells>com/mapchar.bin/402/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/399</palette>
+    <graphics>com/mapchar.bin/403/2</graphics>
+    <cells>com/mapchar.bin/403/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/404</palette>
+    <graphics>com/mapchar.bin/405/2</graphics>
+    <cells>com/mapchar.bin/405/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/406</palette>
+    <graphics>com/mapchar.bin/407/2</graphics>
+    <cells>com/mapchar.bin/407/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/408</palette>
+    <graphics>com/mapchar.bin/409/2</graphics>
+    <cells>com/mapchar.bin/409/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/410</palette>
+    <graphics>com/mapchar.bin/411/2</graphics>
+    <cells>com/mapchar.bin/411/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/412</palette>
+    <graphics>com/mapchar.bin/413/2</graphics>
+    <cells>com/mapchar.bin/413/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/414</palette>
+    <graphics>com/mapchar.bin/415/2</graphics>
+    <cells>com/mapchar.bin/415/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/416</palette>
+    <graphics>com/mapchar.bin/417/2</graphics>
+    <cells>com/mapchar.bin/417/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/418</palette>
+    <graphics>com/mapchar.bin/419/2</graphics>
+    <cells>com/mapchar.bin/419/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/420</palette>
+    <graphics>com/mapchar.bin/421/2</graphics>
+    <cells>com/mapchar.bin/421/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/422</palette>
+    <graphics>com/mapchar.bin/423/2</graphics>
+    <cells>com/mapchar.bin/423/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/424</palette>
+    <graphics>com/mapchar.bin/425/2</graphics>
+    <cells>com/mapchar.bin/425/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/426</palette>
+    <graphics>com/mapchar.bin/427/2</graphics>
+    <cells>com/mapchar.bin/427/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/428</palette>
+    <graphics>com/mapchar.bin/429/2</graphics>
+    <cells>com/mapchar.bin/429/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/428</palette>
+    <graphics>com/mapchar.bin/430/2</graphics>
+    <cells>com/mapchar.bin/430/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/428</palette>
+    <graphics>com/mapchar.bin/431/2</graphics>
+    <cells>com/mapchar.bin/431/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/428</palette>
+    <graphics>com/mapchar.bin/432/2</graphics>
+    <cells>com/mapchar.bin/432/0</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/mapchar.bin/428</palette>
+    <graphics>com/mapchar.bin/433/2</graphics>
+    <cells>com/mapchar.bin/433/0</cells>
+  </cellBank>
+</fileList>

@@ -7,6 +7,7 @@
 	import flash.net.FileFilter;
 	
 	import Nitro.FileSystem.*;
+	import Nitro.FileSystem.EasyFileSystem.GK2;
 	
 	public class RomLoader extends EventDispatcher {
 		
@@ -54,6 +55,7 @@
 			menu.status_txt.text="ROM Loaded.";
 			
 			gkTool.nds=nds;
+			gkTool.easyFS=new GK2(nds);
 			dispatchEvent(new Event(Event.COMPLETE));
 		}
 		
