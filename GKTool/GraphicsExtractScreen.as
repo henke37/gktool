@@ -95,6 +95,11 @@
 			switch(itemType) {
 				case "cellBank":
 					cellItr=0;
+					
+					if(cells.labels && cells.labels.length>0) {
+						saveLabels();
+					}
+					
 					if(processCell()) return true;
 				break;
 				
@@ -116,6 +121,14 @@
 			itemItr++;
 			
 			return itemItr<itemList.length();
+		}
+		
+		private function saveLabels():void {
+			var o:String="";
+			for each(var label:String in cells.labels) {
+				o+=label+"\n";
+			}
+			saveTextFile(ncerName+"/labels.txt",o);
 		}
 		
 		private function processCell():Boolean {

@@ -101,6 +101,12 @@
 			realScreen.status_txt.scrollV=realScreen.status_txt.maxScrollV;
 		}
 		
+		protected final function saveTextFile(name:String,data:String):void {
+			var o:ByteArray=new ByteArray();
+			o.writeUTFBytes(data);
+			saveFile(name,o);
+		}
+		
 		protected final function saveFile(name:String,data:ByteArray):void {
 			name=name.replace("/",File.separator);
 			var outFile:flash.filesystem.File=new File(outDir.nativePath+File.separator+name);
@@ -114,9 +120,7 @@
 		}
 		
 		protected final function saveXMLFile(name:String,data:XML):void {
-			var o:ByteArray=new ByteArray();
-			o.writeUTFBytes(data.toXMLString());
-			saveFile(name,o);
+			saveTextFile(name,data.toXMLString());
 		}
 		
 		protected static function padNumber(number:uint,size:uint):String {
