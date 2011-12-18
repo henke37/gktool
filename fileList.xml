@@ -1,6 +1,2524 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <fileList>
 
+<cellBank>
+  <palette>com/idcom.bin/5</palette>
+  <graphics>com/idcom.bin/4/2</graphics>
+  <cells>com/idcom.bin/4/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/5</palette>
+  <graphics>com/idcom.bin/6/2</graphics>
+  <cells>com/idcom.bin/6/0</cells>
+</cellBank>
+
+<cellBank>
+  <palette>com/idcom.bin/8</palette>
+  <graphics>com/idcom.bin/7/2</graphics>
+  <cells>com/idcom.bin/7/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/10</palette>
+  <graphics>com/idcom.bin/9/2</graphics>
+  <cells>com/idcom.bin/9/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/12</palette>
+  <graphics>com/idcom.bin/11/2</graphics>
+  <cells>com/idcom.bin/11/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/14</palette>
+  <graphics>com/idcom.bin/13/2</graphics>
+  <cells>com/idcom.bin/13/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/16</palette>
+  <graphics>com/idcom.bin/15/2</graphics>
+  <cells>com/idcom.bin/15/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/18</palette>
+  <graphics>com/idcom.bin/17/2</graphics>
+  <cells>com/idcom.bin/17/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/20</palette>
+  <graphics>com/idcom.bin/19/2</graphics>
+  <cells>com/idcom.bin/19/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/22</palette>
+  <graphics>com/idcom.bin/21/2</graphics>
+  <cells>com/idcom.bin/21/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/24</palette>
+  <graphics>com/idcom.bin/23/2</graphics>
+  <cells>com/idcom.bin/23/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/26</palette>
+  <graphics>com/idcom.bin/25/2</graphics>
+  <cells>com/idcom.bin/25/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/28</palette>
+  <graphics>com/idcom.bin/27/2</graphics>
+  <cells>com/idcom.bin/27/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/30</palette>
+  <graphics>com/idcom.bin/29/2</graphics>
+  <cells>com/idcom.bin/29/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/32</palette>
+  <graphics>com/idcom.bin/31/2</graphics>
+  <cells>com/idcom.bin/31/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/34</palette>
+  <graphics>com/idcom.bin/33/2</graphics>
+  <cells>com/idcom.bin/33/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/36</palette>
+  <graphics>com/idcom.bin/35/2</graphics>
+  <cells>com/idcom.bin/35/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/38</palette>
+  <graphics>com/idcom.bin/37/2</graphics>
+  <cells>com/idcom.bin/37/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/40</palette>
+  <graphics>com/idcom.bin/39/2</graphics>
+  <cells>com/idcom.bin/39/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/42</palette>
+  <graphics>com/idcom.bin/41/2</graphics>
+  <cells>com/idcom.bin/41/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/44</palette>
+  <graphics>com/idcom.bin/43/2</graphics>
+  <cells>com/idcom.bin/43/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/46</palette>
+  <graphics>com/idcom.bin/45/2</graphics>
+  <cells>com/idcom.bin/45/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/48</palette>
+  <graphics>com/idcom.bin/47/2</graphics>
+  <cells>com/idcom.bin/47/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/50</palette>
+  <graphics>com/idcom.bin/49/2</graphics>
+  <cells>com/idcom.bin/49/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/52</palette>
+  <graphics>com/idcom.bin/51/2</graphics>
+  <cells>com/idcom.bin/51/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/54</palette>
+  <graphics>com/idcom.bin/53/2</graphics>
+  <cells>com/idcom.bin/53/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/56</palette>
+  <graphics>com/idcom.bin/55/2</graphics>
+  <cells>com/idcom.bin/55/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/58</palette>
+  <graphics>com/idcom.bin/57/2</graphics>
+  <cells>com/idcom.bin/57/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/60</palette>
+  <graphics>com/idcom.bin/59/2</graphics>
+  <cells>com/idcom.bin/59/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/62</palette>
+  <graphics>com/idcom.bin/61/2</graphics>
+  <cells>com/idcom.bin/61/0</cells>
+</cellBank>
+
+
+  <picture>
+    <graphics>com/idcom.bin/63</graphics>
+    <palette>com/idcom.bin/64</palette>
+  </picture>
+
+  <screen>
+    <graphics>com/idcom.bin/66</graphics>
+    <palette>com/idcom.bin/67</palette>
+    <screen>com/idcom.bin/65</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/69</graphics>
+    <palette>com/idcom.bin/70</palette>
+    <screen>com/idcom.bin/68</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/72</graphics>
+    <palette>com/idcom.bin/73</palette>
+    <screen>com/idcom.bin/74</screen>
+  </screen>
+
+  <cellBank>
+    <palette>com/idcom.bin/78</palette>
+    <graphics>com/idcom.bin/77</graphics>
+    <cells>com/idcom.bin/76</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/78</palette>
+    <graphics>com/idcom.bin/81</graphics>
+    <cells>com/idcom.bin/80</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/85</palette>
+    <graphics>com/idcom.bin/84</graphics>
+    <cells>com/idcom.bin/83</cells>
+  </cellBank>
+
+  <picture>
+    <graphics>com/idcom.bin/87</graphics>
+    <palette>com/idcom.bin/86</palette>
+  </picture>
+
+  <picture>
+    <graphics>com/idcom.bin/89</graphics>
+    <palette>com/idcom.bin/88</palette>
+  </picture>
+
+  <cellBank>
+    <palette>com/idcom.bin/94</palette>
+    <graphics>com/idcom.bin/97</graphics>
+    <cells>com/idcom.bin/96</cells>
+  </cellBank>
+
+<cellBank>
+  <palette>com/idcom.bin/130</palette>
+  <graphics>com/idcom.bin/129/2</graphics>
+  <cells>com/idcom.bin/129/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/132</palette>
+  <graphics>com/idcom.bin/131/2</graphics>
+  <cells>com/idcom.bin/131/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/134</palette>
+  <graphics>com/idcom.bin/133/2</graphics>
+  <cells>com/idcom.bin/133/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/136</palette>
+  <graphics>com/idcom.bin/135/2</graphics>
+  <cells>com/idcom.bin/135/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/138</palette>
+  <graphics>com/idcom.bin/137/2</graphics>
+  <cells>com/idcom.bin/137/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/140</palette>
+  <graphics>com/idcom.bin/139/2</graphics>
+  <cells>com/idcom.bin/139/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/142</palette>
+  <graphics>com/idcom.bin/141/2</graphics>
+  <cells>com/idcom.bin/141/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/144</palette>
+  <graphics>com/idcom.bin/143/2</graphics>
+  <cells>com/idcom.bin/143/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/146</palette>
+  <graphics>com/idcom.bin/145/2</graphics>
+  <cells>com/idcom.bin/145/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/148</palette>
+  <graphics>com/idcom.bin/147/2</graphics>
+  <cells>com/idcom.bin/147/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/150</palette>
+  <graphics>com/idcom.bin/149/2</graphics>
+  <cells>com/idcom.bin/149/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/152</palette>
+  <graphics>com/idcom.bin/151/2</graphics>
+  <cells>com/idcom.bin/151/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/154</palette>
+  <graphics>com/idcom.bin/153/2</graphics>
+  <cells>com/idcom.bin/153/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/156</palette>
+  <graphics>com/idcom.bin/155/2</graphics>
+  <cells>com/idcom.bin/155/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/158</palette>
+  <graphics>com/idcom.bin/157/2</graphics>
+  <cells>com/idcom.bin/157/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/160</palette>
+  <graphics>com/idcom.bin/159/2</graphics>
+  <cells>com/idcom.bin/159/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/162</palette>
+  <graphics>com/idcom.bin/161/2</graphics>
+  <cells>com/idcom.bin/161/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/164</palette>
+  <graphics>com/idcom.bin/163/2</graphics>
+  <cells>com/idcom.bin/163/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/166</palette>
+  <graphics>com/idcom.bin/165/2</graphics>
+  <cells>com/idcom.bin/165/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/168</palette>
+  <graphics>com/idcom.bin/167/2</graphics>
+  <cells>com/idcom.bin/167/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/170</palette>
+  <graphics>com/idcom.bin/169/2</graphics>
+  <cells>com/idcom.bin/169/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/172</palette>
+  <graphics>com/idcom.bin/171/2</graphics>
+  <cells>com/idcom.bin/171/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/174</palette>
+  <graphics>com/idcom.bin/173/2</graphics>
+  <cells>com/idcom.bin/173/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/176</palette>
+  <graphics>com/idcom.bin/175/2</graphics>
+  <cells>com/idcom.bin/175/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/178</palette>
+  <graphics>com/idcom.bin/177/2</graphics>
+  <cells>com/idcom.bin/177/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/180</palette>
+  <graphics>com/idcom.bin/179/2</graphics>
+  <cells>com/idcom.bin/179/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/182</palette>
+  <graphics>com/idcom.bin/181/2</graphics>
+  <cells>com/idcom.bin/181/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/184</palette>
+  <graphics>com/idcom.bin/183/2</graphics>
+  <cells>com/idcom.bin/183/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/186</palette>
+  <graphics>com/idcom.bin/185/2</graphics>
+  <cells>com/idcom.bin/185/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/188</palette>
+  <graphics>com/idcom.bin/187/2</graphics>
+  <cells>com/idcom.bin/187/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/190</palette>
+  <graphics>com/idcom.bin/189/2</graphics>
+  <cells>com/idcom.bin/189/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/192</palette>
+  <graphics>com/idcom.bin/191/2</graphics>
+  <cells>com/idcom.bin/191/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/194</palette>
+  <graphics>com/idcom.bin/193/2</graphics>
+  <cells>com/idcom.bin/193/0</cells>
+</cellBank>
+
+
+<cellBank>
+  <palette>com/idcom.bin/198</palette>
+  <graphics>com/idcom.bin/199/2</graphics>
+  <cells>com/idcom.bin/199/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/200</palette>
+  <graphics>com/idcom.bin/201/2</graphics>
+  <cells>com/idcom.bin/201/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/202</palette>
+  <graphics>com/idcom.bin/203/2</graphics>
+  <cells>com/idcom.bin/203/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/204</palette>
+  <graphics>com/idcom.bin/205/2</graphics>
+  <cells>com/idcom.bin/205/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/206</palette>
+  <graphics>com/idcom.bin/207/2</graphics>
+  <cells>com/idcom.bin/207/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/208</palette>
+  <graphics>com/idcom.bin/209/2</graphics>
+  <cells>com/idcom.bin/209/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/210</palette>
+  <graphics>com/idcom.bin/211/2</graphics>
+  <cells>com/idcom.bin/211/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/212</palette>
+  <graphics>com/idcom.bin/213/2</graphics>
+  <cells>com/idcom.bin/213/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/214</palette>
+  <graphics>com/idcom.bin/215/2</graphics>
+  <cells>com/idcom.bin/215/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/216</palette>
+  <graphics>com/idcom.bin/217/2</graphics>
+  <cells>com/idcom.bin/217/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/218</palette>
+  <graphics>com/idcom.bin/219/2</graphics>
+  <cells>com/idcom.bin/219/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/220</palette>
+  <graphics>com/idcom.bin/221/2</graphics>
+  <cells>com/idcom.bin/221/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/222</palette>
+  <graphics>com/idcom.bin/223/2</graphics>
+  <cells>com/idcom.bin/223/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/224</palette>
+  <graphics>com/idcom.bin/225/2</graphics>
+  <cells>com/idcom.bin/225/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/226</palette>
+  <graphics>com/idcom.bin/227/2</graphics>
+  <cells>com/idcom.bin/227/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/228</palette>
+  <graphics>com/idcom.bin/229/2</graphics>
+  <cells>com/idcom.bin/229/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/230</palette>
+  <graphics>com/idcom.bin/231/2</graphics>
+  <cells>com/idcom.bin/231/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/232</palette>
+  <graphics>com/idcom.bin/233/2</graphics>
+  <cells>com/idcom.bin/233/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/234</palette>
+  <graphics>com/idcom.bin/235/2</graphics>
+  <cells>com/idcom.bin/235/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/236</palette>
+  <graphics>com/idcom.bin/237/2</graphics>
+  <cells>com/idcom.bin/237/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/238</palette>
+  <graphics>com/idcom.bin/239/2</graphics>
+  <cells>com/idcom.bin/239/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/240</palette>
+  <graphics>com/idcom.bin/241/2</graphics>
+  <cells>com/idcom.bin/241/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/242</palette>
+  <graphics>com/idcom.bin/243/2</graphics>
+  <cells>com/idcom.bin/243/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/244</palette>
+  <graphics>com/idcom.bin/245/2</graphics>
+  <cells>com/idcom.bin/245/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/246</palette>
+  <graphics>com/idcom.bin/247/2</graphics>
+  <cells>com/idcom.bin/247/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/248</palette>
+  <graphics>com/idcom.bin/249/2</graphics>
+  <cells>com/idcom.bin/249/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/250</palette>
+  <graphics>com/idcom.bin/251/2</graphics>
+  <cells>com/idcom.bin/251/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/252</palette>
+  <graphics>com/idcom.bin/253/2</graphics>
+  <cells>com/idcom.bin/253/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/254</palette>
+  <graphics>com/idcom.bin/255/2</graphics>
+  <cells>com/idcom.bin/255/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/256</palette>
+  <graphics>com/idcom.bin/257/2</graphics>
+  <cells>com/idcom.bin/257/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/258</palette>
+  <graphics>com/idcom.bin/259/2</graphics>
+  <cells>com/idcom.bin/259/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/260</palette>
+  <graphics>com/idcom.bin/261/2</graphics>
+  <cells>com/idcom.bin/261/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/262</palette>
+  <graphics>com/idcom.bin/263/2</graphics>
+  <cells>com/idcom.bin/263/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/264</palette>
+  <graphics>com/idcom.bin/265/2</graphics>
+  <cells>com/idcom.bin/265/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/266</palette>
+  <graphics>com/idcom.bin/267/2</graphics>
+  <cells>com/idcom.bin/267/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/268</palette>
+  <graphics>com/idcom.bin/269/2</graphics>
+  <cells>com/idcom.bin/269/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/270</palette>
+  <graphics>com/idcom.bin/271/2</graphics>
+  <cells>com/idcom.bin/271/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/272</palette>
+  <graphics>com/idcom.bin/273/2</graphics>
+  <cells>com/idcom.bin/273/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/274</palette>
+  <graphics>com/idcom.bin/275/2</graphics>
+  <cells>com/idcom.bin/275/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/276</palette>
+  <graphics>com/idcom.bin/277/2</graphics>
+  <cells>com/idcom.bin/277/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/278</palette>
+  <graphics>com/idcom.bin/279/2</graphics>
+  <cells>com/idcom.bin/279/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/280</palette>
+  <graphics>com/idcom.bin/281/2</graphics>
+  <cells>com/idcom.bin/281/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/282</palette>
+  <graphics>com/idcom.bin/283/2</graphics>
+  <cells>com/idcom.bin/283/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/284</palette>
+  <graphics>com/idcom.bin/285/2</graphics>
+  <cells>com/idcom.bin/285/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/286</palette>
+  <graphics>com/idcom.bin/287/2</graphics>
+  <cells>com/idcom.bin/287/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/288</palette>
+  <graphics>com/idcom.bin/289/2</graphics>
+  <cells>com/idcom.bin/289/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/290</palette>
+  <graphics>com/idcom.bin/291/2</graphics>
+  <cells>com/idcom.bin/291/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/292</palette>
+  <graphics>com/idcom.bin/293/2</graphics>
+  <cells>com/idcom.bin/293/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/294</palette>
+  <graphics>com/idcom.bin/295/2</graphics>
+  <cells>com/idcom.bin/295/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/296</palette>
+  <graphics>com/idcom.bin/297/2</graphics>
+  <cells>com/idcom.bin/297/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/298</palette>
+  <graphics>com/idcom.bin/299/2</graphics>
+  <cells>com/idcom.bin/299/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/300</palette>
+  <graphics>com/idcom.bin/301/2</graphics>
+  <cells>com/idcom.bin/301/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/302</palette>
+  <graphics>com/idcom.bin/303/2</graphics>
+  <cells>com/idcom.bin/303/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/304</palette>
+  <graphics>com/idcom.bin/305/2</graphics>
+  <cells>com/idcom.bin/305/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/306</palette>
+  <graphics>com/idcom.bin/307/2</graphics>
+  <cells>com/idcom.bin/307/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/308</palette>
+  <graphics>com/idcom.bin/309/2</graphics>
+  <cells>com/idcom.bin/309/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/310</palette>
+  <graphics>com/idcom.bin/311/2</graphics>
+  <cells>com/idcom.bin/311/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/312</palette>
+  <graphics>com/idcom.bin/313/2</graphics>
+  <cells>com/idcom.bin/313/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/314</palette>
+  <graphics>com/idcom.bin/315/2</graphics>
+  <cells>com/idcom.bin/315/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/316</palette>
+  <graphics>com/idcom.bin/317/2</graphics>
+  <cells>com/idcom.bin/317/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/318</palette>
+  <graphics>com/idcom.bin/319/2</graphics>
+  <cells>com/idcom.bin/319/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/320</palette>
+  <graphics>com/idcom.bin/321/2</graphics>
+  <cells>com/idcom.bin/321/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/322</palette>
+  <graphics>com/idcom.bin/323/2</graphics>
+  <cells>com/idcom.bin/323/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/324</palette>
+  <graphics>com/idcom.bin/325/2</graphics>
+  <cells>com/idcom.bin/325/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/326</palette>
+  <graphics>com/idcom.bin/327/2</graphics>
+  <cells>com/idcom.bin/327/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/328</palette>
+  <graphics>com/idcom.bin/329/2</graphics>
+  <cells>com/idcom.bin/329/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/330</palette>
+  <graphics>com/idcom.bin/331/2</graphics>
+  <cells>com/idcom.bin/331/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/332</palette>
+  <graphics>com/idcom.bin/333/2</graphics>
+  <cells>com/idcom.bin/333/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/334</palette>
+  <graphics>com/idcom.bin/335/2</graphics>
+  <cells>com/idcom.bin/335/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/336</palette>
+  <graphics>com/idcom.bin/337/2</graphics>
+  <cells>com/idcom.bin/337/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/338</palette>
+  <graphics>com/idcom.bin/339/2</graphics>
+  <cells>com/idcom.bin/339/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/340</palette>
+  <graphics>com/idcom.bin/341/2</graphics>
+  <cells>com/idcom.bin/341/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/342</palette>
+  <graphics>com/idcom.bin/343/2</graphics>
+  <cells>com/idcom.bin/343/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/344</palette>
+  <graphics>com/idcom.bin/345/2</graphics>
+  <cells>com/idcom.bin/345/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/346</palette>
+  <graphics>com/idcom.bin/347/2</graphics>
+  <cells>com/idcom.bin/347/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/348</palette>
+  <graphics>com/idcom.bin/349/2</graphics>
+  <cells>com/idcom.bin/349/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/350</palette>
+  <graphics>com/idcom.bin/351/2</graphics>
+  <cells>com/idcom.bin/351/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/352</palette>
+  <graphics>com/idcom.bin/353/2</graphics>
+  <cells>com/idcom.bin/353/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/354</palette>
+  <graphics>com/idcom.bin/355/2</graphics>
+  <cells>com/idcom.bin/355/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/356</palette>
+  <graphics>com/idcom.bin/357/2</graphics>
+  <cells>com/idcom.bin/357/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/358</palette>
+  <graphics>com/idcom.bin/359/2</graphics>
+  <cells>com/idcom.bin/359/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/360</palette>
+  <graphics>com/idcom.bin/361/2</graphics>
+  <cells>com/idcom.bin/361/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/362</palette>
+  <graphics>com/idcom.bin/363/2</graphics>
+  <cells>com/idcom.bin/363/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/364</palette>
+  <graphics>com/idcom.bin/365/2</graphics>
+  <cells>com/idcom.bin/365/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/366</palette>
+  <graphics>com/idcom.bin/367/2</graphics>
+  <cells>com/idcom.bin/367/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/368</palette>
+  <graphics>com/idcom.bin/369/2</graphics>
+  <cells>com/idcom.bin/369/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/370</palette>
+  <graphics>com/idcom.bin/371/2</graphics>
+  <cells>com/idcom.bin/371/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/372</palette>
+  <graphics>com/idcom.bin/373/2</graphics>
+  <cells>com/idcom.bin/373/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/374</palette>
+  <graphics>com/idcom.bin/375/2</graphics>
+  <cells>com/idcom.bin/375/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/376</palette>
+  <graphics>com/idcom.bin/377/2</graphics>
+  <cells>com/idcom.bin/377/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/378</palette>
+  <graphics>com/idcom.bin/379/2</graphics>
+  <cells>com/idcom.bin/379/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/380</palette>
+  <graphics>com/idcom.bin/381/2</graphics>
+  <cells>com/idcom.bin/381/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/382</palette>
+  <graphics>com/idcom.bin/383/2</graphics>
+  <cells>com/idcom.bin/383/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/384</palette>
+  <graphics>com/idcom.bin/385/2</graphics>
+  <cells>com/idcom.bin/385/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/386</palette>
+  <graphics>com/idcom.bin/387/2</graphics>
+  <cells>com/idcom.bin/387/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/388</palette>
+  <graphics>com/idcom.bin/389/2</graphics>
+  <cells>com/idcom.bin/389/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/390</palette>
+  <graphics>com/idcom.bin/391/2</graphics>
+  <cells>com/idcom.bin/391/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/392</palette>
+  <graphics>com/idcom.bin/393/2</graphics>
+  <cells>com/idcom.bin/393/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/394</palette>
+  <graphics>com/idcom.bin/395/2</graphics>
+  <cells>com/idcom.bin/395/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/396</palette>
+  <graphics>com/idcom.bin/397/2</graphics>
+  <cells>com/idcom.bin/397/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/398</palette>
+  <graphics>com/idcom.bin/399/2</graphics>
+  <cells>com/idcom.bin/399/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/400</palette>
+  <graphics>com/idcom.bin/401/2</graphics>
+  <cells>com/idcom.bin/401/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/402</palette>
+  <graphics>com/idcom.bin/403/2</graphics>
+  <cells>com/idcom.bin/403/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/404</palette>
+  <graphics>com/idcom.bin/405/2</graphics>
+  <cells>com/idcom.bin/405/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/406</palette>
+  <graphics>com/idcom.bin/407/2</graphics>
+  <cells>com/idcom.bin/407/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/408</palette>
+  <graphics>com/idcom.bin/409/2</graphics>
+  <cells>com/idcom.bin/409/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/410</palette>
+  <graphics>com/idcom.bin/411/2</graphics>
+  <cells>com/idcom.bin/411/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/412</palette>
+  <graphics>com/idcom.bin/413/2</graphics>
+  <cells>com/idcom.bin/413/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/414</palette>
+  <graphics>com/idcom.bin/415/2</graphics>
+  <cells>com/idcom.bin/415/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/416</palette>
+  <graphics>com/idcom.bin/417/2</graphics>
+  <cells>com/idcom.bin/417/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/418</palette>
+  <graphics>com/idcom.bin/419/2</graphics>
+  <cells>com/idcom.bin/419/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/420</palette>
+  <graphics>com/idcom.bin/421/2</graphics>
+  <cells>com/idcom.bin/421/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/422</palette>
+  <graphics>com/idcom.bin/423/2</graphics>
+  <cells>com/idcom.bin/423/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/424</palette>
+  <graphics>com/idcom.bin/425/2</graphics>
+  <cells>com/idcom.bin/425/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/426</palette>
+  <graphics>com/idcom.bin/427/2</graphics>
+  <cells>com/idcom.bin/427/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/428</palette>
+  <graphics>com/idcom.bin/429/2</graphics>
+  <cells>com/idcom.bin/429/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/430</palette>
+  <graphics>com/idcom.bin/431/2</graphics>
+  <cells>com/idcom.bin/431/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/432</palette>
+  <graphics>com/idcom.bin/433/2</graphics>
+  <cells>com/idcom.bin/433/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/434</palette>
+  <graphics>com/idcom.bin/435/2</graphics>
+  <cells>com/idcom.bin/435/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/436</palette>
+  <graphics>com/idcom.bin/437/2</graphics>
+  <cells>com/idcom.bin/437/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/438</palette>
+  <graphics>com/idcom.bin/439/2</graphics>
+  <cells>com/idcom.bin/439/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/440</palette>
+  <graphics>com/idcom.bin/441/2</graphics>
+  <cells>com/idcom.bin/441/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/442</palette>
+  <graphics>com/idcom.bin/443/2</graphics>
+  <cells>com/idcom.bin/443/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/444</palette>
+  <graphics>com/idcom.bin/445/2</graphics>
+  <cells>com/idcom.bin/445/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/446</palette>
+  <graphics>com/idcom.bin/447/2</graphics>
+  <cells>com/idcom.bin/447/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/448</palette>
+  <graphics>com/idcom.bin/449/2</graphics>
+  <cells>com/idcom.bin/449/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/450</palette>
+  <graphics>com/idcom.bin/451/2</graphics>
+  <cells>com/idcom.bin/451/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/452</palette>
+  <graphics>com/idcom.bin/453/2</graphics>
+  <cells>com/idcom.bin/453/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/454</palette>
+  <graphics>com/idcom.bin/455/2</graphics>
+  <cells>com/idcom.bin/455/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/456</palette>
+  <graphics>com/idcom.bin/457/2</graphics>
+  <cells>com/idcom.bin/457/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/458</palette>
+  <graphics>com/idcom.bin/459/2</graphics>
+  <cells>com/idcom.bin/459/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/460</palette>
+  <graphics>com/idcom.bin/461/2</graphics>
+  <cells>com/idcom.bin/461/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/462</palette>
+  <graphics>com/idcom.bin/463/2</graphics>
+  <cells>com/idcom.bin/463/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/464</palette>
+  <graphics>com/idcom.bin/465/2</graphics>
+  <cells>com/idcom.bin/465/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/466</palette>
+  <graphics>com/idcom.bin/467/2</graphics>
+  <cells>com/idcom.bin/467/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/468</palette>
+  <graphics>com/idcom.bin/469/2</graphics>
+  <cells>com/idcom.bin/469/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/470</palette>
+  <graphics>com/idcom.bin/471/2</graphics>
+  <cells>com/idcom.bin/471/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/472</palette>
+  <graphics>com/idcom.bin/473/2</graphics>
+  <cells>com/idcom.bin/473/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/474</palette>
+  <graphics>com/idcom.bin/475/2</graphics>
+  <cells>com/idcom.bin/475/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/476</palette>
+  <graphics>com/idcom.bin/477/2</graphics>
+  <cells>com/idcom.bin/477/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/478</palette>
+  <graphics>com/idcom.bin/479/2</graphics>
+  <cells>com/idcom.bin/479/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/480</palette>
+  <graphics>com/idcom.bin/481/2</graphics>
+  <cells>com/idcom.bin/481/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/482</palette>
+  <graphics>com/idcom.bin/483/2</graphics>
+  <cells>com/idcom.bin/483/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/484</palette>
+  <graphics>com/idcom.bin/485/2</graphics>
+  <cells>com/idcom.bin/485/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/486</palette>
+  <graphics>com/idcom.bin/487/2</graphics>
+  <cells>com/idcom.bin/487/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/488</palette>
+  <graphics>com/idcom.bin/489/2</graphics>
+  <cells>com/idcom.bin/489/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/490</palette>
+  <graphics>com/idcom.bin/491/2</graphics>
+  <cells>com/idcom.bin/491/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/492</palette>
+  <graphics>com/idcom.bin/493/2</graphics>
+  <cells>com/idcom.bin/493/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/494</palette>
+  <graphics>com/idcom.bin/495/2</graphics>
+  <cells>com/idcom.bin/495/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/496</palette>
+  <graphics>com/idcom.bin/497/2</graphics>
+  <cells>com/idcom.bin/497/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/498</palette>
+  <graphics>com/idcom.bin/499/2</graphics>
+  <cells>com/idcom.bin/499/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/500</palette>
+  <graphics>com/idcom.bin/501/2</graphics>
+  <cells>com/idcom.bin/501/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/502</palette>
+  <graphics>com/idcom.bin/503/2</graphics>
+  <cells>com/idcom.bin/503/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/504</palette>
+  <graphics>com/idcom.bin/505/2</graphics>
+  <cells>com/idcom.bin/505/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/506</palette>
+  <graphics>com/idcom.bin/507/2</graphics>
+  <cells>com/idcom.bin/507/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/508</palette>
+  <graphics>com/idcom.bin/509/2</graphics>
+  <cells>com/idcom.bin/509/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/510</palette>
+  <graphics>com/idcom.bin/511/2</graphics>
+  <cells>com/idcom.bin/511/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/512</palette>
+  <graphics>com/idcom.bin/513/2</graphics>
+  <cells>com/idcom.bin/513/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/514</palette>
+  <graphics>com/idcom.bin/515/2</graphics>
+  <cells>com/idcom.bin/515/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/516</palette>
+  <graphics>com/idcom.bin/517/2</graphics>
+  <cells>com/idcom.bin/517/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/518</palette>
+  <graphics>com/idcom.bin/519/2</graphics>
+  <cells>com/idcom.bin/519/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/520</palette>
+  <graphics>com/idcom.bin/521/2</graphics>
+  <cells>com/idcom.bin/521/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/522</palette>
+  <graphics>com/idcom.bin/523/2</graphics>
+  <cells>com/idcom.bin/523/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/524</palette>
+  <graphics>com/idcom.bin/525/2</graphics>
+  <cells>com/idcom.bin/525/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/526</palette>
+  <graphics>com/idcom.bin/527/2</graphics>
+  <cells>com/idcom.bin/527/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/528</palette>
+  <graphics>com/idcom.bin/529/2</graphics>
+  <cells>com/idcom.bin/529/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/530</palette>
+  <graphics>com/idcom.bin/531/2</graphics>
+  <cells>com/idcom.bin/531/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/532</palette>
+  <graphics>com/idcom.bin/533/2</graphics>
+  <cells>com/idcom.bin/533/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/534</palette>
+  <graphics>com/idcom.bin/535/2</graphics>
+  <cells>com/idcom.bin/535/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/536</palette>
+  <graphics>com/idcom.bin/537/2</graphics>
+  <cells>com/idcom.bin/537/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/538</palette>
+  <graphics>com/idcom.bin/539/2</graphics>
+  <cells>com/idcom.bin/539/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/540</palette>
+  <graphics>com/idcom.bin/541/2</graphics>
+  <cells>com/idcom.bin/541/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/542</palette>
+  <graphics>com/idcom.bin/543/2</graphics>
+  <cells>com/idcom.bin/543/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/544</palette>
+  <graphics>com/idcom.bin/545/2</graphics>
+  <cells>com/idcom.bin/545/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/546</palette>
+  <graphics>com/idcom.bin/547/2</graphics>
+  <cells>com/idcom.bin/547/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/548</palette>
+  <graphics>com/idcom.bin/549/2</graphics>
+  <cells>com/idcom.bin/549/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/550</palette>
+  <graphics>com/idcom.bin/551/2</graphics>
+  <cells>com/idcom.bin/551/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/552</palette>
+  <graphics>com/idcom.bin/553/2</graphics>
+  <cells>com/idcom.bin/553/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/554</palette>
+  <graphics>com/idcom.bin/555/2</graphics>
+  <cells>com/idcom.bin/555/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/556</palette>
+  <graphics>com/idcom.bin/557/2</graphics>
+  <cells>com/idcom.bin/557/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/558</palette>
+  <graphics>com/idcom.bin/559/2</graphics>
+  <cells>com/idcom.bin/559/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/560</palette>
+  <graphics>com/idcom.bin/561/2</graphics>
+  <cells>com/idcom.bin/561/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/562</palette>
+  <graphics>com/idcom.bin/563/2</graphics>
+  <cells>com/idcom.bin/563/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/564</palette>
+  <graphics>com/idcom.bin/565/2</graphics>
+  <cells>com/idcom.bin/565/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/566</palette>
+  <graphics>com/idcom.bin/567/2</graphics>
+  <cells>com/idcom.bin/567/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/568</palette>
+  <graphics>com/idcom.bin/569/2</graphics>
+  <cells>com/idcom.bin/569/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/570</palette>
+  <graphics>com/idcom.bin/571/2</graphics>
+  <cells>com/idcom.bin/571/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/572</palette>
+  <graphics>com/idcom.bin/573/2</graphics>
+  <cells>com/idcom.bin/573/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/574</palette>
+  <graphics>com/idcom.bin/575/2</graphics>
+  <cells>com/idcom.bin/575/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/576</palette>
+  <graphics>com/idcom.bin/577/2</graphics>
+  <cells>com/idcom.bin/577/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/578</palette>
+  <graphics>com/idcom.bin/579/2</graphics>
+  <cells>com/idcom.bin/579/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/580</palette>
+  <graphics>com/idcom.bin/581/2</graphics>
+  <cells>com/idcom.bin/581/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/582</palette>
+  <graphics>com/idcom.bin/583/2</graphics>
+  <cells>com/idcom.bin/583/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/584</palette>
+  <graphics>com/idcom.bin/585/2</graphics>
+  <cells>com/idcom.bin/585/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/586</palette>
+  <graphics>com/idcom.bin/587/2</graphics>
+  <cells>com/idcom.bin/587/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/588</palette>
+  <graphics>com/idcom.bin/589/2</graphics>
+  <cells>com/idcom.bin/589/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/590</palette>
+  <graphics>com/idcom.bin/591/2</graphics>
+  <cells>com/idcom.bin/591/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/592</palette>
+  <graphics>com/idcom.bin/593/2</graphics>
+  <cells>com/idcom.bin/593/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/594</palette>
+  <graphics>com/idcom.bin/595/2</graphics>
+  <cells>com/idcom.bin/595/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/596</palette>
+  <graphics>com/idcom.bin/597/2</graphics>
+  <cells>com/idcom.bin/597/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/598</palette>
+  <graphics>com/idcom.bin/599/2</graphics>
+  <cells>com/idcom.bin/599/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/600</palette>
+  <graphics>com/idcom.bin/601/2</graphics>
+  <cells>com/idcom.bin/601/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/602</palette>
+  <graphics>com/idcom.bin/603/2</graphics>
+  <cells>com/idcom.bin/603/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/604</palette>
+  <graphics>com/idcom.bin/605/2</graphics>
+  <cells>com/idcom.bin/605/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/606</palette>
+  <graphics>com/idcom.bin/607/2</graphics>
+  <cells>com/idcom.bin/607/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/608</palette>
+  <graphics>com/idcom.bin/609/2</graphics>
+  <cells>com/idcom.bin/609/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/610</palette>
+  <graphics>com/idcom.bin/611/2</graphics>
+  <cells>com/idcom.bin/611/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/612</palette>
+  <graphics>com/idcom.bin/613/2</graphics>
+  <cells>com/idcom.bin/613/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/614</palette>
+  <graphics>com/idcom.bin/615/2</graphics>
+  <cells>com/idcom.bin/615/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/616</palette>
+  <graphics>com/idcom.bin/617/2</graphics>
+  <cells>com/idcom.bin/617/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/618</palette>
+  <graphics>com/idcom.bin/619/2</graphics>
+  <cells>com/idcom.bin/619/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/620</palette>
+  <graphics>com/idcom.bin/621/2</graphics>
+  <cells>com/idcom.bin/621/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/622</palette>
+  <graphics>com/idcom.bin/623/2</graphics>
+  <cells>com/idcom.bin/623/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/624</palette>
+  <graphics>com/idcom.bin/625/2</graphics>
+  <cells>com/idcom.bin/625/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/626</palette>
+  <graphics>com/idcom.bin/627/2</graphics>
+  <cells>com/idcom.bin/627/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/628</palette>
+  <graphics>com/idcom.bin/629/2</graphics>
+  <cells>com/idcom.bin/629/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/630</palette>
+  <graphics>com/idcom.bin/631/2</graphics>
+  <cells>com/idcom.bin/631/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/632</palette>
+  <graphics>com/idcom.bin/633/2</graphics>
+  <cells>com/idcom.bin/633/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/634</palette>
+  <graphics>com/idcom.bin/635/2</graphics>
+  <cells>com/idcom.bin/635/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/636</palette>
+  <graphics>com/idcom.bin/637/2</graphics>
+  <cells>com/idcom.bin/637/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/638</palette>
+  <graphics>com/idcom.bin/639/2</graphics>
+  <cells>com/idcom.bin/639/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/640</palette>
+  <graphics>com/idcom.bin/641/2</graphics>
+  <cells>com/idcom.bin/641/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/642</palette>
+  <graphics>com/idcom.bin/643/2</graphics>
+  <cells>com/idcom.bin/643/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/644</palette>
+  <graphics>com/idcom.bin/645/2</graphics>
+  <cells>com/idcom.bin/645/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/646</palette>
+  <graphics>com/idcom.bin/647/2</graphics>
+  <cells>com/idcom.bin/647/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/648</palette>
+  <graphics>com/idcom.bin/649/2</graphics>
+  <cells>com/idcom.bin/649/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/650</palette>
+  <graphics>com/idcom.bin/651/2</graphics>
+  <cells>com/idcom.bin/651/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/652</palette>
+  <graphics>com/idcom.bin/653/2</graphics>
+  <cells>com/idcom.bin/653/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/654</palette>
+  <graphics>com/idcom.bin/655/2</graphics>
+  <cells>com/idcom.bin/655/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/656</palette>
+  <graphics>com/idcom.bin/657/2</graphics>
+  <cells>com/idcom.bin/657/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/658</palette>
+  <graphics>com/idcom.bin/659/2</graphics>
+  <cells>com/idcom.bin/659/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/660</palette>
+  <graphics>com/idcom.bin/661/2</graphics>
+  <cells>com/idcom.bin/661/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/662</palette>
+  <graphics>com/idcom.bin/663/2</graphics>
+  <cells>com/idcom.bin/663/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/664</palette>
+  <graphics>com/idcom.bin/665/2</graphics>
+  <cells>com/idcom.bin/665/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/666</palette>
+  <graphics>com/idcom.bin/667/2</graphics>
+  <cells>com/idcom.bin/667/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/668</palette>
+  <graphics>com/idcom.bin/669/2</graphics>
+  <cells>com/idcom.bin/669/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/670</palette>
+  <graphics>com/idcom.bin/671/2</graphics>
+  <cells>com/idcom.bin/671/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/672</palette>
+  <graphics>com/idcom.bin/673/2</graphics>
+  <cells>com/idcom.bin/673/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/674</palette>
+  <graphics>com/idcom.bin/675/2</graphics>
+  <cells>com/idcom.bin/675/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/676</palette>
+  <graphics>com/idcom.bin/677/2</graphics>
+  <cells>com/idcom.bin/677/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/678</palette>
+  <graphics>com/idcom.bin/679/2</graphics>
+  <cells>com/idcom.bin/679/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/680</palette>
+  <graphics>com/idcom.bin/681/2</graphics>
+  <cells>com/idcom.bin/681/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/682</palette>
+  <graphics>com/idcom.bin/683/2</graphics>
+  <cells>com/idcom.bin/683/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/684</palette>
+  <graphics>com/idcom.bin/685/2</graphics>
+  <cells>com/idcom.bin/685/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/686</palette>
+  <graphics>com/idcom.bin/687/2</graphics>
+  <cells>com/idcom.bin/687/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/688</palette>
+  <graphics>com/idcom.bin/689/2</graphics>
+  <cells>com/idcom.bin/689/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/690</palette>
+  <graphics>com/idcom.bin/691/2</graphics>
+  <cells>com/idcom.bin/691/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/692</palette>
+  <graphics>com/idcom.bin/693/2</graphics>
+  <cells>com/idcom.bin/693/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/694</palette>
+  <graphics>com/idcom.bin/695/2</graphics>
+  <cells>com/idcom.bin/695/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/696</palette>
+  <graphics>com/idcom.bin/697/2</graphics>
+  <cells>com/idcom.bin/697/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/698</palette>
+  <graphics>com/idcom.bin/699/2</graphics>
+  <cells>com/idcom.bin/699/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/700</palette>
+  <graphics>com/idcom.bin/701/2</graphics>
+  <cells>com/idcom.bin/701/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/702</palette>
+  <graphics>com/idcom.bin/703/2</graphics>
+  <cells>com/idcom.bin/703/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/704</palette>
+  <graphics>com/idcom.bin/705/2</graphics>
+  <cells>com/idcom.bin/705/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/706</palette>
+  <graphics>com/idcom.bin/707/2</graphics>
+  <cells>com/idcom.bin/707/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/708</palette>
+  <graphics>com/idcom.bin/709/2</graphics>
+  <cells>com/idcom.bin/709/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/710</palette>
+  <graphics>com/idcom.bin/711/2</graphics>
+  <cells>com/idcom.bin/711/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/712</palette>
+  <graphics>com/idcom.bin/713/2</graphics>
+  <cells>com/idcom.bin/713/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/714</palette>
+  <graphics>com/idcom.bin/715/2</graphics>
+  <cells>com/idcom.bin/715/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/716</palette>
+  <graphics>com/idcom.bin/717/2</graphics>
+  <cells>com/idcom.bin/717/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/718</palette>
+  <graphics>com/idcom.bin/719/2</graphics>
+  <cells>com/idcom.bin/719/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/720</palette>
+  <graphics>com/idcom.bin/721/2</graphics>
+  <cells>com/idcom.bin/721/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/722</palette>
+  <graphics>com/idcom.bin/723/2</graphics>
+  <cells>com/idcom.bin/723/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/724</palette>
+  <graphics>com/idcom.bin/725/2</graphics>
+  <cells>com/idcom.bin/725/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/726</palette>
+  <graphics>com/idcom.bin/727/2</graphics>
+  <cells>com/idcom.bin/727/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/728</palette>
+  <graphics>com/idcom.bin/729/2</graphics>
+  <cells>com/idcom.bin/729/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/730</palette>
+  <graphics>com/idcom.bin/731/2</graphics>
+  <cells>com/idcom.bin/731/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/732</palette>
+  <graphics>com/idcom.bin/733/2</graphics>
+  <cells>com/idcom.bin/733/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/734</palette>
+  <graphics>com/idcom.bin/735/2</graphics>
+  <cells>com/idcom.bin/735/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/736</palette>
+  <graphics>com/idcom.bin/737/2</graphics>
+  <cells>com/idcom.bin/737/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/738</palette>
+  <graphics>com/idcom.bin/739/2</graphics>
+  <cells>com/idcom.bin/739/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/740</palette>
+  <graphics>com/idcom.bin/741/2</graphics>
+  <cells>com/idcom.bin/741/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/742</palette>
+  <graphics>com/idcom.bin/743/2</graphics>
+  <cells>com/idcom.bin/743/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/744</palette>
+  <graphics>com/idcom.bin/745/2</graphics>
+  <cells>com/idcom.bin/745/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/746</palette>
+  <graphics>com/idcom.bin/747/2</graphics>
+  <cells>com/idcom.bin/747/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/748</palette>
+  <graphics>com/idcom.bin/749/2</graphics>
+  <cells>com/idcom.bin/749/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/750</palette>
+  <graphics>com/idcom.bin/751/2</graphics>
+  <cells>com/idcom.bin/751/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/752</palette>
+  <graphics>com/idcom.bin/753/2</graphics>
+  <cells>com/idcom.bin/753/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/754</palette>
+  <graphics>com/idcom.bin/755/2</graphics>
+  <cells>com/idcom.bin/755/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/756</palette>
+  <graphics>com/idcom.bin/757/2</graphics>
+  <cells>com/idcom.bin/757/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/758</palette>
+  <graphics>com/idcom.bin/759/2</graphics>
+  <cells>com/idcom.bin/759/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/760</palette>
+  <graphics>com/idcom.bin/761/2</graphics>
+  <cells>com/idcom.bin/761/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/762</palette>
+  <graphics>com/idcom.bin/763/2</graphics>
+  <cells>com/idcom.bin/763/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/764</palette>
+  <graphics>com/idcom.bin/765/2</graphics>
+  <cells>com/idcom.bin/765/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/766</palette>
+  <graphics>com/idcom.bin/767/2</graphics>
+  <cells>com/idcom.bin/767/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/768</palette>
+  <graphics>com/idcom.bin/769/2</graphics>
+  <cells>com/idcom.bin/769/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/770</palette>
+  <graphics>com/idcom.bin/771/2</graphics>
+  <cells>com/idcom.bin/771/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/772</palette>
+  <graphics>com/idcom.bin/773/2</graphics>
+  <cells>com/idcom.bin/773/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/774</palette>
+  <graphics>com/idcom.bin/775/2</graphics>
+  <cells>com/idcom.bin/775/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/776</palette>
+  <graphics>com/idcom.bin/777/2</graphics>
+  <cells>com/idcom.bin/777/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/778</palette>
+  <graphics>com/idcom.bin/779/2</graphics>
+  <cells>com/idcom.bin/779/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/780</palette>
+  <graphics>com/idcom.bin/781/2</graphics>
+  <cells>com/idcom.bin/781/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/782</palette>
+  <graphics>com/idcom.bin/783/2</graphics>
+  <cells>com/idcom.bin/783/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/784</palette>
+  <graphics>com/idcom.bin/785/2</graphics>
+  <cells>com/idcom.bin/785/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/786</palette>
+  <graphics>com/idcom.bin/787/2</graphics>
+  <cells>com/idcom.bin/787/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/788</palette>
+  <graphics>com/idcom.bin/789/2</graphics>
+  <cells>com/idcom.bin/789/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/790</palette>
+  <graphics>com/idcom.bin/791/2</graphics>
+  <cells>com/idcom.bin/791/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/792</palette>
+  <graphics>com/idcom.bin/793/2</graphics>
+  <cells>com/idcom.bin/793/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/794</palette>
+  <graphics>com/idcom.bin/795/2</graphics>
+  <cells>com/idcom.bin/795/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/796</palette>
+  <graphics>com/idcom.bin/797/2</graphics>
+  <cells>com/idcom.bin/797/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/798</palette>
+  <graphics>com/idcom.bin/799/2</graphics>
+  <cells>com/idcom.bin/799/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/800</palette>
+  <graphics>com/idcom.bin/801/2</graphics>
+  <cells>com/idcom.bin/801/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/802</palette>
+  <graphics>com/idcom.bin/803/2</graphics>
+  <cells>com/idcom.bin/803/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/804</palette>
+  <graphics>com/idcom.bin/805/2</graphics>
+  <cells>com/idcom.bin/805/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/806</palette>
+  <graphics>com/idcom.bin/807/2</graphics>
+  <cells>com/idcom.bin/807/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/808</palette>
+  <graphics>com/idcom.bin/809/2</graphics>
+  <cells>com/idcom.bin/809/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/810</palette>
+  <graphics>com/idcom.bin/811/2</graphics>
+  <cells>com/idcom.bin/811/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/812</palette>
+  <graphics>com/idcom.bin/813/2</graphics>
+  <cells>com/idcom.bin/813/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/814</palette>
+  <graphics>com/idcom.bin/815/2</graphics>
+  <cells>com/idcom.bin/815/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/816</palette>
+  <graphics>com/idcom.bin/817/2</graphics>
+  <cells>com/idcom.bin/817/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/818</palette>
+  <graphics>com/idcom.bin/819/2</graphics>
+  <cells>com/idcom.bin/819/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/820</palette>
+  <graphics>com/idcom.bin/821/2</graphics>
+  <cells>com/idcom.bin/821/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/822</palette>
+  <graphics>com/idcom.bin/823/2</graphics>
+  <cells>com/idcom.bin/823/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/824</palette>
+  <graphics>com/idcom.bin/825/2</graphics>
+  <cells>com/idcom.bin/825/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/826</palette>
+  <graphics>com/idcom.bin/827/2</graphics>
+  <cells>com/idcom.bin/827/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/828</palette>
+  <graphics>com/idcom.bin/829/2</graphics>
+  <cells>com/idcom.bin/829/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/830</palette>
+  <graphics>com/idcom.bin/831/2</graphics>
+  <cells>com/idcom.bin/831/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/832</palette>
+  <graphics>com/idcom.bin/833/2</graphics>
+  <cells>com/idcom.bin/833/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/834</palette>
+  <graphics>com/idcom.bin/835/2</graphics>
+  <cells>com/idcom.bin/835/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/836</palette>
+  <graphics>com/idcom.bin/837/2</graphics>
+  <cells>com/idcom.bin/837/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/838</palette>
+  <graphics>com/idcom.bin/839/2</graphics>
+  <cells>com/idcom.bin/839/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/840</palette>
+  <graphics>com/idcom.bin/841/2</graphics>
+  <cells>com/idcom.bin/841/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/842</palette>
+  <graphics>com/idcom.bin/843/2</graphics>
+  <cells>com/idcom.bin/843/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/844</palette>
+  <graphics>com/idcom.bin/845/2</graphics>
+  <cells>com/idcom.bin/845/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/846</palette>
+  <graphics>com/idcom.bin/847/2</graphics>
+  <cells>com/idcom.bin/847/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/848</palette>
+  <graphics>com/idcom.bin/849/2</graphics>
+  <cells>com/idcom.bin/849/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/850</palette>
+  <graphics>com/idcom.bin/851/2</graphics>
+  <cells>com/idcom.bin/851/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/852</palette>
+  <graphics>com/idcom.bin/853/2</graphics>
+  <cells>com/idcom.bin/853/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/854</palette>
+  <graphics>com/idcom.bin/855/2</graphics>
+  <cells>com/idcom.bin/855/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/856</palette>
+  <graphics>com/idcom.bin/857/2</graphics>
+  <cells>com/idcom.bin/857/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/858</palette>
+  <graphics>com/idcom.bin/859/2</graphics>
+  <cells>com/idcom.bin/859/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/860</palette>
+  <graphics>com/idcom.bin/861/2</graphics>
+  <cells>com/idcom.bin/861/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/862</palette>
+  <graphics>com/idcom.bin/863/2</graphics>
+  <cells>com/idcom.bin/863/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/864</palette>
+  <graphics>com/idcom.bin/865/2</graphics>
+  <cells>com/idcom.bin/865/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/866</palette>
+  <graphics>com/idcom.bin/867/2</graphics>
+  <cells>com/idcom.bin/867/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/868</palette>
+  <graphics>com/idcom.bin/869/2</graphics>
+  <cells>com/idcom.bin/869/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/870</palette>
+  <graphics>com/idcom.bin/871/2</graphics>
+  <cells>com/idcom.bin/871/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/872</palette>
+  <graphics>com/idcom.bin/873/2</graphics>
+  <cells>com/idcom.bin/873/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/874</palette>
+  <graphics>com/idcom.bin/875/2</graphics>
+  <cells>com/idcom.bin/875/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/876</palette>
+  <graphics>com/idcom.bin/877/2</graphics>
+  <cells>com/idcom.bin/877/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/878</palette>
+  <graphics>com/idcom.bin/879/2</graphics>
+  <cells>com/idcom.bin/879/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/880</palette>
+  <graphics>com/idcom.bin/881/2</graphics>
+  <cells>com/idcom.bin/881/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/882</palette>
+  <graphics>com/idcom.bin/883/2</graphics>
+  <cells>com/idcom.bin/883/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/884</palette>
+  <graphics>com/idcom.bin/885/2</graphics>
+  <cells>com/idcom.bin/885/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/886</palette>
+  <graphics>com/idcom.bin/887/2</graphics>
+  <cells>com/idcom.bin/887/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/888</palette>
+  <graphics>com/idcom.bin/889/2</graphics>
+  <cells>com/idcom.bin/889/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/890</palette>
+  <graphics>com/idcom.bin/891/2</graphics>
+  <cells>com/idcom.bin/891/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/892</palette>
+  <graphics>com/idcom.bin/893/2</graphics>
+  <cells>com/idcom.bin/893/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/894</palette>
+  <graphics>com/idcom.bin/895/2</graphics>
+  <cells>com/idcom.bin/895/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/896</palette>
+  <graphics>com/idcom.bin/897/2</graphics>
+  <cells>com/idcom.bin/897/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/898</palette>
+  <graphics>com/idcom.bin/899/2</graphics>
+  <cells>com/idcom.bin/899/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/900</palette>
+  <graphics>com/idcom.bin/901/2</graphics>
+  <cells>com/idcom.bin/901/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/902</palette>
+  <graphics>com/idcom.bin/903/2</graphics>
+  <cells>com/idcom.bin/903/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/904</palette>
+  <graphics>com/idcom.bin/905/2</graphics>
+  <cells>com/idcom.bin/905/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/906</palette>
+  <graphics>com/idcom.bin/907/2</graphics>
+  <cells>com/idcom.bin/907/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/908</palette>
+  <graphics>com/idcom.bin/909/2</graphics>
+  <cells>com/idcom.bin/909/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/910</palette>
+  <graphics>com/idcom.bin/911/2</graphics>
+  <cells>com/idcom.bin/911/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/912</palette>
+  <graphics>com/idcom.bin/913/2</graphics>
+  <cells>com/idcom.bin/913/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/914</palette>
+  <graphics>com/idcom.bin/915/2</graphics>
+  <cells>com/idcom.bin/915/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/916</palette>
+  <graphics>com/idcom.bin/917/2</graphics>
+  <cells>com/idcom.bin/917/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/918</palette>
+  <graphics>com/idcom.bin/919/2</graphics>
+  <cells>com/idcom.bin/919/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/920</palette>
+  <graphics>com/idcom.bin/921/2</graphics>
+  <cells>com/idcom.bin/921/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/922</palette>
+  <graphics>com/idcom.bin/923/2</graphics>
+  <cells>com/idcom.bin/923/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/924</palette>
+  <graphics>com/idcom.bin/925/2</graphics>
+  <cells>com/idcom.bin/925/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/926</palette>
+  <graphics>com/idcom.bin/927/2</graphics>
+  <cells>com/idcom.bin/927/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/928</palette>
+  <graphics>com/idcom.bin/929/2</graphics>
+  <cells>com/idcom.bin/929/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/930</palette>
+  <graphics>com/idcom.bin/931/2</graphics>
+  <cells>com/idcom.bin/931/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/932</palette>
+  <graphics>com/idcom.bin/933/2</graphics>
+  <cells>com/idcom.bin/933/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/934</palette>
+  <graphics>com/idcom.bin/935/2</graphics>
+  <cells>com/idcom.bin/935/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/936</palette>
+  <graphics>com/idcom.bin/937/2</graphics>
+  <cells>com/idcom.bin/937/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/938</palette>
+  <graphics>com/idcom.bin/939/2</graphics>
+  <cells>com/idcom.bin/939/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/940</palette>
+  <graphics>com/idcom.bin/941/2</graphics>
+  <cells>com/idcom.bin/941/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/942</palette>
+  <graphics>com/idcom.bin/943/2</graphics>
+  <cells>com/idcom.bin/943/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/944</palette>
+  <graphics>com/idcom.bin/945/2</graphics>
+  <cells>com/idcom.bin/945/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/946</palette>
+  <graphics>com/idcom.bin/947/2</graphics>
+  <cells>com/idcom.bin/947/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/948</palette>
+  <graphics>com/idcom.bin/949/2</graphics>
+  <cells>com/idcom.bin/949/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/950</palette>
+  <graphics>com/idcom.bin/951/2</graphics>
+  <cells>com/idcom.bin/951/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/952</palette>
+  <graphics>com/idcom.bin/953/2</graphics>
+  <cells>com/idcom.bin/953/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/954</palette>
+  <graphics>com/idcom.bin/955/2</graphics>
+  <cells>com/idcom.bin/955/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/956</palette>
+  <graphics>com/idcom.bin/957/2</graphics>
+  <cells>com/idcom.bin/957/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/958</palette>
+  <graphics>com/idcom.bin/959/2</graphics>
+  <cells>com/idcom.bin/959/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/960</palette>
+  <graphics>com/idcom.bin/961/2</graphics>
+  <cells>com/idcom.bin/961/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/962</palette>
+  <graphics>com/idcom.bin/963/2</graphics>
+  <cells>com/idcom.bin/963/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/964</palette>
+  <graphics>com/idcom.bin/965/2</graphics>
+  <cells>com/idcom.bin/965/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/966</palette>
+  <graphics>com/idcom.bin/967/2</graphics>
+  <cells>com/idcom.bin/967/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/idcom.bin/968</palette>
+  <graphics>com/idcom.bin/969/2</graphics>
+  <cells>com/idcom.bin/969/0</cells>
+</cellBank>
+
+
+  <screen>
+    <graphics>com/idcom.bin/970</graphics>
+    <palette>com/idcom.bin/971</palette>
+    <screen>com/idcom.bin/972</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/970</graphics>
+    <palette>com/idcom.bin/971</palette>
+    <screen>com/idcom.bin/973</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/974</graphics>
+    <palette>com/idcom.bin/975</palette>
+    <screen>com/idcom.bin/976</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/974</graphics>
+    <palette>com/idcom.bin/975</palette>
+    <screen>com/idcom.bin/977</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/974</graphics>
+    <palette>com/idcom.bin/975</palette>
+    <screen>com/idcom.bin/978</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/974</graphics>
+    <palette>com/idcom.bin/975</palette>
+    <screen>com/idcom.bin/979</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/980</graphics>
+    <palette>com/idcom.bin/981</palette>
+    <screen>com/idcom.bin/982</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/980</graphics>
+    <palette>com/idcom.bin/981</palette>
+    <screen>com/idcom.bin/983</screen>
+  </screen>
+
+  <cellBank>
+    <palette>com/idcom.bin/984</palette>
+    <graphics>com/idcom.bin/987</graphics>
+    <cells>com/idcom.bin/986</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/991</palette>
+    <graphics>com/idcom.bin/990</graphics>
+    <cells>com/idcom.bin/989</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/991</palette>
+    <graphics>com/idcom.bin/994</graphics>
+    <cells>com/idcom.bin/993</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/998</palette>
+    <graphics>com/idcom.bin/997</graphics>
+    <cells>com/idcom.bin/996</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1002</palette>
+    <graphics>com/idcom.bin/1001</graphics>
+    <cells>com/idcom.bin/1000</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1006</palette>
+    <graphics>com/idcom.bin/1005</graphics>
+    <cells>com/idcom.bin/1004</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1010</palette>
+    <graphics>com/idcom.bin/1009</graphics>
+    <cells>com/idcom.bin/1008</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1014</palette>
+    <graphics>com/idcom.bin/1013</graphics>
+    <cells>com/idcom.bin/1012</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1018</palette>
+    <graphics>com/idcom.bin/1017</graphics>
+    <cells>com/idcom.bin/1016</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1022</palette>
+    <graphics>com/idcom.bin/1021</graphics>
+    <cells>com/idcom.bin/1020</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1026</palette>
+    <graphics>com/idcom.bin/1025</graphics>
+    <cells>com/idcom.bin/1024</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1030</palette>
+    <graphics>com/idcom.bin/1029</graphics>
+    <cells>com/idcom.bin/1028</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1034</palette>
+    <graphics>com/idcom.bin/1033</graphics>
+    <cells>com/idcom.bin/1032</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1038</palette>
+    <graphics>com/idcom.bin/1037</graphics>
+    <cells>com/idcom.bin/1036</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1042</palette>
+    <graphics>com/idcom.bin/1041</graphics>
+    <cells>com/idcom.bin/1040</cells>
+  </cellBank>
+
+  <screen>
+    <graphics>com/idcom.bin/1043</graphics>
+    <palette>com/idcom.bin/1044</palette>
+    <screen>com/idcom.bin/1045</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/1043</graphics>
+    <palette>com/idcom.bin/1044</palette>
+    <screen>com/idcom.bin/1046</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/1043</graphics>
+    <palette>com/idcom.bin/1044</palette>
+    <screen>com/idcom.bin/1047</screen>
+  </screen>
+
+  <screen>
+    <graphics>com/idcom.bin/1043</graphics>
+    <palette>com/idcom.bin/1044</palette>
+    <screen>com/idcom.bin/1048</screen>
+  </screen>
+
+  <picture>
+    <graphics>com/idcom.bin/1049</graphics>
+    <palette>com/idcom.bin/1050</palette>
+  </picture>
+
+  <picture>
+    <graphics>com/idcom.bin/1051</graphics>
+    <palette>com/idcom.bin/1052</palette>
+  </picture>
+
+  <cellBank>
+    <palette>com/idcom.bin/1056</palette>
+    <graphics>com/idcom.bin/1055</graphics>
+    <cells>com/idcom.bin/1054</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/idcom.bin/1060</palette>
+    <graphics>com/idcom.bin/1059</graphics>
+    <cells>com/idcom.bin/1058</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>jpn/idlocal.bin/274</palette>
+    <graphics>jpn/idlocal.bin/273</graphics>
+    <cells>jpn/idlocal.bin/272</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>jpn/idlocal.bin/358</palette>
+    <graphics>jpn/idlocal.bin/357</graphics>
+    <cells>jpn/idlocal.bin/356</cells>
+  </cellBank>
+
+
+  <cellBank>
+    <palette>jpn/idlocal.bin/362</palette>
+    <graphics>jpn/idlocal.bin/361</graphics>
+    <cells>jpn/idlocal.bin/360</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>jpn/idlocal.bin/674</palette>
+    <graphics>jpn/idlocal.bin/673</graphics>
+    <cells>jpn/idlocal.bin/672</cells>
+  </cellBank>
+
 <screen>
   <graphics>jpn/title_local.bin/0</graphics>
   <palette>jpn/title_local.bin/1</palette>
