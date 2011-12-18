@@ -1,6 +1,1505 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <fileList>
 
+  <cellBank>
+    <palette>jpn/opening_local.bin/1</palette>
+    <graphics>jpn/opening_local.bin/0</graphics>
+    <cells>jpn/opening_local.bin/2</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>jpn/opening_local.bin/14</palette>
+    <graphics>jpn/opening_local.bin/13</graphics>
+    <cells>jpn/opening_local.bin/12</cells>
+  </cellBank>
+
+<cellBank>
+  <palette>jpn/cutobj_local.bin/1</palette>
+  <graphics>jpn/cutobj_local.bin/0/2</graphics>
+  <cells>jpn/cutobj_local.bin/0/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/3</palette>
+  <graphics>jpn/cutobj_local.bin/2/2</graphics>
+  <cells>jpn/cutobj_local.bin/2/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/5</palette>
+  <graphics>jpn/cutobj_local.bin/4/2</graphics>
+  <cells>jpn/cutobj_local.bin/4/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/7</palette>
+  <graphics>jpn/cutobj_local.bin/6/2</graphics>
+  <cells>jpn/cutobj_local.bin/6/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/9</palette>
+  <graphics>jpn/cutobj_local.bin/8/2</graphics>
+  <cells>jpn/cutobj_local.bin/8/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/11</palette>
+  <graphics>jpn/cutobj_local.bin/10/2</graphics>
+  <cells>jpn/cutobj_local.bin/10/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/13</palette>
+  <graphics>jpn/cutobj_local.bin/12/2</graphics>
+  <cells>jpn/cutobj_local.bin/12/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/15</palette>
+  <graphics>jpn/cutobj_local.bin/14/2</graphics>
+  <cells>jpn/cutobj_local.bin/14/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/17</palette>
+  <graphics>jpn/cutobj_local.bin/16/2</graphics>
+  <cells>jpn/cutobj_local.bin/16/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/19</palette>
+  <graphics>jpn/cutobj_local.bin/18/2</graphics>
+  <cells>jpn/cutobj_local.bin/18/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/21</palette>
+  <graphics>jpn/cutobj_local.bin/20/2</graphics>
+  <cells>jpn/cutobj_local.bin/20/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/23</palette>
+  <graphics>jpn/cutobj_local.bin/22/2</graphics>
+  <cells>jpn/cutobj_local.bin/22/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/cutobj_local.bin/25</palette>
+  <graphics>jpn/cutobj_local.bin/24/2</graphics>
+  <cells>jpn/cutobj_local.bin/24/0</cells>
+</cellBank>
+<cellBank maxCells="40">
+  <palette>jpn/cutobj_local.bin/27</palette>
+  <graphics>jpn/cutobj_local.bin/26/2</graphics>
+  <cells>jpn/cutobj_local.bin/26/0</cells>
+</cellBank>
+
+
+  <cellBank>
+    <palette>com/mapobj.bin/3</palette>
+    <graphics>com/mapobj.bin/2</graphics>
+    <cells>com/mapobj.bin/0</cells>
+  </cellBank>
+
+<cellBank>
+  <palette>com/mapobj.bin/11</palette>
+  <graphics>com/mapobj.bin/10</graphics>
+  <cells>com/mapobj.bin/8</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/15</palette>
+  <graphics>com/mapobj.bin/14</graphics>
+  <cells>com/mapobj.bin/12</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/19</palette>
+  <graphics>com/mapobj.bin/18</graphics>
+  <cells>com/mapobj.bin/16</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/23</palette>
+  <graphics>com/mapobj.bin/22</graphics>
+  <cells>com/mapobj.bin/20</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/27</palette>
+  <graphics>com/mapobj.bin/26</graphics>
+  <cells>com/mapobj.bin/24</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/31</palette>
+  <graphics>com/mapobj.bin/30</graphics>
+  <cells>com/mapobj.bin/28</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/35</palette>
+  <graphics>com/mapobj.bin/34</graphics>
+  <cells>com/mapobj.bin/32</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/39</palette>
+  <graphics>com/mapobj.bin/38</graphics>
+  <cells>com/mapobj.bin/36</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/43</palette>
+  <graphics>com/mapobj.bin/42</graphics>
+  <cells>com/mapobj.bin/40</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/47</palette>
+  <graphics>com/mapobj.bin/46</graphics>
+  <cells>com/mapobj.bin/44</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/51</palette>
+  <graphics>com/mapobj.bin/50</graphics>
+  <cells>com/mapobj.bin/48</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/55</palette>
+  <graphics>com/mapobj.bin/54</graphics>
+  <cells>com/mapobj.bin/52</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/59</palette>
+  <graphics>com/mapobj.bin/58</graphics>
+  <cells>com/mapobj.bin/56</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/63</palette>
+  <graphics>com/mapobj.bin/62</graphics>
+  <cells>com/mapobj.bin/60</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/67</palette>
+  <graphics>com/mapobj.bin/66</graphics>
+  <cells>com/mapobj.bin/64</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/71</palette>
+  <graphics>com/mapobj.bin/70</graphics>
+  <cells>com/mapobj.bin/68</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/75</palette>
+  <graphics>com/mapobj.bin/74</graphics>
+  <cells>com/mapobj.bin/72</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/79</palette>
+  <graphics>com/mapobj.bin/78</graphics>
+  <cells>com/mapobj.bin/76</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/83</palette>
+  <graphics>com/mapobj.bin/82</graphics>
+  <cells>com/mapobj.bin/80</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/87</palette>
+  <graphics>com/mapobj.bin/86</graphics>
+  <cells>com/mapobj.bin/84</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/91</palette>
+  <graphics>com/mapobj.bin/90</graphics>
+  <cells>com/mapobj.bin/88</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/95</palette>
+  <graphics>com/mapobj.bin/94</graphics>
+  <cells>com/mapobj.bin/92</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/99</palette>
+  <graphics>com/mapobj.bin/98</graphics>
+  <cells>com/mapobj.bin/96</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/103</palette>
+  <graphics>com/mapobj.bin/102</graphics>
+  <cells>com/mapobj.bin/100</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/107</palette>
+  <graphics>com/mapobj.bin/106</graphics>
+  <cells>com/mapobj.bin/104</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/111</palette>
+  <graphics>com/mapobj.bin/110</graphics>
+  <cells>com/mapobj.bin/108</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/115</palette>
+  <graphics>com/mapobj.bin/114</graphics>
+  <cells>com/mapobj.bin/112</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/119</palette>
+  <graphics>com/mapobj.bin/118</graphics>
+  <cells>com/mapobj.bin/116</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/123</palette>
+  <graphics>com/mapobj.bin/122</graphics>
+  <cells>com/mapobj.bin/120</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/127</palette>
+  <graphics>com/mapobj.bin/126</graphics>
+  <cells>com/mapobj.bin/124</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/131</palette>
+  <graphics>com/mapobj.bin/130</graphics>
+  <cells>com/mapobj.bin/128</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/135</palette>
+  <graphics>com/mapobj.bin/134</graphics>
+  <cells>com/mapobj.bin/132</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/139</palette>
+  <graphics>com/mapobj.bin/138</graphics>
+  <cells>com/mapobj.bin/136</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/143</palette>
+  <graphics>com/mapobj.bin/142</graphics>
+  <cells>com/mapobj.bin/140</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/147</palette>
+  <graphics>com/mapobj.bin/146</graphics>
+  <cells>com/mapobj.bin/144</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/151</palette>
+  <graphics>com/mapobj.bin/150</graphics>
+  <cells>com/mapobj.bin/148</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/155</palette>
+  <graphics>com/mapobj.bin/154</graphics>
+  <cells>com/mapobj.bin/152</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/159</palette>
+  <graphics>com/mapobj.bin/158</graphics>
+  <cells>com/mapobj.bin/156</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/163</palette>
+  <graphics>com/mapobj.bin/162</graphics>
+  <cells>com/mapobj.bin/160</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/167</palette>
+  <graphics>com/mapobj.bin/166</graphics>
+  <cells>com/mapobj.bin/164</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/171</palette>
+  <graphics>com/mapobj.bin/170</graphics>
+  <cells>com/mapobj.bin/168</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/175</palette>
+  <graphics>com/mapobj.bin/174</graphics>
+  <cells>com/mapobj.bin/172</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/179</palette>
+  <graphics>com/mapobj.bin/178</graphics>
+  <cells>com/mapobj.bin/176</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/183</palette>
+  <graphics>com/mapobj.bin/182</graphics>
+  <cells>com/mapobj.bin/180</cells>
+</cellBank>
+<cellBank>
+  <palette>com/mapobj.bin/187</palette>
+  <graphics>com/mapobj.bin/186</graphics>
+  <cells>com/mapobj.bin/184</cells>
+</cellBank>
+
+
+  <cellBank>
+    <palette>com/mapefc.bin/3</palette>
+    <graphics>com/mapefc.bin/2</graphics>
+    <cells>com/mapefc.bin/0</cells>
+  </cellBank>
+
+  <screen>
+    <palette>com/logicmat.bin/1</palette>
+    <graphics>com/logicmat.bin/0</graphics>
+    <screen>com/logicmat.bin/2</screen>
+  </screen>
+  <screen>
+    <palette>com/logicmat.bin/1</palette>
+    <graphics>com/logicmat.bin/3</graphics>
+    <screen>com/logicmat.bin/4</screen>
+  </screen>
+
+  <cellBank>
+    <palette>com/logicmat.bin/8</palette>
+    <graphics>com/logicmat.bin/7</graphics>
+    <cells>com/logicmat.bin/6</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/logicmat.bin/12</palette>
+    <graphics>com/logicmat.bin/11</graphics>
+    <cells>com/logicmat.bin/10</cells>
+  </cellBank>
+  <cellBank>
+    <palette>com/logicmat.bin/12</palette>
+    <graphics>com/logicmat.bin/15</graphics>
+    <cells>com/logicmat.bin/14</cells>
+  </cellBank>
+
+<picture>
+  <palette>com/mapbg.bin/5</palette>
+  <graphics>com/mapbg.bin/4</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/7</palette>
+  <graphics>com/mapbg.bin/6</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/9</palette>
+  <graphics>com/mapbg.bin/8</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/11</palette>
+  <graphics>com/mapbg.bin/10</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/13</palette>
+  <graphics>com/mapbg.bin/12</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/15</palette>
+  <graphics>com/mapbg.bin/14</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/17</palette>
+  <graphics>com/mapbg.bin/16</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/19</palette>
+  <graphics>com/mapbg.bin/18</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/21</palette>
+  <graphics>com/mapbg.bin/20</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/23</palette>
+  <graphics>com/mapbg.bin/22</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/25</palette>
+  <graphics>com/mapbg.bin/24</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/27</palette>
+  <graphics>com/mapbg.bin/26</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/29</palette>
+  <graphics>com/mapbg.bin/28</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/31</palette>
+  <graphics>com/mapbg.bin/30</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/33</palette>
+  <graphics>com/mapbg.bin/32</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/35</palette>
+  <graphics>com/mapbg.bin/34</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/37</palette>
+  <graphics>com/mapbg.bin/36</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/39</palette>
+  <graphics>com/mapbg.bin/38</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/41</palette>
+  <graphics>com/mapbg.bin/40</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/43</palette>
+  <graphics>com/mapbg.bin/42</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/45</palette>
+  <graphics>com/mapbg.bin/44</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/47</palette>
+  <graphics>com/mapbg.bin/46</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/49</palette>
+  <graphics>com/mapbg.bin/48</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/51</palette>
+  <graphics>com/mapbg.bin/50</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/53</palette>
+  <graphics>com/mapbg.bin/52</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/55</palette>
+  <graphics>com/mapbg.bin/54</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/57</palette>
+  <graphics>com/mapbg.bin/56</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/59</palette>
+  <graphics>com/mapbg.bin/58</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/61</palette>
+  <graphics>com/mapbg.bin/60</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/63</palette>
+  <graphics>com/mapbg.bin/62</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/65</palette>
+  <graphics>com/mapbg.bin/64</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/67</palette>
+  <graphics>com/mapbg.bin/66</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/69</palette>
+  <graphics>com/mapbg.bin/68</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/71</palette>
+  <graphics>com/mapbg.bin/70</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/73</palette>
+  <graphics>com/mapbg.bin/72</graphics>
+</picture>
+<picture>
+  <palette>com/mapbg.bin/75</palette>
+  <graphics>com/mapbg.bin/74</graphics>
+</picture>
+
+
+
+  <picture>
+    <palette>com/mapbg.bin/1</palette>
+    <graphics>com/mapbg.bin/0</graphics>
+  </picture>
+
+  <cellBank>
+    <palette>com/logicin.bin/0</palette>
+    <graphics>com/logicin.bin/1</graphics>
+    <cells>com/logicin.bin/2</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>com/logicin.bin/4</palette>
+    <graphics>com/logicin.bin/5</graphics>
+    <cells>com/logicin.bin/6</cells>
+  </cellBank>
+
+<cellBank>
+  <palette>com/opening.bin/3</palette>
+  <graphics>com/opening.bin/2</graphics>
+  <cells>com/opening.bin/1</cells>
+</cellBank>
+<cellBank>
+  <palette>com/opening.bin/7</palette>
+  <graphics>com/opening.bin/6</graphics>
+  <cells>com/opening.bin/5</cells>
+</cellBank>
+<cellBank>
+  <palette>com/opening.bin/11</palette>
+  <graphics>com/opening.bin/10</graphics>
+  <cells>com/opening.bin/9</cells>
+</cellBank>
+<cellBank>
+  <palette>com/opening.bin/15</palette>
+  <graphics>com/opening.bin/14</graphics>
+  <cells>com/opening.bin/13</cells>
+</cellBank>
+<cellBank>
+  <palette>com/opening.bin/19</palette>
+  <graphics>com/opening.bin/18</graphics>
+  <cells>com/opening.bin/17</cells>
+</cellBank>
+<cellBank>
+  <palette>com/opening.bin/23</palette>
+  <graphics>com/opening.bin/22</graphics>
+  <cells>com/opening.bin/21</cells>
+</cellBank>
+<cellBank>
+  <palette>com/opening.bin/27</palette>
+  <graphics>com/opening.bin/26</graphics>
+  <cells>com/opening.bin/25</cells>
+</cellBank>
+
+
+  <cellBank>
+    <palette>com/save.bin/44</palette>
+    <graphics>com/save.bin/43</graphics>
+    <cells>com/save.bin/42</cells>
+  </cellBank>
+
+<picture>
+  <palette>com/save.bin/2</palette>
+  <graphics>com/save.bin/1</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/4</palette>
+  <graphics>com/save.bin/3</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/6</palette>
+  <graphics>com/save.bin/5</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/8</palette>
+  <graphics>com/save.bin/7</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/10</palette>
+  <graphics>com/save.bin/9</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/12</palette>
+  <graphics>com/save.bin/11</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/14</palette>
+  <graphics>com/save.bin/13</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/16</palette>
+  <graphics>com/save.bin/15</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/18</palette>
+  <graphics>com/save.bin/17</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/20</palette>
+  <graphics>com/save.bin/19</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/22</palette>
+  <graphics>com/save.bin/21</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/24</palette>
+  <graphics>com/save.bin/23</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/26</palette>
+  <graphics>com/save.bin/25</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/28</palette>
+  <graphics>com/save.bin/27</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/30</palette>
+  <graphics>com/save.bin/29</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/32</palette>
+  <graphics>com/save.bin/31</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/34</palette>
+  <graphics>com/save.bin/33</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/36</palette>
+  <graphics>com/save.bin/35</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/38</palette>
+  <graphics>com/save.bin/37</graphics>
+</picture>
+<picture>
+  <palette>com/save.bin/40</palette>
+  <graphics>com/save.bin/39</graphics>
+</picture>
+
+
+<picture>
+  <palette>com/logicbg.bin/1</palette>
+  <graphics>com/logicbg.bin/0</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/3</palette>
+  <graphics>com/logicbg.bin/2</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/5</palette>
+  <graphics>com/logicbg.bin/4</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/7</palette>
+  <graphics>com/logicbg.bin/6</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/9</palette>
+  <graphics>com/logicbg.bin/8</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/11</palette>
+  <graphics>com/logicbg.bin/10</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/13</palette>
+  <graphics>com/logicbg.bin/12</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/15</palette>
+  <graphics>com/logicbg.bin/14</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/17</palette>
+  <graphics>com/logicbg.bin/16</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/19</palette>
+  <graphics>com/logicbg.bin/18</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/21</palette>
+  <graphics>com/logicbg.bin/20</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/23</palette>
+  <graphics>com/logicbg.bin/22</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/25</palette>
+  <graphics>com/logicbg.bin/24</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/27</palette>
+  <graphics>com/logicbg.bin/26</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/29</palette>
+  <graphics>com/logicbg.bin/28</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/31</palette>
+  <graphics>com/logicbg.bin/30</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/33</palette>
+  <graphics>com/logicbg.bin/32</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/35</palette>
+  <graphics>com/logicbg.bin/34</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/37</palette>
+  <graphics>com/logicbg.bin/36</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/39</palette>
+  <graphics>com/logicbg.bin/38</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/41</palette>
+  <graphics>com/logicbg.bin/40</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/43</palette>
+  <graphics>com/logicbg.bin/42</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/45</palette>
+  <graphics>com/logicbg.bin/44</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/47</palette>
+  <graphics>com/logicbg.bin/46</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/49</palette>
+  <graphics>com/logicbg.bin/48</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/51</palette>
+  <graphics>com/logicbg.bin/50</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/53</palette>
+  <graphics>com/logicbg.bin/52</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/55</palette>
+  <graphics>com/logicbg.bin/54</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/57</palette>
+  <graphics>com/logicbg.bin/56</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/59</palette>
+  <graphics>com/logicbg.bin/58</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/61</palette>
+  <graphics>com/logicbg.bin/60</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/63</palette>
+  <graphics>com/logicbg.bin/62</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/65</palette>
+  <graphics>com/logicbg.bin/64</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/67</palette>
+  <graphics>com/logicbg.bin/66</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/69</palette>
+  <graphics>com/logicbg.bin/68</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/71</palette>
+  <graphics>com/logicbg.bin/70</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/73</palette>
+  <graphics>com/logicbg.bin/72</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/75</palette>
+  <graphics>com/logicbg.bin/74</graphics>
+</picture>
+<picture>
+  <palette>com/logicbg.bin/77</palette>
+  <graphics>com/logicbg.bin/76</graphics>
+</picture>
+
+
+
+<cellBank>
+  <palette>com/cutobj.bin/1</palette>
+  <graphics>com/cutobj.bin/0/2</graphics>
+  <cells>com/cutobj.bin/0/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/cutobj.bin/3</palette>
+  <graphics>com/cutobj.bin/2/2</graphics>
+  <cells>com/cutobj.bin/2/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/cutobj.bin/5</palette>
+  <graphics>com/cutobj.bin/4/2</graphics>
+  <cells>com/cutobj.bin/4/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/cutobj.bin/7</palette>
+  <graphics>com/cutobj.bin/6/2</graphics>
+  <cells>com/cutobj.bin/6/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/cutobj.bin/9</palette>
+  <graphics>com/cutobj.bin/8/2</graphics>
+  <cells>com/cutobj.bin/8/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/cutobj.bin/11</palette>
+  <graphics>com/cutobj.bin/10/2</graphics>
+  <cells>com/cutobj.bin/10/0</cells>
+</cellBank>
+
+
+
+<cellBank>
+  <palette>com/logic_keyword.bin/1</palette>
+  <graphics>com/logic_keyword.bin/0/2</graphics>
+  <cells>com/logic_keyword.bin/0/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/3</palette>
+  <graphics>com/logic_keyword.bin/2/2</graphics>
+  <cells>com/logic_keyword.bin/2/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/5</palette>
+  <graphics>com/logic_keyword.bin/4/2</graphics>
+  <cells>com/logic_keyword.bin/4/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/7</palette>
+  <graphics>com/logic_keyword.bin/6/2</graphics>
+  <cells>com/logic_keyword.bin/6/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/9</palette>
+  <graphics>com/logic_keyword.bin/8/2</graphics>
+  <cells>com/logic_keyword.bin/8/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/11</palette>
+  <graphics>com/logic_keyword.bin/10/2</graphics>
+  <cells>com/logic_keyword.bin/10/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/13</palette>
+  <graphics>com/logic_keyword.bin/12/2</graphics>
+  <cells>com/logic_keyword.bin/12/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/15</palette>
+  <graphics>com/logic_keyword.bin/14/2</graphics>
+  <cells>com/logic_keyword.bin/14/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/17</palette>
+  <graphics>com/logic_keyword.bin/16/2</graphics>
+  <cells>com/logic_keyword.bin/16/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/19</palette>
+  <graphics>com/logic_keyword.bin/18/2</graphics>
+  <cells>com/logic_keyword.bin/18/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/21</palette>
+  <graphics>com/logic_keyword.bin/20/2</graphics>
+  <cells>com/logic_keyword.bin/20/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/23</palette>
+  <graphics>com/logic_keyword.bin/22/2</graphics>
+  <cells>com/logic_keyword.bin/22/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/25</palette>
+  <graphics>com/logic_keyword.bin/24/2</graphics>
+  <cells>com/logic_keyword.bin/24/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/27</palette>
+  <graphics>com/logic_keyword.bin/26/2</graphics>
+  <cells>com/logic_keyword.bin/26/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/29</palette>
+  <graphics>com/logic_keyword.bin/28/2</graphics>
+  <cells>com/logic_keyword.bin/28/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/31</palette>
+  <graphics>com/logic_keyword.bin/30/2</graphics>
+  <cells>com/logic_keyword.bin/30/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/33</palette>
+  <graphics>com/logic_keyword.bin/32/2</graphics>
+  <cells>com/logic_keyword.bin/32/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/35</palette>
+  <graphics>com/logic_keyword.bin/34/2</graphics>
+  <cells>com/logic_keyword.bin/34/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/37</palette>
+  <graphics>com/logic_keyword.bin/36/2</graphics>
+  <cells>com/logic_keyword.bin/36/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/39</palette>
+  <graphics>com/logic_keyword.bin/38/2</graphics>
+  <cells>com/logic_keyword.bin/38/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/41</palette>
+  <graphics>com/logic_keyword.bin/40/2</graphics>
+  <cells>com/logic_keyword.bin/40/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/43</palette>
+  <graphics>com/logic_keyword.bin/42/2</graphics>
+  <cells>com/logic_keyword.bin/42/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/45</palette>
+  <graphics>com/logic_keyword.bin/44/2</graphics>
+  <cells>com/logic_keyword.bin/44/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/47</palette>
+  <graphics>com/logic_keyword.bin/46/2</graphics>
+  <cells>com/logic_keyword.bin/46/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/49</palette>
+  <graphics>com/logic_keyword.bin/48/2</graphics>
+  <cells>com/logic_keyword.bin/48/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/51</palette>
+  <graphics>com/logic_keyword.bin/50/2</graphics>
+  <cells>com/logic_keyword.bin/50/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/53</palette>
+  <graphics>com/logic_keyword.bin/52/2</graphics>
+  <cells>com/logic_keyword.bin/52/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/55</palette>
+  <graphics>com/logic_keyword.bin/54/2</graphics>
+  <cells>com/logic_keyword.bin/54/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/57</palette>
+  <graphics>com/logic_keyword.bin/56/2</graphics>
+  <cells>com/logic_keyword.bin/56/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/59</palette>
+  <graphics>com/logic_keyword.bin/58/2</graphics>
+  <cells>com/logic_keyword.bin/58/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/61</palette>
+  <graphics>com/logic_keyword.bin/60/2</graphics>
+  <cells>com/logic_keyword.bin/60/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/63</palette>
+  <graphics>com/logic_keyword.bin/62/2</graphics>
+  <cells>com/logic_keyword.bin/62/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/65</palette>
+  <graphics>com/logic_keyword.bin/64/2</graphics>
+  <cells>com/logic_keyword.bin/64/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/67</palette>
+  <graphics>com/logic_keyword.bin/66/2</graphics>
+  <cells>com/logic_keyword.bin/66/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/69</palette>
+  <graphics>com/logic_keyword.bin/68/2</graphics>
+  <cells>com/logic_keyword.bin/68/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/71</palette>
+  <graphics>com/logic_keyword.bin/70/2</graphics>
+  <cells>com/logic_keyword.bin/70/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/73</palette>
+  <graphics>com/logic_keyword.bin/72/2</graphics>
+  <cells>com/logic_keyword.bin/72/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/75</palette>
+  <graphics>com/logic_keyword.bin/74/2</graphics>
+  <cells>com/logic_keyword.bin/74/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/77</palette>
+  <graphics>com/logic_keyword.bin/76/2</graphics>
+  <cells>com/logic_keyword.bin/76/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/79</palette>
+  <graphics>com/logic_keyword.bin/78/2</graphics>
+  <cells>com/logic_keyword.bin/78/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/81</palette>
+  <graphics>com/logic_keyword.bin/80/2</graphics>
+  <cells>com/logic_keyword.bin/80/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/83</palette>
+  <graphics>com/logic_keyword.bin/82/2</graphics>
+  <cells>com/logic_keyword.bin/82/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/85</palette>
+  <graphics>com/logic_keyword.bin/84/2</graphics>
+  <cells>com/logic_keyword.bin/84/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/87</palette>
+  <graphics>com/logic_keyword.bin/86/2</graphics>
+  <cells>com/logic_keyword.bin/86/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/89</palette>
+  <graphics>com/logic_keyword.bin/88/2</graphics>
+  <cells>com/logic_keyword.bin/88/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/91</palette>
+  <graphics>com/logic_keyword.bin/90/2</graphics>
+  <cells>com/logic_keyword.bin/90/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/93</palette>
+  <graphics>com/logic_keyword.bin/92/2</graphics>
+  <cells>com/logic_keyword.bin/92/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/95</palette>
+  <graphics>com/logic_keyword.bin/94/2</graphics>
+  <cells>com/logic_keyword.bin/94/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/97</palette>
+  <graphics>com/logic_keyword.bin/96/2</graphics>
+  <cells>com/logic_keyword.bin/96/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/99</palette>
+  <graphics>com/logic_keyword.bin/98/2</graphics>
+  <cells>com/logic_keyword.bin/98/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/101</palette>
+  <graphics>com/logic_keyword.bin/100/2</graphics>
+  <cells>com/logic_keyword.bin/100/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/103</palette>
+  <graphics>com/logic_keyword.bin/102/2</graphics>
+  <cells>com/logic_keyword.bin/102/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/105</palette>
+  <graphics>com/logic_keyword.bin/104/2</graphics>
+  <cells>com/logic_keyword.bin/104/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/107</palette>
+  <graphics>com/logic_keyword.bin/106/2</graphics>
+  <cells>com/logic_keyword.bin/106/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/109</palette>
+  <graphics>com/logic_keyword.bin/108/2</graphics>
+  <cells>com/logic_keyword.bin/108/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/111</palette>
+  <graphics>com/logic_keyword.bin/110/2</graphics>
+  <cells>com/logic_keyword.bin/110/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/113</palette>
+  <graphics>com/logic_keyword.bin/112/2</graphics>
+  <cells>com/logic_keyword.bin/112/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/115</palette>
+  <graphics>com/logic_keyword.bin/114/2</graphics>
+  <cells>com/logic_keyword.bin/114/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/117</palette>
+  <graphics>com/logic_keyword.bin/116/2</graphics>
+  <cells>com/logic_keyword.bin/116/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/119</palette>
+  <graphics>com/logic_keyword.bin/118/2</graphics>
+  <cells>com/logic_keyword.bin/118/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/121</palette>
+  <graphics>com/logic_keyword.bin/120/2</graphics>
+  <cells>com/logic_keyword.bin/120/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/123</palette>
+  <graphics>com/logic_keyword.bin/122/2</graphics>
+  <cells>com/logic_keyword.bin/122/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/125</palette>
+  <graphics>com/logic_keyword.bin/124/2</graphics>
+  <cells>com/logic_keyword.bin/124/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/127</palette>
+  <graphics>com/logic_keyword.bin/126/2</graphics>
+  <cells>com/logic_keyword.bin/126/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/129</palette>
+  <graphics>com/logic_keyword.bin/128/2</graphics>
+  <cells>com/logic_keyword.bin/128/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/131</palette>
+  <graphics>com/logic_keyword.bin/130/2</graphics>
+  <cells>com/logic_keyword.bin/130/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/133</palette>
+  <graphics>com/logic_keyword.bin/132/2</graphics>
+  <cells>com/logic_keyword.bin/132/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/135</palette>
+  <graphics>com/logic_keyword.bin/134/2</graphics>
+  <cells>com/logic_keyword.bin/134/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/137</palette>
+  <graphics>com/logic_keyword.bin/136/2</graphics>
+  <cells>com/logic_keyword.bin/136/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/139</palette>
+  <graphics>com/logic_keyword.bin/138/2</graphics>
+  <cells>com/logic_keyword.bin/138/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/141</palette>
+  <graphics>com/logic_keyword.bin/140/2</graphics>
+  <cells>com/logic_keyword.bin/140/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/143</palette>
+  <graphics>com/logic_keyword.bin/142/2</graphics>
+  <cells>com/logic_keyword.bin/142/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/145</palette>
+  <graphics>com/logic_keyword.bin/144/2</graphics>
+  <cells>com/logic_keyword.bin/144/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/147</palette>
+  <graphics>com/logic_keyword.bin/146/2</graphics>
+  <cells>com/logic_keyword.bin/146/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/149</palette>
+  <graphics>com/logic_keyword.bin/148/2</graphics>
+  <cells>com/logic_keyword.bin/148/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/151</palette>
+  <graphics>com/logic_keyword.bin/150/2</graphics>
+  <cells>com/logic_keyword.bin/150/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/153</palette>
+  <graphics>com/logic_keyword.bin/152/2</graphics>
+  <cells>com/logic_keyword.bin/152/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/155</palette>
+  <graphics>com/logic_keyword.bin/154/2</graphics>
+  <cells>com/logic_keyword.bin/154/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/157</palette>
+  <graphics>com/logic_keyword.bin/156/2</graphics>
+  <cells>com/logic_keyword.bin/156/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/159</palette>
+  <graphics>com/logic_keyword.bin/158/2</graphics>
+  <cells>com/logic_keyword.bin/158/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/161</palette>
+  <graphics>com/logic_keyword.bin/160/2</graphics>
+  <cells>com/logic_keyword.bin/160/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/163</palette>
+  <graphics>com/logic_keyword.bin/162/2</graphics>
+  <cells>com/logic_keyword.bin/162/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/165</palette>
+  <graphics>com/logic_keyword.bin/164/2</graphics>
+  <cells>com/logic_keyword.bin/164/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/167</palette>
+  <graphics>com/logic_keyword.bin/166/2</graphics>
+  <cells>com/logic_keyword.bin/166/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/169</palette>
+  <graphics>com/logic_keyword.bin/168/2</graphics>
+  <cells>com/logic_keyword.bin/168/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/171</palette>
+  <graphics>com/logic_keyword.bin/170/2</graphics>
+  <cells>com/logic_keyword.bin/170/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/173</palette>
+  <graphics>com/logic_keyword.bin/172/2</graphics>
+  <cells>com/logic_keyword.bin/172/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/175</palette>
+  <graphics>com/logic_keyword.bin/174/2</graphics>
+  <cells>com/logic_keyword.bin/174/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/177</palette>
+  <graphics>com/logic_keyword.bin/176/2</graphics>
+  <cells>com/logic_keyword.bin/176/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/179</palette>
+  <graphics>com/logic_keyword.bin/178/2</graphics>
+  <cells>com/logic_keyword.bin/178/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/181</palette>
+  <graphics>com/logic_keyword.bin/180/2</graphics>
+  <cells>com/logic_keyword.bin/180/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/183</palette>
+  <graphics>com/logic_keyword.bin/182/2</graphics>
+  <cells>com/logic_keyword.bin/182/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/185</palette>
+  <graphics>com/logic_keyword.bin/184/2</graphics>
+  <cells>com/logic_keyword.bin/184/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/187</palette>
+  <graphics>com/logic_keyword.bin/186/2</graphics>
+  <cells>com/logic_keyword.bin/186/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/189</palette>
+  <graphics>com/logic_keyword.bin/188/2</graphics>
+  <cells>com/logic_keyword.bin/188/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/191</palette>
+  <graphics>com/logic_keyword.bin/190/2</graphics>
+  <cells>com/logic_keyword.bin/190/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/193</palette>
+  <graphics>com/logic_keyword.bin/192/2</graphics>
+  <cells>com/logic_keyword.bin/192/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/195</palette>
+  <graphics>com/logic_keyword.bin/194/2</graphics>
+  <cells>com/logic_keyword.bin/194/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/197</palette>
+  <graphics>com/logic_keyword.bin/196/2</graphics>
+  <cells>com/logic_keyword.bin/196/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/199</palette>
+  <graphics>com/logic_keyword.bin/198/2</graphics>
+  <cells>com/logic_keyword.bin/198/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/201</palette>
+  <graphics>com/logic_keyword.bin/200/2</graphics>
+  <cells>com/logic_keyword.bin/200/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/203</palette>
+  <graphics>com/logic_keyword.bin/202/2</graphics>
+  <cells>com/logic_keyword.bin/202/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/205</palette>
+  <graphics>com/logic_keyword.bin/204/2</graphics>
+  <cells>com/logic_keyword.bin/204/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/207</palette>
+  <graphics>com/logic_keyword.bin/206/2</graphics>
+  <cells>com/logic_keyword.bin/206/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/209</palette>
+  <graphics>com/logic_keyword.bin/208/2</graphics>
+  <cells>com/logic_keyword.bin/208/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/211</palette>
+  <graphics>com/logic_keyword.bin/210/2</graphics>
+  <cells>com/logic_keyword.bin/210/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/213</palette>
+  <graphics>com/logic_keyword.bin/212/2</graphics>
+  <cells>com/logic_keyword.bin/212/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/215</palette>
+  <graphics>com/logic_keyword.bin/214/2</graphics>
+  <cells>com/logic_keyword.bin/214/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/217</palette>
+  <graphics>com/logic_keyword.bin/216/2</graphics>
+  <cells>com/logic_keyword.bin/216/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/219</palette>
+  <graphics>com/logic_keyword.bin/218/2</graphics>
+  <cells>com/logic_keyword.bin/218/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/221</palette>
+  <graphics>com/logic_keyword.bin/220/2</graphics>
+  <cells>com/logic_keyword.bin/220/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/223</palette>
+  <graphics>com/logic_keyword.bin/222/2</graphics>
+  <cells>com/logic_keyword.bin/222/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/225</palette>
+  <graphics>com/logic_keyword.bin/224/2</graphics>
+  <cells>com/logic_keyword.bin/224/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/227</palette>
+  <graphics>com/logic_keyword.bin/226/2</graphics>
+  <cells>com/logic_keyword.bin/226/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/229</palette>
+  <graphics>com/logic_keyword.bin/228/2</graphics>
+  <cells>com/logic_keyword.bin/228/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/231</palette>
+  <graphics>com/logic_keyword.bin/230/2</graphics>
+  <cells>com/logic_keyword.bin/230/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/233</palette>
+  <graphics>com/logic_keyword.bin/232/2</graphics>
+  <cells>com/logic_keyword.bin/232/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/235</palette>
+  <graphics>com/logic_keyword.bin/234/2</graphics>
+  <cells>com/logic_keyword.bin/234/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/237</palette>
+  <graphics>com/logic_keyword.bin/236/2</graphics>
+  <cells>com/logic_keyword.bin/236/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/239</palette>
+  <graphics>com/logic_keyword.bin/238/2</graphics>
+  <cells>com/logic_keyword.bin/238/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/241</palette>
+  <graphics>com/logic_keyword.bin/240/2</graphics>
+  <cells>com/logic_keyword.bin/240/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/243</palette>
+  <graphics>com/logic_keyword.bin/242/2</graphics>
+  <cells>com/logic_keyword.bin/242/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/245</palette>
+  <graphics>com/logic_keyword.bin/244/2</graphics>
+  <cells>com/logic_keyword.bin/244/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/247</palette>
+  <graphics>com/logic_keyword.bin/246/2</graphics>
+  <cells>com/logic_keyword.bin/246/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/249</palette>
+  <graphics>com/logic_keyword.bin/248/2</graphics>
+  <cells>com/logic_keyword.bin/248/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/251</palette>
+  <graphics>com/logic_keyword.bin/250/2</graphics>
+  <cells>com/logic_keyword.bin/250/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/253</palette>
+  <graphics>com/logic_keyword.bin/252/2</graphics>
+  <cells>com/logic_keyword.bin/252/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/255</palette>
+  <graphics>com/logic_keyword.bin/254/2</graphics>
+  <cells>com/logic_keyword.bin/254/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/257</palette>
+  <graphics>com/logic_keyword.bin/256/2</graphics>
+  <cells>com/logic_keyword.bin/256/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/259</palette>
+  <graphics>com/logic_keyword.bin/258/2</graphics>
+  <cells>com/logic_keyword.bin/258/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/261</palette>
+  <graphics>com/logic_keyword.bin/260/2</graphics>
+  <cells>com/logic_keyword.bin/260/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/263</palette>
+  <graphics>com/logic_keyword.bin/262/2</graphics>
+  <cells>com/logic_keyword.bin/262/0</cells>
+</cellBank>
+<cellBank>
+  <palette>com/logic_keyword.bin/265</palette>
+  <graphics>com/logic_keyword.bin/264/2</graphics>
+  <cells>com/logic_keyword.bin/264/0</cells>
+</cellBank>
+
+
+
 <cellBank>
   <palette>com/idcom.bin/5</palette>
   <graphics>com/idcom.bin/4/2</graphics>
