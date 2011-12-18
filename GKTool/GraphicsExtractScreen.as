@@ -39,6 +39,7 @@
 		private var tiles:NCGR;
 		private var screen:NSCR;
 		
+		private var maxCells:uint;
 		private var cellItr:uint;
 		private var itemItr:uint;
 		
@@ -100,6 +101,12 @@
 						saveLabels();
 					}
 					
+					if(item.@maxCells.length()>0) {
+						maxCells=item.@maxCells;
+					} else {
+						maxCells=cells.length;
+					}
+					
 					if(processCell()) return true;
 				break;
 				
@@ -126,7 +133,7 @@
 		private function saveLabels():void {
 			var o:String="";
 			for each(var label:String in cells.labels) {
-				o+=label+"\n";
+				o+=label+"\r\n";
 			}
 			saveTextFile(ncerName+"/labels.txt",o);
 		}
@@ -145,7 +152,7 @@
 			
 			cellItr++;
 			
-			if(cellItr>=cells.length) {
+			if(cellItr>=maxCells) {
 				cellItr=0;
 				itemItr++;
 				return false;
