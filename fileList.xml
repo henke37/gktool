@@ -1,6 +1,4026 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <fileList>
 
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/534/2</graphics>
+  <cells>jpn/idlocal.bin/534/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/535/2</graphics>
+  <cells>jpn/idlocal.bin/535/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/536/2</graphics>
+  <cells>jpn/idlocal.bin/536/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/537/2</graphics>
+  <cells>jpn/idlocal.bin/537/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/538/2</graphics>
+  <cells>jpn/idlocal.bin/538/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/539/2</graphics>
+  <cells>jpn/idlocal.bin/539/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/540/2</graphics>
+  <cells>jpn/idlocal.bin/540/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/541/2</graphics>
+  <cells>jpn/idlocal.bin/541/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/542/2</graphics>
+  <cells>jpn/idlocal.bin/542/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/543/2</graphics>
+  <cells>jpn/idlocal.bin/543/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/544/2</graphics>
+  <cells>jpn/idlocal.bin/544/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/545/2</graphics>
+  <cells>jpn/idlocal.bin/545/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/546/2</graphics>
+  <cells>jpn/idlocal.bin/546/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/547/2</graphics>
+  <cells>jpn/idlocal.bin/547/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/548/2</graphics>
+  <cells>jpn/idlocal.bin/548/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/549/2</graphics>
+  <cells>jpn/idlocal.bin/549/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/550/2</graphics>
+  <cells>jpn/idlocal.bin/550/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/551/2</graphics>
+  <cells>jpn/idlocal.bin/551/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/552/2</graphics>
+  <cells>jpn/idlocal.bin/552/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/553/2</graphics>
+  <cells>jpn/idlocal.bin/553/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/554/2</graphics>
+  <cells>jpn/idlocal.bin/554/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/555/2</graphics>
+  <cells>jpn/idlocal.bin/555/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/556/2</graphics>
+  <cells>jpn/idlocal.bin/556/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/557/2</graphics>
+  <cells>jpn/idlocal.bin/557/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/558/2</graphics>
+  <cells>jpn/idlocal.bin/558/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/559/2</graphics>
+  <cells>jpn/idlocal.bin/559/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/560/2</graphics>
+  <cells>jpn/idlocal.bin/560/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/561/2</graphics>
+  <cells>jpn/idlocal.bin/561/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/562/2</graphics>
+  <cells>jpn/idlocal.bin/562/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/563/2</graphics>
+  <cells>jpn/idlocal.bin/563/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/564/2</graphics>
+  <cells>jpn/idlocal.bin/564/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/565/2</graphics>
+  <cells>jpn/idlocal.bin/565/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/566/2</graphics>
+  <cells>jpn/idlocal.bin/566/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/567/2</graphics>
+  <cells>jpn/idlocal.bin/567/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/568/2</graphics>
+  <cells>jpn/idlocal.bin/568/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/569/2</graphics>
+  <cells>jpn/idlocal.bin/569/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/570/2</graphics>
+  <cells>jpn/idlocal.bin/570/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/571/2</graphics>
+  <cells>jpn/idlocal.bin/571/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/572/2</graphics>
+  <cells>jpn/idlocal.bin/572/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/573/2</graphics>
+  <cells>jpn/idlocal.bin/573/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/574/2</graphics>
+  <cells>jpn/idlocal.bin/574/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/575/2</graphics>
+  <cells>jpn/idlocal.bin/575/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/576/2</graphics>
+  <cells>jpn/idlocal.bin/576/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/577/2</graphics>
+  <cells>jpn/idlocal.bin/577/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/578/2</graphics>
+  <cells>jpn/idlocal.bin/578/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/579/2</graphics>
+  <cells>jpn/idlocal.bin/579/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/580/2</graphics>
+  <cells>jpn/idlocal.bin/580/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/581/2</graphics>
+  <cells>jpn/idlocal.bin/581/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/582/2</graphics>
+  <cells>jpn/idlocal.bin/582/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/583/2</graphics>
+  <cells>jpn/idlocal.bin/583/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/584/2</graphics>
+  <cells>jpn/idlocal.bin/584/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/585/2</graphics>
+  <cells>jpn/idlocal.bin/585/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/586/2</graphics>
+  <cells>jpn/idlocal.bin/586/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/587/2</graphics>
+  <cells>jpn/idlocal.bin/587/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/588/2</graphics>
+  <cells>jpn/idlocal.bin/588/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/589/2</graphics>
+  <cells>jpn/idlocal.bin/589/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/590/2</graphics>
+  <cells>jpn/idlocal.bin/590/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/591/2</graphics>
+  <cells>jpn/idlocal.bin/591/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/592/2</graphics>
+  <cells>jpn/idlocal.bin/592/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/593/2</graphics>
+  <cells>jpn/idlocal.bin/593/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/594/2</graphics>
+  <cells>jpn/idlocal.bin/594/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/595/2</graphics>
+  <cells>jpn/idlocal.bin/595/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/596/2</graphics>
+  <cells>jpn/idlocal.bin/596/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/597/2</graphics>
+  <cells>jpn/idlocal.bin/597/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/598/2</graphics>
+  <cells>jpn/idlocal.bin/598/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/599/2</graphics>
+  <cells>jpn/idlocal.bin/599/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/600/2</graphics>
+  <cells>jpn/idlocal.bin/600/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/601/2</graphics>
+  <cells>jpn/idlocal.bin/601/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/602/2</graphics>
+  <cells>jpn/idlocal.bin/602/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/603/2</graphics>
+  <cells>jpn/idlocal.bin/603/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/604/2</graphics>
+  <cells>jpn/idlocal.bin/604/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/605/2</graphics>
+  <cells>jpn/idlocal.bin/605/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/606/2</graphics>
+  <cells>jpn/idlocal.bin/606/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/607/2</graphics>
+  <cells>jpn/idlocal.bin/607/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/608/2</graphics>
+  <cells>jpn/idlocal.bin/608/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/609/2</graphics>
+  <cells>jpn/idlocal.bin/609/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/610/2</graphics>
+  <cells>jpn/idlocal.bin/610/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/611/2</graphics>
+  <cells>jpn/idlocal.bin/611/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/612/2</graphics>
+  <cells>jpn/idlocal.bin/612/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/613/2</graphics>
+  <cells>jpn/idlocal.bin/613/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/614/2</graphics>
+  <cells>jpn/idlocal.bin/614/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/615/2</graphics>
+  <cells>jpn/idlocal.bin/615/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/616/2</graphics>
+  <cells>jpn/idlocal.bin/616/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/617/2</graphics>
+  <cells>jpn/idlocal.bin/617/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/618/2</graphics>
+  <cells>jpn/idlocal.bin/618/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/619/2</graphics>
+  <cells>jpn/idlocal.bin/619/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/620/2</graphics>
+  <cells>jpn/idlocal.bin/620/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/621/2</graphics>
+  <cells>jpn/idlocal.bin/621/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/622/2</graphics>
+  <cells>jpn/idlocal.bin/622/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/623/2</graphics>
+  <cells>jpn/idlocal.bin/623/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/624/2</graphics>
+  <cells>jpn/idlocal.bin/624/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/625/2</graphics>
+  <cells>jpn/idlocal.bin/625/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/626/2</graphics>
+  <cells>jpn/idlocal.bin/626/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/627/2</graphics>
+  <cells>jpn/idlocal.bin/627/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/628/2</graphics>
+  <cells>jpn/idlocal.bin/628/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/629/2</graphics>
+  <cells>jpn/idlocal.bin/629/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/630/2</graphics>
+  <cells>jpn/idlocal.bin/630/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/631/2</graphics>
+  <cells>jpn/idlocal.bin/631/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/632/2</graphics>
+  <cells>jpn/idlocal.bin/632/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/633/2</graphics>
+  <cells>jpn/idlocal.bin/633/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/634/2</graphics>
+  <cells>jpn/idlocal.bin/634/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/635/2</graphics>
+  <cells>jpn/idlocal.bin/635/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/636/2</graphics>
+  <cells>jpn/idlocal.bin/636/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/637/2</graphics>
+  <cells>jpn/idlocal.bin/637/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/638/2</graphics>
+  <cells>jpn/idlocal.bin/638/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/639/2</graphics>
+  <cells>jpn/idlocal.bin/639/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/640/2</graphics>
+  <cells>jpn/idlocal.bin/640/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/641/2</graphics>
+  <cells>jpn/idlocal.bin/641/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/642/2</graphics>
+  <cells>jpn/idlocal.bin/642/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/643/2</graphics>
+  <cells>jpn/idlocal.bin/643/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/644/2</graphics>
+  <cells>jpn/idlocal.bin/644/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/645/2</graphics>
+  <cells>jpn/idlocal.bin/645/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/646/2</graphics>
+  <cells>jpn/idlocal.bin/646/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/647/2</graphics>
+  <cells>jpn/idlocal.bin/647/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/648/2</graphics>
+  <cells>jpn/idlocal.bin/648/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/649/2</graphics>
+  <cells>jpn/idlocal.bin/649/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/650/2</graphics>
+  <cells>jpn/idlocal.bin/650/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/651/2</graphics>
+  <cells>jpn/idlocal.bin/651/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/652/2</graphics>
+  <cells>jpn/idlocal.bin/652/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/653/2</graphics>
+  <cells>jpn/idlocal.bin/653/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/654/2</graphics>
+  <cells>jpn/idlocal.bin/654/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/655/2</graphics>
+  <cells>jpn/idlocal.bin/655/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/656/2</graphics>
+  <cells>jpn/idlocal.bin/656/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/657/2</graphics>
+  <cells>jpn/idlocal.bin/657/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/658/2</graphics>
+  <cells>jpn/idlocal.bin/658/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/659/2</graphics>
+  <cells>jpn/idlocal.bin/659/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/660/2</graphics>
+  <cells>jpn/idlocal.bin/660/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/661/2</graphics>
+  <cells>jpn/idlocal.bin/661/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/662/2</graphics>
+  <cells>jpn/idlocal.bin/662/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/663/2</graphics>
+  <cells>jpn/idlocal.bin/663/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/664/2</graphics>
+  <cells>jpn/idlocal.bin/664/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/665/2</graphics>
+  <cells>jpn/idlocal.bin/665/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/666/2</graphics>
+  <cells>jpn/idlocal.bin/666/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/667/2</graphics>
+  <cells>jpn/idlocal.bin/667/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/668/2</graphics>
+  <cells>jpn/idlocal.bin/668/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/669/2</graphics>
+  <cells>jpn/idlocal.bin/669/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/533</palette>
+  <graphics>jpn/idlocal.bin/670/2</graphics>
+  <cells>jpn/idlocal.bin/670/0</cells>
+</cellBank>
+
+
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/364/2</graphics>
+  <cells>jpn/idlocal.bin/364/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/365/2</graphics>
+  <cells>jpn/idlocal.bin/365/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/366/2</graphics>
+  <cells>jpn/idlocal.bin/366/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/367/2</graphics>
+  <cells>jpn/idlocal.bin/367/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/368/2</graphics>
+  <cells>jpn/idlocal.bin/368/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/369/2</graphics>
+  <cells>jpn/idlocal.bin/369/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/370/2</graphics>
+  <cells>jpn/idlocal.bin/370/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/371/2</graphics>
+  <cells>jpn/idlocal.bin/371/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/372/2</graphics>
+  <cells>jpn/idlocal.bin/372/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/373/2</graphics>
+  <cells>jpn/idlocal.bin/373/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/374/2</graphics>
+  <cells>jpn/idlocal.bin/374/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/375/2</graphics>
+  <cells>jpn/idlocal.bin/375/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/376/2</graphics>
+  <cells>jpn/idlocal.bin/376/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/377/2</graphics>
+  <cells>jpn/idlocal.bin/377/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/378/2</graphics>
+  <cells>jpn/idlocal.bin/378/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/379/2</graphics>
+  <cells>jpn/idlocal.bin/379/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/380/2</graphics>
+  <cells>jpn/idlocal.bin/380/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/381/2</graphics>
+  <cells>jpn/idlocal.bin/381/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/382/2</graphics>
+  <cells>jpn/idlocal.bin/382/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/383/2</graphics>
+  <cells>jpn/idlocal.bin/383/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/384/2</graphics>
+  <cells>jpn/idlocal.bin/384/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/385/2</graphics>
+  <cells>jpn/idlocal.bin/385/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/386/2</graphics>
+  <cells>jpn/idlocal.bin/386/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/387/2</graphics>
+  <cells>jpn/idlocal.bin/387/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/388/2</graphics>
+  <cells>jpn/idlocal.bin/388/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/389/2</graphics>
+  <cells>jpn/idlocal.bin/389/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/390/2</graphics>
+  <cells>jpn/idlocal.bin/390/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/391/2</graphics>
+  <cells>jpn/idlocal.bin/391/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/392/2</graphics>
+  <cells>jpn/idlocal.bin/392/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/393/2</graphics>
+  <cells>jpn/idlocal.bin/393/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/394/2</graphics>
+  <cells>jpn/idlocal.bin/394/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/395/2</graphics>
+  <cells>jpn/idlocal.bin/395/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/396/2</graphics>
+  <cells>jpn/idlocal.bin/396/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/397/2</graphics>
+  <cells>jpn/idlocal.bin/397/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/398/2</graphics>
+  <cells>jpn/idlocal.bin/398/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/399/2</graphics>
+  <cells>jpn/idlocal.bin/399/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/400/2</graphics>
+  <cells>jpn/idlocal.bin/400/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/401/2</graphics>
+  <cells>jpn/idlocal.bin/401/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/402/2</graphics>
+  <cells>jpn/idlocal.bin/402/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/403/2</graphics>
+  <cells>jpn/idlocal.bin/403/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/404/2</graphics>
+  <cells>jpn/idlocal.bin/404/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/405/2</graphics>
+  <cells>jpn/idlocal.bin/405/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/406/2</graphics>
+  <cells>jpn/idlocal.bin/406/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/407/2</graphics>
+  <cells>jpn/idlocal.bin/407/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/408/2</graphics>
+  <cells>jpn/idlocal.bin/408/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/409/2</graphics>
+  <cells>jpn/idlocal.bin/409/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/410/2</graphics>
+  <cells>jpn/idlocal.bin/410/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/411/2</graphics>
+  <cells>jpn/idlocal.bin/411/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/412/2</graphics>
+  <cells>jpn/idlocal.bin/412/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/413/2</graphics>
+  <cells>jpn/idlocal.bin/413/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/414/2</graphics>
+  <cells>jpn/idlocal.bin/414/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/415/2</graphics>
+  <cells>jpn/idlocal.bin/415/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/416/2</graphics>
+  <cells>jpn/idlocal.bin/416/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/417/2</graphics>
+  <cells>jpn/idlocal.bin/417/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/418/2</graphics>
+  <cells>jpn/idlocal.bin/418/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/419/2</graphics>
+  <cells>jpn/idlocal.bin/419/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/420/2</graphics>
+  <cells>jpn/idlocal.bin/420/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/421/2</graphics>
+  <cells>jpn/idlocal.bin/421/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/422/2</graphics>
+  <cells>jpn/idlocal.bin/422/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/423/2</graphics>
+  <cells>jpn/idlocal.bin/423/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/424/2</graphics>
+  <cells>jpn/idlocal.bin/424/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/425/2</graphics>
+  <cells>jpn/idlocal.bin/425/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/426/2</graphics>
+  <cells>jpn/idlocal.bin/426/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/427/2</graphics>
+  <cells>jpn/idlocal.bin/427/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/428/2</graphics>
+  <cells>jpn/idlocal.bin/428/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/429/2</graphics>
+  <cells>jpn/idlocal.bin/429/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/430/2</graphics>
+  <cells>jpn/idlocal.bin/430/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/431/2</graphics>
+  <cells>jpn/idlocal.bin/431/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/432/2</graphics>
+  <cells>jpn/idlocal.bin/432/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/433/2</graphics>
+  <cells>jpn/idlocal.bin/433/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/434/2</graphics>
+  <cells>jpn/idlocal.bin/434/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/435/2</graphics>
+  <cells>jpn/idlocal.bin/435/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/436/2</graphics>
+  <cells>jpn/idlocal.bin/436/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/437/2</graphics>
+  <cells>jpn/idlocal.bin/437/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/438/2</graphics>
+  <cells>jpn/idlocal.bin/438/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/439/2</graphics>
+  <cells>jpn/idlocal.bin/439/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/440/2</graphics>
+  <cells>jpn/idlocal.bin/440/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/441/2</graphics>
+  <cells>jpn/idlocal.bin/441/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/442/2</graphics>
+  <cells>jpn/idlocal.bin/442/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/443/2</graphics>
+  <cells>jpn/idlocal.bin/443/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/444/2</graphics>
+  <cells>jpn/idlocal.bin/444/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/445/2</graphics>
+  <cells>jpn/idlocal.bin/445/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/446/2</graphics>
+  <cells>jpn/idlocal.bin/446/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/447/2</graphics>
+  <cells>jpn/idlocal.bin/447/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/448/2</graphics>
+  <cells>jpn/idlocal.bin/448/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/449/2</graphics>
+  <cells>jpn/idlocal.bin/449/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/450/2</graphics>
+  <cells>jpn/idlocal.bin/450/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/451/2</graphics>
+  <cells>jpn/idlocal.bin/451/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/452/2</graphics>
+  <cells>jpn/idlocal.bin/452/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/453/2</graphics>
+  <cells>jpn/idlocal.bin/453/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/454/2</graphics>
+  <cells>jpn/idlocal.bin/454/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/455/2</graphics>
+  <cells>jpn/idlocal.bin/455/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/456/2</graphics>
+  <cells>jpn/idlocal.bin/456/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/457/2</graphics>
+  <cells>jpn/idlocal.bin/457/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/458/2</graphics>
+  <cells>jpn/idlocal.bin/458/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/459/2</graphics>
+  <cells>jpn/idlocal.bin/459/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/460/2</graphics>
+  <cells>jpn/idlocal.bin/460/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/461/2</graphics>
+  <cells>jpn/idlocal.bin/461/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/462/2</graphics>
+  <cells>jpn/idlocal.bin/462/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/463/2</graphics>
+  <cells>jpn/idlocal.bin/463/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/464/2</graphics>
+  <cells>jpn/idlocal.bin/464/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/465/2</graphics>
+  <cells>jpn/idlocal.bin/465/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/466/2</graphics>
+  <cells>jpn/idlocal.bin/466/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/467/2</graphics>
+  <cells>jpn/idlocal.bin/467/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/468/2</graphics>
+  <cells>jpn/idlocal.bin/468/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/469/2</graphics>
+  <cells>jpn/idlocal.bin/469/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/470/2</graphics>
+  <cells>jpn/idlocal.bin/470/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/471/2</graphics>
+  <cells>jpn/idlocal.bin/471/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/472/2</graphics>
+  <cells>jpn/idlocal.bin/472/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/473/2</graphics>
+  <cells>jpn/idlocal.bin/473/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/474/2</graphics>
+  <cells>jpn/idlocal.bin/474/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/475/2</graphics>
+  <cells>jpn/idlocal.bin/475/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/476/2</graphics>
+  <cells>jpn/idlocal.bin/476/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/477/2</graphics>
+  <cells>jpn/idlocal.bin/477/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/478/2</graphics>
+  <cells>jpn/idlocal.bin/478/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/479/2</graphics>
+  <cells>jpn/idlocal.bin/479/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/480/2</graphics>
+  <cells>jpn/idlocal.bin/480/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/481/2</graphics>
+  <cells>jpn/idlocal.bin/481/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/482/2</graphics>
+  <cells>jpn/idlocal.bin/482/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/483/2</graphics>
+  <cells>jpn/idlocal.bin/483/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/484/2</graphics>
+  <cells>jpn/idlocal.bin/484/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/485/2</graphics>
+  <cells>jpn/idlocal.bin/485/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/486/2</graphics>
+  <cells>jpn/idlocal.bin/486/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/487/2</graphics>
+  <cells>jpn/idlocal.bin/487/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/488/2</graphics>
+  <cells>jpn/idlocal.bin/488/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/489/2</graphics>
+  <cells>jpn/idlocal.bin/489/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/490/2</graphics>
+  <cells>jpn/idlocal.bin/490/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/491/2</graphics>
+  <cells>jpn/idlocal.bin/491/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/492/2</graphics>
+  <cells>jpn/idlocal.bin/492/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/493/2</graphics>
+  <cells>jpn/idlocal.bin/493/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/494/2</graphics>
+  <cells>jpn/idlocal.bin/494/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/495/2</graphics>
+  <cells>jpn/idlocal.bin/495/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/496/2</graphics>
+  <cells>jpn/idlocal.bin/496/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/497/2</graphics>
+  <cells>jpn/idlocal.bin/497/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/498/2</graphics>
+  <cells>jpn/idlocal.bin/498/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/499/2</graphics>
+  <cells>jpn/idlocal.bin/499/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/500/2</graphics>
+  <cells>jpn/idlocal.bin/500/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/501/2</graphics>
+  <cells>jpn/idlocal.bin/501/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/502/2</graphics>
+  <cells>jpn/idlocal.bin/502/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/503/2</graphics>
+  <cells>jpn/idlocal.bin/503/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/504/2</graphics>
+  <cells>jpn/idlocal.bin/504/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/505/2</graphics>
+  <cells>jpn/idlocal.bin/505/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/506/2</graphics>
+  <cells>jpn/idlocal.bin/506/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/507/2</graphics>
+  <cells>jpn/idlocal.bin/507/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/508/2</graphics>
+  <cells>jpn/idlocal.bin/508/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/509/2</graphics>
+  <cells>jpn/idlocal.bin/509/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/510/2</graphics>
+  <cells>jpn/idlocal.bin/510/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/511/2</graphics>
+  <cells>jpn/idlocal.bin/511/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/512/2</graphics>
+  <cells>jpn/idlocal.bin/512/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/513/2</graphics>
+  <cells>jpn/idlocal.bin/513/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/514/2</graphics>
+  <cells>jpn/idlocal.bin/514/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/515/2</graphics>
+  <cells>jpn/idlocal.bin/515/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/516/2</graphics>
+  <cells>jpn/idlocal.bin/516/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/517/2</graphics>
+  <cells>jpn/idlocal.bin/517/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/518/2</graphics>
+  <cells>jpn/idlocal.bin/518/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/519/2</graphics>
+  <cells>jpn/idlocal.bin/519/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/520/2</graphics>
+  <cells>jpn/idlocal.bin/520/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/521/2</graphics>
+  <cells>jpn/idlocal.bin/521/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/522/2</graphics>
+  <cells>jpn/idlocal.bin/522/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/523/2</graphics>
+  <cells>jpn/idlocal.bin/523/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/524/2</graphics>
+  <cells>jpn/idlocal.bin/524/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/525/2</graphics>
+  <cells>jpn/idlocal.bin/525/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/526/2</graphics>
+  <cells>jpn/idlocal.bin/526/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/527/2</graphics>
+  <cells>jpn/idlocal.bin/527/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/528/2</graphics>
+  <cells>jpn/idlocal.bin/528/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/529/2</graphics>
+  <cells>jpn/idlocal.bin/529/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/530/2</graphics>
+  <cells>jpn/idlocal.bin/530/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/531/2</graphics>
+  <cells>jpn/idlocal.bin/531/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/363</palette>
+  <graphics>jpn/idlocal.bin/532/2</graphics>
+  <cells>jpn/idlocal.bin/532/0</cells>
+</cellBank>
+
+
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/88/2</graphics>
+  <cells>jpn/idlocal.bin/88/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/89/2</graphics>
+  <cells>jpn/idlocal.bin/89/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/90/2</graphics>
+  <cells>jpn/idlocal.bin/90/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/91/2</graphics>
+  <cells>jpn/idlocal.bin/91/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/92/2</graphics>
+  <cells>jpn/idlocal.bin/92/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/93/2</graphics>
+  <cells>jpn/idlocal.bin/93/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/94/2</graphics>
+  <cells>jpn/idlocal.bin/94/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/95/2</graphics>
+  <cells>jpn/idlocal.bin/95/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/96/2</graphics>
+  <cells>jpn/idlocal.bin/96/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/97/2</graphics>
+  <cells>jpn/idlocal.bin/97/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/98/2</graphics>
+  <cells>jpn/idlocal.bin/98/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/99/2</graphics>
+  <cells>jpn/idlocal.bin/99/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/100/2</graphics>
+  <cells>jpn/idlocal.bin/100/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/101/2</graphics>
+  <cells>jpn/idlocal.bin/101/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/102/2</graphics>
+  <cells>jpn/idlocal.bin/102/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/103/2</graphics>
+  <cells>jpn/idlocal.bin/103/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/104/2</graphics>
+  <cells>jpn/idlocal.bin/104/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/105/2</graphics>
+  <cells>jpn/idlocal.bin/105/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/106/2</graphics>
+  <cells>jpn/idlocal.bin/106/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/107/2</graphics>
+  <cells>jpn/idlocal.bin/107/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/108/2</graphics>
+  <cells>jpn/idlocal.bin/108/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/109/2</graphics>
+  <cells>jpn/idlocal.bin/109/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/110/2</graphics>
+  <cells>jpn/idlocal.bin/110/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/111/2</graphics>
+  <cells>jpn/idlocal.bin/111/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/112/2</graphics>
+  <cells>jpn/idlocal.bin/112/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/113/2</graphics>
+  <cells>jpn/idlocal.bin/113/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/114/2</graphics>
+  <cells>jpn/idlocal.bin/114/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/115/2</graphics>
+  <cells>jpn/idlocal.bin/115/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/116/2</graphics>
+  <cells>jpn/idlocal.bin/116/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/117/2</graphics>
+  <cells>jpn/idlocal.bin/117/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/118/2</graphics>
+  <cells>jpn/idlocal.bin/118/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/119/2</graphics>
+  <cells>jpn/idlocal.bin/119/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/120/2</graphics>
+  <cells>jpn/idlocal.bin/120/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/121/2</graphics>
+  <cells>jpn/idlocal.bin/121/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/122/2</graphics>
+  <cells>jpn/idlocal.bin/122/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/123/2</graphics>
+  <cells>jpn/idlocal.bin/123/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/124/2</graphics>
+  <cells>jpn/idlocal.bin/124/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/125/2</graphics>
+  <cells>jpn/idlocal.bin/125/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/126/2</graphics>
+  <cells>jpn/idlocal.bin/126/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/127/2</graphics>
+  <cells>jpn/idlocal.bin/127/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/128/2</graphics>
+  <cells>jpn/idlocal.bin/128/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/129/2</graphics>
+  <cells>jpn/idlocal.bin/129/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/130/2</graphics>
+  <cells>jpn/idlocal.bin/130/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/131/2</graphics>
+  <cells>jpn/idlocal.bin/131/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/132/2</graphics>
+  <cells>jpn/idlocal.bin/132/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/133/2</graphics>
+  <cells>jpn/idlocal.bin/133/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/134/2</graphics>
+  <cells>jpn/idlocal.bin/134/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/135/2</graphics>
+  <cells>jpn/idlocal.bin/135/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/136/2</graphics>
+  <cells>jpn/idlocal.bin/136/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/137/2</graphics>
+  <cells>jpn/idlocal.bin/137/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/138/2</graphics>
+  <cells>jpn/idlocal.bin/138/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/139/2</graphics>
+  <cells>jpn/idlocal.bin/139/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/140/2</graphics>
+  <cells>jpn/idlocal.bin/140/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/141/2</graphics>
+  <cells>jpn/idlocal.bin/141/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/142/2</graphics>
+  <cells>jpn/idlocal.bin/142/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/143/2</graphics>
+  <cells>jpn/idlocal.bin/143/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/144/2</graphics>
+  <cells>jpn/idlocal.bin/144/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/145/2</graphics>
+  <cells>jpn/idlocal.bin/145/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/146/2</graphics>
+  <cells>jpn/idlocal.bin/146/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/147/2</graphics>
+  <cells>jpn/idlocal.bin/147/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/148/2</graphics>
+  <cells>jpn/idlocal.bin/148/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/149/2</graphics>
+  <cells>jpn/idlocal.bin/149/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/150/2</graphics>
+  <cells>jpn/idlocal.bin/150/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/151/2</graphics>
+  <cells>jpn/idlocal.bin/151/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/152/2</graphics>
+  <cells>jpn/idlocal.bin/152/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/153/2</graphics>
+  <cells>jpn/idlocal.bin/153/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/154/2</graphics>
+  <cells>jpn/idlocal.bin/154/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/155/2</graphics>
+  <cells>jpn/idlocal.bin/155/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/156/2</graphics>
+  <cells>jpn/idlocal.bin/156/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/157/2</graphics>
+  <cells>jpn/idlocal.bin/157/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/158/2</graphics>
+  <cells>jpn/idlocal.bin/158/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/159/2</graphics>
+  <cells>jpn/idlocal.bin/159/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/160/2</graphics>
+  <cells>jpn/idlocal.bin/160/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/161/2</graphics>
+  <cells>jpn/idlocal.bin/161/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/162/2</graphics>
+  <cells>jpn/idlocal.bin/162/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/163/2</graphics>
+  <cells>jpn/idlocal.bin/163/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/164/2</graphics>
+  <cells>jpn/idlocal.bin/164/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/165/2</graphics>
+  <cells>jpn/idlocal.bin/165/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/166/2</graphics>
+  <cells>jpn/idlocal.bin/166/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/167/2</graphics>
+  <cells>jpn/idlocal.bin/167/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/168/2</graphics>
+  <cells>jpn/idlocal.bin/168/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/169/2</graphics>
+  <cells>jpn/idlocal.bin/169/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/170/2</graphics>
+  <cells>jpn/idlocal.bin/170/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/171/2</graphics>
+  <cells>jpn/idlocal.bin/171/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/172/2</graphics>
+  <cells>jpn/idlocal.bin/172/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/173/2</graphics>
+  <cells>jpn/idlocal.bin/173/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/174/2</graphics>
+  <cells>jpn/idlocal.bin/174/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/175/2</graphics>
+  <cells>jpn/idlocal.bin/175/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/176/2</graphics>
+  <cells>jpn/idlocal.bin/176/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/177/2</graphics>
+  <cells>jpn/idlocal.bin/177/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/178/2</graphics>
+  <cells>jpn/idlocal.bin/178/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/179/2</graphics>
+  <cells>jpn/idlocal.bin/179/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/180/2</graphics>
+  <cells>jpn/idlocal.bin/180/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/181/2</graphics>
+  <cells>jpn/idlocal.bin/181/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/182/2</graphics>
+  <cells>jpn/idlocal.bin/182/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/183/2</graphics>
+  <cells>jpn/idlocal.bin/183/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/184/2</graphics>
+  <cells>jpn/idlocal.bin/184/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/185/2</graphics>
+  <cells>jpn/idlocal.bin/185/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/186/2</graphics>
+  <cells>jpn/idlocal.bin/186/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/187/2</graphics>
+  <cells>jpn/idlocal.bin/187/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/188/2</graphics>
+  <cells>jpn/idlocal.bin/188/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/189/2</graphics>
+  <cells>jpn/idlocal.bin/189/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/190/2</graphics>
+  <cells>jpn/idlocal.bin/190/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/191/2</graphics>
+  <cells>jpn/idlocal.bin/191/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/192/2</graphics>
+  <cells>jpn/idlocal.bin/192/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/193/2</graphics>
+  <cells>jpn/idlocal.bin/193/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/194/2</graphics>
+  <cells>jpn/idlocal.bin/194/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/195/2</graphics>
+  <cells>jpn/idlocal.bin/195/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/196/2</graphics>
+  <cells>jpn/idlocal.bin/196/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/197/2</graphics>
+  <cells>jpn/idlocal.bin/197/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/198/2</graphics>
+  <cells>jpn/idlocal.bin/198/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/199/2</graphics>
+  <cells>jpn/idlocal.bin/199/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/200/2</graphics>
+  <cells>jpn/idlocal.bin/200/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/201/2</graphics>
+  <cells>jpn/idlocal.bin/201/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/202/2</graphics>
+  <cells>jpn/idlocal.bin/202/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/203/2</graphics>
+  <cells>jpn/idlocal.bin/203/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/204/2</graphics>
+  <cells>jpn/idlocal.bin/204/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/205/2</graphics>
+  <cells>jpn/idlocal.bin/205/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/206/2</graphics>
+  <cells>jpn/idlocal.bin/206/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/207/2</graphics>
+  <cells>jpn/idlocal.bin/207/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/208/2</graphics>
+  <cells>jpn/idlocal.bin/208/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/209/2</graphics>
+  <cells>jpn/idlocal.bin/209/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/210/2</graphics>
+  <cells>jpn/idlocal.bin/210/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/211/2</graphics>
+  <cells>jpn/idlocal.bin/211/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/212/2</graphics>
+  <cells>jpn/idlocal.bin/212/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/213/2</graphics>
+  <cells>jpn/idlocal.bin/213/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/214/2</graphics>
+  <cells>jpn/idlocal.bin/214/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/215/2</graphics>
+  <cells>jpn/idlocal.bin/215/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/216/2</graphics>
+  <cells>jpn/idlocal.bin/216/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/217/2</graphics>
+  <cells>jpn/idlocal.bin/217/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/218/2</graphics>
+  <cells>jpn/idlocal.bin/218/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/219/2</graphics>
+  <cells>jpn/idlocal.bin/219/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/220/2</graphics>
+  <cells>jpn/idlocal.bin/220/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/221/2</graphics>
+  <cells>jpn/idlocal.bin/221/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/222/2</graphics>
+  <cells>jpn/idlocal.bin/222/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/223/2</graphics>
+  <cells>jpn/idlocal.bin/223/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/224/2</graphics>
+  <cells>jpn/idlocal.bin/224/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/225/2</graphics>
+  <cells>jpn/idlocal.bin/225/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/226/2</graphics>
+  <cells>jpn/idlocal.bin/226/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/227/2</graphics>
+  <cells>jpn/idlocal.bin/227/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/228/2</graphics>
+  <cells>jpn/idlocal.bin/228/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/229/2</graphics>
+  <cells>jpn/idlocal.bin/229/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/230/2</graphics>
+  <cells>jpn/idlocal.bin/230/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/231/2</graphics>
+  <cells>jpn/idlocal.bin/231/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/232/2</graphics>
+  <cells>jpn/idlocal.bin/232/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/233/2</graphics>
+  <cells>jpn/idlocal.bin/233/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/234/2</graphics>
+  <cells>jpn/idlocal.bin/234/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/235/2</graphics>
+  <cells>jpn/idlocal.bin/235/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/236/2</graphics>
+  <cells>jpn/idlocal.bin/236/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/237/2</graphics>
+  <cells>jpn/idlocal.bin/237/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/238/2</graphics>
+  <cells>jpn/idlocal.bin/238/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/239/2</graphics>
+  <cells>jpn/idlocal.bin/239/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/240/2</graphics>
+  <cells>jpn/idlocal.bin/240/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/241/2</graphics>
+  <cells>jpn/idlocal.bin/241/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/242/2</graphics>
+  <cells>jpn/idlocal.bin/242/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/243/2</graphics>
+  <cells>jpn/idlocal.bin/243/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/244/2</graphics>
+  <cells>jpn/idlocal.bin/244/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/245/2</graphics>
+  <cells>jpn/idlocal.bin/245/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/246/2</graphics>
+  <cells>jpn/idlocal.bin/246/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/247/2</graphics>
+  <cells>jpn/idlocal.bin/247/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/248/2</graphics>
+  <cells>jpn/idlocal.bin/248/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/249/2</graphics>
+  <cells>jpn/idlocal.bin/249/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/250/2</graphics>
+  <cells>jpn/idlocal.bin/250/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/251/2</graphics>
+  <cells>jpn/idlocal.bin/251/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/252/2</graphics>
+  <cells>jpn/idlocal.bin/252/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/253/2</graphics>
+  <cells>jpn/idlocal.bin/253/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/254/2</graphics>
+  <cells>jpn/idlocal.bin/254/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/255/2</graphics>
+  <cells>jpn/idlocal.bin/255/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/256/2</graphics>
+  <cells>jpn/idlocal.bin/256/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/257/2</graphics>
+  <cells>jpn/idlocal.bin/257/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/258/2</graphics>
+  <cells>jpn/idlocal.bin/258/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/259/2</graphics>
+  <cells>jpn/idlocal.bin/259/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/260/2</graphics>
+  <cells>jpn/idlocal.bin/260/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/261/2</graphics>
+  <cells>jpn/idlocal.bin/261/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/262/2</graphics>
+  <cells>jpn/idlocal.bin/262/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/263/2</graphics>
+  <cells>jpn/idlocal.bin/263/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/264/2</graphics>
+  <cells>jpn/idlocal.bin/264/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/265/2</graphics>
+  <cells>jpn/idlocal.bin/265/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/266/2</graphics>
+  <cells>jpn/idlocal.bin/266/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/267/2</graphics>
+  <cells>jpn/idlocal.bin/267/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/268/2</graphics>
+  <cells>jpn/idlocal.bin/268/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/269/2</graphics>
+  <cells>jpn/idlocal.bin/269/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/87</palette>
+  <graphics>jpn/idlocal.bin/270/2</graphics>
+  <cells>jpn/idlocal.bin/270/0</cells>
+</cellBank>
+
+
+<cellBank>
+  <palette>jpn/idlocal.bin/0</palette>
+  <graphics>jpn/idlocal.bin/1/2</graphics>
+  <cells>jpn/idlocal.bin/1/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/0</palette>
+  <graphics>jpn/idlocal.bin/2/2</graphics>
+  <cells>jpn/idlocal.bin/2/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/0</palette>
+  <graphics>jpn/idlocal.bin/3/2</graphics>
+  <cells>jpn/idlocal.bin/3/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/0</palette>
+  <graphics>jpn/idlocal.bin/4/2</graphics>
+  <cells>jpn/idlocal.bin/4/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/0</palette>
+  <graphics>jpn/idlocal.bin/5/2</graphics>
+  <cells>jpn/idlocal.bin/5/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/0</palette>
+  <graphics>jpn/idlocal.bin/6/2</graphics>
+  <cells>jpn/idlocal.bin/6/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/0</palette>
+  <graphics>jpn/idlocal.bin/7/2</graphics>
+  <cells>jpn/idlocal.bin/7/0</cells>
+</cellBank>
+
+<cellBank>
+  <palette>jpn/idlocal.bin/8</palette>
+  <graphics>jpn/idlocal.bin/9/2</graphics>
+  <cells>jpn/idlocal.bin/9/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/8</palette>
+  <graphics>jpn/idlocal.bin/10/2</graphics>
+  <cells>jpn/idlocal.bin/10/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/8</palette>
+  <graphics>jpn/idlocal.bin/11/2</graphics>
+  <cells>jpn/idlocal.bin/11/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/8</palette>
+  <graphics>jpn/idlocal.bin/12/2</graphics>
+  <cells>jpn/idlocal.bin/12/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/8</palette>
+  <graphics>jpn/idlocal.bin/13/2</graphics>
+  <cells>jpn/idlocal.bin/13/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/8</palette>
+  <graphics>jpn/idlocal.bin/14/2</graphics>
+  <cells>jpn/idlocal.bin/14/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/8</palette>
+  <graphics>jpn/idlocal.bin/15/2</graphics>
+  <cells>jpn/idlocal.bin/15/0</cells>
+</cellBank>
+
+
+  <cellBank>
+    <palette>jpn/idlocal.bin/24</palette>
+    <graphics>jpn/idlocal.bin/25/2</graphics>
+    <cells>jpn/idlocal.bin/25/0</cells>
+  </cellBank>
+
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/331</graphics>
+  <cells>jpn/idlocal.bin/330</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/334</graphics>
+  <cells>jpn/idlocal.bin/333</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/337</graphics>
+  <cells>jpn/idlocal.bin/336</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/340</graphics>
+  <cells>jpn/idlocal.bin/339</cells>
+</cellBank>
+<!-- <cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/343</graphics>
+  <cells>jpn/idlocal.bin/342</cells>
+</cellBank> -->
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/346</graphics>
+  <cells>jpn/idlocal.bin/345</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/349</graphics>
+  <cells>jpn/idlocal.bin/348</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/352</graphics>
+  <cells>jpn/idlocal.bin/351</cells>
+</cellBank>
+
+
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/282</graphics>
+  <cells>jpn/idlocal.bin/281</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/285</graphics>
+  <cells>jpn/idlocal.bin/284</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/288</graphics>
+  <cells>jpn/idlocal.bin/287</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/291</graphics>
+  <cells>jpn/idlocal.bin/290</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/294</graphics>
+  <cells>jpn/idlocal.bin/293</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/297</graphics>
+  <cells>jpn/idlocal.bin/296</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/300</graphics>
+  <cells>jpn/idlocal.bin/299</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/303</graphics>
+  <cells>jpn/idlocal.bin/302</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/306</graphics>
+  <cells>jpn/idlocal.bin/305</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/309</graphics>
+  <cells>jpn/idlocal.bin/308</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/312</graphics>
+  <cells>jpn/idlocal.bin/311</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/315</graphics>
+  <cells>jpn/idlocal.bin/314</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/318</graphics>
+  <cells>jpn/idlocal.bin/317</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/321</graphics>
+  <cells>jpn/idlocal.bin/320</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/324</graphics>
+  <cells>jpn/idlocal.bin/323</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/idlocal.bin/279</palette>
+  <graphics>jpn/idlocal.bin/327</graphics>
+  <cells>jpn/idlocal.bin/326</cells>
+</cellBank>
+
+  <cellBank>
+    <palette>jpn/idlocal.bin/279</palette>
+    <graphics>jpn/idlocal.bin/328</graphics>
+    <cells>jpn/idlocal.bin/326</cells>
+  </cellBank>
+
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/135/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/135/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/136/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/136/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/137/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/137/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/138/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/138/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/139/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/139/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/140/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/140/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/141/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/141/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/142/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/142/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/143/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/143/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/144/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/144/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/145/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/145/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/146/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/146/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/147/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/147/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/148/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/148/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/149/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/149/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/150/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/150/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/151/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/151/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/152/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/152/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/153/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/153/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/154/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/154/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/155/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/155/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/156/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/156/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/157/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/157/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/158/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/158/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/159/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/159/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/160/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/160/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/161/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/161/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/162/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/162/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/163/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/163/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/164/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/164/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/165/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/165/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/166/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/166/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/167/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/167/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/168/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/168/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/169/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/169/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/170/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/170/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/171/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/171/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/172/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/172/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/173/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/173/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/174/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/174/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/175/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/175/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/176/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/176/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/177/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/177/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/178/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/178/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/179/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/179/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/180/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/180/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/181/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/181/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/182/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/182/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/183/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/183/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/184/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/184/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/185/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/185/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/186/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/186/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/187/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/187/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/188/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/188/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/189/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/189/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/190/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/190/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/191/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/191/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/192/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/192/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/193/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/193/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/194/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/194/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/195/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/195/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/196/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/196/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/197/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/197/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/198/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/198/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/199/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/199/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/200/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/200/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/201/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/201/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/202/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/202/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/203/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/203/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/204/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/204/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/205/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/205/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/206/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/206/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/207/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/207/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/208/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/208/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/209/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/209/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/210/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/210/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/211/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/211/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/212/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/212/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/213/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/213/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/214/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/214/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/215/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/215/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/216/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/216/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/217/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/217/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/218/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/218/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/219/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/219/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/220/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/220/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/221/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/221/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/222/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/222/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/223/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/223/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/224/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/224/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/225/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/225/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/226/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/226/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/227/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/227/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/228/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/228/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/229/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/229/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/230/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/230/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/231/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/231/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/232/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/232/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/233/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/233/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/234/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/234/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/235/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/235/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/236/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/236/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/237/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/237/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/238/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/238/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/239/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/239/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/240/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/240/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/241/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/241/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/242/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/242/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/243/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/243/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/244/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/244/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/245/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/245/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/246/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/246/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/247/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/247/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/248/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/248/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/249/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/249/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/250/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/250/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/251/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/251/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/252/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/252/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/253/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/253/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/254/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/254/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/255/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/255/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/256/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/256/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/257/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/257/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/258/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/258/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/259/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/259/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/260/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/260/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/261/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/261/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/262/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/262/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/263/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/263/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/264/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/264/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/265/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/265/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/266/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/266/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/134</palette>
+  <graphics>jpn/logic_keyword_local.bin/267/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/267/0</cells>
+</cellBank>
+
+
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/1/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/1/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/2/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/2/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/3/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/3/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/4/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/4/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/5/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/5/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/6/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/6/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/7/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/7/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/8/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/8/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/9/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/9/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/10/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/10/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/11/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/11/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/12/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/12/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/13/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/13/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/14/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/14/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/15/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/15/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/16/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/16/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/17/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/17/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/18/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/18/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/19/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/19/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/20/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/20/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/21/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/21/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/22/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/22/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/23/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/23/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/24/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/24/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/25/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/25/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/26/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/26/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/27/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/27/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/28/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/28/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/29/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/29/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/30/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/30/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/31/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/31/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/32/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/32/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/33/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/33/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/34/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/34/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/35/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/35/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/36/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/36/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/37/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/37/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/38/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/38/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/39/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/39/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/40/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/40/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/41/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/41/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/42/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/42/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/43/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/43/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/44/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/44/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/45/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/45/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/46/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/46/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/47/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/47/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/48/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/48/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/49/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/49/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/50/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/50/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/51/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/51/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/52/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/52/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/53/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/53/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/54/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/54/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/55/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/55/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/56/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/56/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/57/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/57/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/58/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/58/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/59/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/59/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/60/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/60/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/61/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/61/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/62/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/62/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/63/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/63/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/64/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/64/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/65/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/65/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/66/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/66/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/67/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/67/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/68/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/68/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/69/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/69/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/70/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/70/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/71/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/71/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/72/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/72/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/73/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/73/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/74/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/74/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/75/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/75/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/76/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/76/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/77/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/77/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/78/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/78/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/79/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/79/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/80/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/80/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/81/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/81/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/82/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/82/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/83/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/83/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/84/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/84/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/85/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/85/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/86/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/86/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/87/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/87/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/88/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/88/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/89/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/89/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/90/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/90/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/91/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/91/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/92/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/92/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/93/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/93/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/94/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/94/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/95/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/95/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/96/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/96/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/97/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/97/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/98/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/98/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/99/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/99/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/100/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/100/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/101/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/101/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/102/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/102/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/103/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/103/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/104/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/104/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/105/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/105/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/106/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/106/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/107/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/107/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/108/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/108/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/109/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/109/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/110/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/110/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/111/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/111/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/112/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/112/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/113/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/113/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/114/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/114/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/115/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/115/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/116/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/116/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/117/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/117/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/118/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/118/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/119/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/119/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/120/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/120/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/121/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/121/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/122/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/122/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/123/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/123/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/124/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/124/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/125/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/125/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/126/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/126/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/127/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/127/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/128/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/128/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/129/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/129/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/130/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/130/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/131/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/131/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/132/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/132/0</cells>
+</cellBank>
+<cellBank>
+  <palette>jpn/logic_keyword_local.bin/0</palette>
+  <graphics>jpn/logic_keyword_local.bin/133/2</graphics>
+  <cells>jpn/logic_keyword_local.bin/133/0</cells>
+</cellBank>
+
+
+  <screen>
+    <palette>jpn/save_local.bin/9</palette>
+    <graphics>jpn/save_local.bin/8</graphics>
+    <screen>jpn/save_local.bin/10</screen>
+  </screen>
+  <screen>
+    <palette>jpn/save_local.bin/9</palette>
+    <graphics>jpn/save_local.bin/8</graphics>
+    <screen>jpn/save_local.bin/11</screen>
+  </screen>
+  <cellBank>
+    <palette>jpn/save_local.bin/7</palette>
+    <graphics>jpn/save_local.bin/6</graphics>
+    <cells>jpn/save_local.bin/5</cells>
+  </cellBank>
+  <cellBank>
+    <palette>jpn/save_local.bin/3</palette>
+    <graphics>jpn/save_local.bin/2</graphics>
+    <cells>jpn/save_local.bin/1</cells>
+  </cellBank>
+
+  <cellBank>
+    <palette>jpn/title_local.bin/6</palette>
+    <graphics>jpn/title_local.bin/5</graphics>
+    <cells>jpn/title_local.bin/4</cells>
+  </cellBank>
+
   <cellBank>
     <palette>jpn/opening_local.bin/1</palette>
     <graphics>jpn/opening_local.bin/0</graphics>
