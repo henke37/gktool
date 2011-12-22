@@ -9,6 +9,7 @@
 	import Nitro.GK.*;
 	import Nitro.FileSystem.*;
 	import Nitro.Graphics.*;
+	import Nitro.Graphics3D.*;
 	
 	public class GraphicsExtractScreen extends ExtractBaseScreen {
 		
@@ -38,6 +39,7 @@
 		private var cells:NCER;
 		private var tiles:NCGR;
 		private var screen:NSCR;
+		private var textures:NSBTX;
 		
 		private var maxCells:uint;
 		private var cellItr:uint;
@@ -47,6 +49,7 @@
 		private var nclrName:String;
 		private var ncerName:String;
 		private var nscrName:String;
+		private var nsbtxName:String;
 		
 		protected override function beginExtraction():uint {
 			cellItr=0;
@@ -62,37 +65,43 @@
 			
 			var item:XML=itemList[itemItr];
 			
-			if(item.palette!=nclrName) {
-				nclrName=item.palette;
-				loadPalette(gkTool.easyFS.openFile(nclrName));
-				
-				log("Loaded palette: "+nclrName);
-			}
-			
-			if(item.graphics.length()>0 && item.graphics!=ncgrName) {
-				ncgrName=item.graphics;
-				tiles=new NCGR();
-				tiles.parse(gkTool.easyFS.openFile(ncgrName));
-				
-				log("Loaded tiles: "+ncgrName);
-			}
-			
-			if(item.cells.length()>0 && item.cells!=ncerName) {
-				ncerName=item.cells;
-				cells=new NCER();
-				cells.parse(gkTool.easyFS.openFile(ncerName));
-				
-				log("Loaded cells: "+ncerName);
-			}
-			
-			if(item.screen.length()>0 && item.screen!=nscrName) {
-				nscrName=item.screen;
-				screen=new NSCR();
-				screen.parse(gkTool.easyFS.openFile(nscrName));
-				log("Loaded screen: "+nscrName);
-			}
-			
 			var itemType:String=item.name();
+			
+			var classicItem:Boolean=itemType=="cellBank"||itemType=="picture"||itemType=="screen";
+			
+			if(classicItem) {
+				
+				if(item.palette!=nclrName) {
+					nclrName=item.palette;
+					loadPalette(gkTool.easyFS.openFile(nclrName));
+					
+					log("Loaded palette: "+nclrName);
+				}
+				
+				if(item.graphics.length()>0 && item.graphics!=ncgrName) {
+					ncgrName=item.graphics;
+					tiles=new NCGR();
+					tiles.parse(gkTool.easyFS.openFile(ncgrName));
+					
+					log("Loaded tiles: "+ncgrName);
+				}
+				
+				if(item.cells.length()>0 && item.cells!=ncerName) {
+					ncerName=item.cells;
+					cells=new NCER();
+					cells.parse(gkTool.easyFS.openFile(ncerName));
+					
+					log("Loaded cells: "+ncerName);
+				}
+				
+				if(item.screen.length()>0 && item.screen!=nscrName) {
+					nscrName=item.screen;
+					screen=new NSCR();
+					screen.parse(gkTool.easyFS.openFile(nscrName));
+					log("Loaded screen: "+nscrName);
+				}
+			}
+			
 			switch(itemType) {
 				case "cellBank":
 					cellItr=0;
@@ -116,6 +125,22 @@
 				
 				case "screen":
 					saveBitmap(nscrName,screen.render(tiles,convertedPalette));
+				break;
+				
+				case "texture":
+					if(item.bank!=nsbtxName) {
+						textures=new NSBTX();
+						nsbtxName=item.bank;
+						textures.parse(gkTool.easyFS.openFile(nsbtxName));
+					}
+					var textureName:String=item.texture;
+					var bmd:BitmapData=textures.getTextureByName(textureName).draw(textures.getPaletteByName(item.palette));
+					var png:ByteArray=PNGEncoder.encode(bmd);
+					
+					
+			
+					saveFile(nsbtxName+"/"+textureName+".png",png);
+					log("Saved texture \""+textureName+"\" from bank \""+nsbtxName+"\".");
 				break;
 				
 				default:
