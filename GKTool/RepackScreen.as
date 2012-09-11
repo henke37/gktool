@@ -6,7 +6,7 @@
 	import flash.net.*;
 	import flash.text.*;
 	
-	import Nitro.GK.*;
+	import Nitro.GK2.*;
 	
 	public class RepackScreen extends Screen {
 		

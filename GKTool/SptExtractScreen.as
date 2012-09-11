@@ -1,6 +1,6 @@
 ﻿package GKTool {
 	
-	import Nitro.GK.*;
+	import Nitro.GK2.*;
 	
 	import flash.utils.*;
 	import flash.net.*;

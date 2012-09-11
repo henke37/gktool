@@ -6,7 +6,7 @@
 	import flash.text.*;
 	import flash.net.*;
 	
-	import Nitro.GK.*;
+	import Nitro.GK2.*;
 	import Nitro.*;
 	import Nitro.Graphics.*;
 	

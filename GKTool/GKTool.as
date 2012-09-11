@@ -4,7 +4,7 @@
 	import flash.utils.*;
 	
 	import Nitro.FileSystem.*;
-	import Nitro.GK.*;
+	import Nitro.GK2.*;
 	import Nitro.FileSystem.EasyFileSystem.IEasyFileSystem;
 	
 	

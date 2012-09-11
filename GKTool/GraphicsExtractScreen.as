@@ -6,7 +6,7 @@
 	
 	import com.adobe.images.*;
 	
-	import Nitro.GK.*;
+	import Nitro.GK2.*;
 	import Nitro.FileSystem.*;
 	import Nitro.Graphics.*;
 	import Nitro.Graphics3D.*;
