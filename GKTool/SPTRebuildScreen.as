@@ -117,7 +117,7 @@
 				return sptIndex<sptFiles.length;
 			}
 			
-			spt.loadSection(sptSection,loadXMLFile(entry.sections[sptSection]),table);
+			spt.loadSection(sptSection,loadXMLFile(entry.sections[sptSection]));
 			
 			log("Loaded section number "+sptSection+" for spt file number "+sptIndex+".");
 			

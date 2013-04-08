@@ -18,19 +18,9 @@
 		private var subNumberSize:uint;
 		
 		public static const archiveFileName:String="jpn/spt.bin";
-		
-		private var table:Table;
 
 		public function SptExtractScreen() {
-			table=new Table();
-			table.addEventListener(Event.COMPLETE,tableLoaded);
-			table.loadFromFile(new URLRequest("AAI2Jpn.tbl"));
 			
-			realScreen.selectDir_mc.enabled=false;
-		}
-		
-		private function tableLoaded(e:Event):void {
-			realScreen.selectDir_mc.enabled=true;
 		}
 		
 		protected override function beginExtraction():uint {
@@ -45,6 +35,13 @@
 			XML.prettyIndent=2;
 			
 			return archive.length;
+		}
+		
+		protected override function endOperation():void {
+			for(var index in SectionParser.unknownCommands) {
+				trace(uint(index).toString(16),SectionParser.unknownCommands[index]);
+			}
+			super.endOperation();
 		}
 		
 		protected override function processNext():Boolean {
@@ -62,7 +59,7 @@
 					subFileName=padNumber(subFileNr,numberSize)+"/header.xml";
 					saveXMLFile(subFileName,subFile.headerToXML());
 				}
-				var sectionData:XML=subFile.parseSection(sectionNr,table);
+				var sectionData:XML=subFile.parseSection(sectionNr);
 				
 				subFileName=padNumber(subFileNr,numberSize)+"/"+padNumber(sectionNr,subNumberSize)+".xml";				
 				
