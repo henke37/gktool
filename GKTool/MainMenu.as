@@ -16,6 +16,7 @@
 		public var editor_mc:Button;
 		public var spt_mc:Button;
 		public var sptBuild_mc:Button;
+		public var flowchart_mc:Button;
 		
 		public var icon_mc:Sprite;
 		
@@ -54,6 +55,9 @@
 			sptBuild_mc.label="Rebuild SPT files";
 			sptBuild_mc.addEventListener(MouseEvent.CLICK,sptBuild);
 			//sptBuild_mc.enabled=false;
+			flowchart_mc.label="Build flowchart";
+			flowchart_mc.enabled=false;
+			flowchart_mc.addEventListener(MouseEvent.CLICK,flowchart);
 		}
 		
 		private function sptBuild(e:MouseEvent):void {
@@ -84,6 +88,10 @@
 			gkTool.screen="Editor.Editor";
 		}
 		
+		private function flowchart(e:MouseEvent):void {
+			gkTool.screen="FlowchartScreen";
+		}
+		
 		private function loaded(e:Event):void {
 			icon_mc.addChild(new Bitmap(gkTool.nds.banner.icon));
 			loadRom_mc.enabled=false;
@@ -91,6 +99,7 @@
 			extractChars_mc.enabled=true;
 			editor_mc.enabled=true;
 			spt_mc.enabled=true;
+			flowchart_mc.enabled=true;
 		}
 	}
 	

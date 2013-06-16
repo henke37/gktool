@@ -61,14 +61,19 @@
 				}
 				var sectionData:XML=subFile.parseSection(sectionNr);
 				
-				subFileName=padNumber(subFileNr,numberSize)+"/"+padNumber(sectionNr,subNumberSize)+".xml";				
+				subFileName=padNumber(subFileNr,numberSize)+"/"+padNumber(sectionNr,subNumberSize)+".xml";			
 				
-				var data=new ByteArray();
-				data.writeUTFBytes(sectionData.toXMLString());
-				
-				saveFile(subFileName,data);
-				
-				log("Extracted \""+subFileName+"\"");
+				if(sectionData.children().length()) {
+					
+					var data=new ByteArray();
+					data.writeUTFBytes(sectionData.toXMLString());
+					
+					saveFile(subFileName,data);
+					
+					log("Extracted \""+subFileName+"\"");
+				} else {
+					log("Skipped empty section \""+subFileName+"\"");
+				}
 				
 				++sectionNr;
 			} catch(err:ArgumentError) {

@@ -18,7 +18,7 @@
 		private var _screenId:String;
 		private var screens:Object;
 		
-		public static const version:String="v 3.8";
+		public static const version:String="v 3.9";
 
 		public function GKTool() {			
 			stage.align=StageAlign.TOP_LEFT;
@@ -54,6 +54,7 @@
 			RepackScreen;
 			SptExtractScreen;
 			SPTRebuildScreen;
+			FlowchartScreen;
 		}
 	}
 	
