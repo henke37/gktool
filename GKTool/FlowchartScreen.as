@@ -126,7 +126,8 @@
 					case "presentBranchEntry":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "green", label: int(cmd.@evidence)});
 					break;
-						
+					
+					case "noHPBranch":
 					case "unknownBranchFail":
 					case "presentBranchDefEntry":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "red"});
@@ -135,6 +136,8 @@
 					case "unknownBranch":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "brown"});
 					break;
+						
+					
 						
 					case "randomBranch":
 						rndBranch(cmd);
