@@ -98,6 +98,12 @@
 
 	
 		private function processSection(section:XML):void {
+			if(section.elements().length()<1) return;
+			
+			var subFileName:String=padNumber(subFileNr,numberSize)+"/"+padNumber(sectionNr,subNumberSize)+".xml";
+
+			addNode(formatSectionId(subFileNr,sectionNr),{ URL: subFileName } );
+			
 			for each(var cmd:XML in section.elements()) {
 				var type:String=cmd.localName();
 				
@@ -106,6 +112,18 @@
 					case "investigationBranchTableEnt":
 					case "talkMenuEntry":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)));
+					break;
+					
+					case "jumpIfFlag":
+						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color:
+							(cmd.@cond=="1"?"green":"red"),
+							label: "0x"+int(cmd.@flag).toString(16)
+						});
+					break;
+					case "jumpIfFlagsEqTo":
+						jumpIfFlags(cmd);
+					break;
+					
 					break;
 					
 					case "callSection":
@@ -182,6 +200,19 @@
 					break;
 				}
 			}
+		}
+		
+		private function jumpIfFlags(cmd:XML):void {
+
+			var flags:Array=[];
+			for each(var flag:XML in cmd.flag) {
+				flags.push("0x"+int(flag.@flag).toString(16));
+			}
+			
+			addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{
+				color: (cmd.@cond=="1"?"green":"red"),
+				label: flags.join("/")
+			});
 		}
 		
 		private function gameOver():void {
