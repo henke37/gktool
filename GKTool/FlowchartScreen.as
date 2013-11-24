@@ -45,6 +45,8 @@
 			
 			outFileStream.writeUTFBytes("digraph { \n");
 			
+			addFarJumps();
+			
 			return archive.length;
 		}
 		
@@ -74,11 +76,17 @@
 				
 				subFileName=formatSectionId(subFileNr,sectionNr);
 				
-				var sectionData:XML=subFile.parseSection(sectionNr);
+				try {
 				
-				processSection(sectionData);
-				
-				log("processed \""+subFileName+"\"");
+					var sectionData:XML=subFile.parseSection(sectionNr);
+					
+					processSection(sectionData);
+					
+					log("processed \""+subFileName+"\"");
+				} catch(err:Error) {
+					log("Parse error! \""+subFileName+"\"\n"+err.getStackTrace());
+					++errors;
+				}
 				
 				++sectionNr;
 			} catch(err:ArgumentError) {
@@ -111,6 +119,7 @@
 					case "jumpToSection":
 					case "investigationBranchTableEnt":
 					case "talkMenuEntry":
+					case "talkTopic":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)));
 					break;
 					
@@ -123,6 +132,7 @@
 					case "jumpIfFlagsEqTo":
 						jumpIfFlags(cmd);
 					break;
+					
 					
 					break;
 					
@@ -142,6 +152,7 @@
 						
 					case "checkForPresent":
 					case "presentBranchEntry":
+					case "evidencePromptJump":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "green", label: int(cmd.@evidence)});
 					break;
 					
@@ -187,12 +198,16 @@
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "red", style:"bold"});
 					break;
 						
-					case "logicChessChoise":
-						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@destination)));
+					case "logicChessChoiseRest":
+						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)));
 					break;
 					
-					case "logicChessPrompt":
-						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,sectionNr+1));
+					case "logicChessChoiseAttack":
+						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)));
+					break;
+					
+					case "logicChessTopic":
+						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)));
 					break;
 					
 					default:
@@ -229,7 +244,6 @@
 		
 		private function longJump(cmd:XML):void {
 			var dst:String=int(cmd.attribute("case"))+"_"+int(cmd.@part)+"_"+int(cmd.@index);
-			addNode(dst,{ style: "dashed" });
 			addEdge(formatSectionId(subFileNr,sectionNr),dst);
 		}
 		
@@ -284,6 +298,24 @@
 		
 		private function formatSectionId(subFile:uint,section:uint):String {
 			return padNumber(subFile,numberSize)+"_"+padNumber(section,3);
+		}
+		
+		private function addFarJumps():void {
+			for each(var table:Array in JumpTables.tables) {
+				for each(var ent:Array in table) {
+					var casePart:uint=ent[0][1];
+					var episode:uint=casePart>>4;
+					var part:uint=casePart &0xF;
+					var subpart:uint=ent[0][0];
+					var spt:uint=ent[1];
+					//trace(episode,part,subpart,spt);
+					
+					var src:String=episode+"_"+part+"_"+subpart;
+					var dst:String=formatSectionId(spt,0);
+					addNode(src,{ style: "dashed" });
+					addEdge(src,dst);
+				}
+			}
 		}
 		
 	}

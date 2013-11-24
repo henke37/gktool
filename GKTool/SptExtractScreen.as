@@ -52,33 +52,42 @@
 				
 				if(!subFile) {
 					++progress;
+					
+					var sptData:ByteArray=archive.open(subFileNr);
+					
 					subFile=new SPT();
-					subFile.parse(archive.open(subFileNr));
+					subFile.parse(sptData);
 					subNumberSize=subFile.length.toString().length;
 					
 					subFileName=padNumber(subFileNr,numberSize)+"/header.xml";
 					saveXMLFile(subFileName,subFile.headerToXML());
 				}
-				var sectionData:XML=subFile.parseSection(sectionNr);
 				
-				subFileName=padNumber(subFileNr,numberSize)+"/"+padNumber(sectionNr,subNumberSize)+".xml";			
-				
-				if(sectionData.children().length()) {
+				try {
+					var sectionData:XML=subFile.parseSection(sectionNr);
 					
-					var data=new ByteArray();
-					data.writeUTFBytes(sectionData.toXMLString());
+					subFileName=padNumber(subFileNr,numberSize)+"/"+padNumber(sectionNr,subNumberSize)+".xml";			
 					
-					saveFile(subFileName,data);
-					
-					log("Extracted \""+subFileName+"\"");
-				} else {
-					log("Skipped empty section \""+subFileName+"\"");
+					if(sectionData.children().length()) {
+						
+						var data=new ByteArray();
+						data.writeUTFBytes(sectionData.toXMLString());
+						
+						saveFile(subFileName,data);
+						
+						log("Extracted \""+subFileName+"\"");
+					} else {
+						log("Skipped empty section \""+subFileName+"\"");
+					}
+				} catch (err:Error) {
+					log("Parse error! \""+subFileName+"\"\n"+err.getStackTrace());
+					++errors;
 				}
 				
 				++sectionNr;
 			} catch(err:ArgumentError) {
 				log("Failed to extract\""+subFileName+"\". It's not a SPT file.");
-				++errors;
+				//++errors;
 				subFile=null;
 			}
 			
