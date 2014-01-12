@@ -23,12 +23,12 @@
 		
 		
 		include "case1JumpTable.txt";
-		
 		include "case2JumpTable.txt";
-		
 		include "case3JumpTable.txt";
+		include "case4JumpTable.txt";
+		include "case5JumpTable.txt";
 
-		public static const tables:Array=[case1,case2,case3];
+		public static const tables:Array=[case1,case2,case3,case4,case5];
 	}
 	
 }

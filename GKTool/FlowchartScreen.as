@@ -120,6 +120,7 @@
 					case "investigationBranchTableEnt":
 					case "talkMenuEntry":
 					case "talkTopic":
+					case "choiseMenuOption":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)));
 					break;
 					
@@ -133,9 +134,6 @@
 						jumpIfFlags(cmd);
 					break;
 					
-					
-					break;
-					
 					case "callSection":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{dirtype:"both",arrowhead:"odotnormal",arrowtail:"curve",color:"purple"});
 					break;
@@ -145,20 +143,23 @@
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "gray"});
 					break;
 					
-					case "unknownBranchSuccess":
-					case "unknownCondJump":
+					case "pointAtPictureHit":
+					case "videoAnalysisHotspot":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "green"});
 					break;
 						
 					case "checkForPresent":
 					case "presentBranchEntry":
 					case "evidencePromptJump":
+					case "presentContradiction":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "green", label: int(cmd.@evidence)});
 					break;
 					
 					case "noHPBranch":
 					case "unknownBranchFail":
 					case "presentBranchDefEntry":
+					case "pointAtPictureMiss":
+					case "presentContradictionDefault":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "red"});
 					break;
 						
@@ -166,7 +167,9 @@
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "brown"});
 					break;
 						
-					
+					case "investigationContradictionPress":
+						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{style: "bold"});
+					break;
 						
 					case "randomBranch":
 						rndBranch(cmd);
@@ -183,6 +186,9 @@
 					break;
 						
 					case "ceAid":
+					case "returnToPresentEvidencePrompt":
+					case "returnToTalkTopicMenu":
+					case "returnFromPointAtPicture":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@section)),{color: "gray"});
 					break;
 					
@@ -243,8 +249,14 @@
 		}
 		
 		private function longJump(cmd:XML):void {
-			var dst:String=int(cmd.attribute("case"))+"_"+int(cmd.@part)+"_"+int(cmd.@index);
-			addEdge(formatSectionId(subFileNr,sectionNr),dst);
+			var part:uint=int(cmd.@part);
+			var subpart:uint=int(cmd.@index);
+			var dst:String=int(cmd.attribute("case"))+"_"+part+"_"+subpart;
+			var props:Object={};
+			if(part == 0 && subpart == 0) {
+				props["constraint"]="false";
+			}
+			addEdge(formatSectionId(subFileNr,sectionNr),dst,props);
 		}
 		
 		private function rndBranch(cmd:XML):void {
