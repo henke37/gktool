@@ -180,6 +180,7 @@
 					break;
 					
 					case "ceStatement":
+					case "ceRevisedStatement":
 						addEdge(formatSectionId(subFileNr,sectionNr),formatSectionId(subFileNr,int(cmd.@statementSection)),{color: "dimgrey", arrowhead: "box"});
 						addEdge(formatSectionId(subFileNr,int(cmd.@statementSection)),formatSectionId(subFileNr,int(cmd.@pressSection)),{color: "blue"});
 						addEdge(formatSectionId(subFileNr,int(cmd.@statementSection)),formatSectionId(subFileNr,int(cmd.@presentSection)),{style: "bold"});
