@@ -72,6 +72,8 @@
 					subFile=new SPT();
 					subFile.parse(archive.open(subFileNr));
 					subNumberSize=subFile.length.toString().length;
+					
+					beginFile();
 				}
 				
 				subFileName=formatSectionId(subFileNr,sectionNr);
@@ -96,12 +98,25 @@
 			}
 			
 			if(!subFile || sectionNr>=subFile.length) {
+				
+				if(subFile) endFile();
 				sectionNr=0;
 				++subFileNr;
 				subFile=null;
 			}
 			if(subFileNr>=archive.length) return false;
 			return true;
+		}
+		
+		
+		private function beginFile():void {
+			var line:String="subgraph \"cluster_"+padNumber(subFileNr,numberSize)+"\" {\n";
+			outFileStream.writeUTFBytes(line);
+		}
+		
+		private function endFile():void {
+			var line:String="}\n";
+			outFileStream.writeUTFBytes(line);
 		}
 
 	
